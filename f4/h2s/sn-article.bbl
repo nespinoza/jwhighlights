@@ -1,0 +1,616 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\burl{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\bibcommenthead
+
+\bibitem{sing_hubble_2011}
+\bibinfo{author}{Sing, D.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{Hubble {Space} {Telescope} {Transmission} {Spectroscopy} of the {Exoplanet} {HD} 189733b: {High}-altitude atmospheric haze in the optical and near-{UV} with {STIS}}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{416}}~(2), \bibinfo{pages}{1443--1455} (\bibinfo{year}{2011}).
+\newblock \bibinfo{note}{ArXiv: 1103.0026}.
+
+\bibitem{deming_strong_2006}
+\bibinfo{author}{Deming, D.}, \bibinfo{author}{Harrington, J.}, \bibinfo{author}{Seager, S.} \& \bibinfo{author}{Richardson, L.~J.}
+\newblock \bibinfo{title}{Strong {Infrared} {Emission} from the {Extrasolar} {Planet} {HD} 189733b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{644}}~(1), \bibinfo{pages}{560--564} (\bibinfo{year}{2006}).
+
+\bibitem{knutson_multiwavelength_2008}
+\bibinfo{author}{Knutson, H.~A.} \emph{et~al.}
+\newblock \bibinfo{title}{{MULTIWAVELENGTH} {CONSTRAINTS} {ON} {THE} {DAY}–{NIGHT} {CIRCULATION} {PATTERNS} {OF} {HD} 189733b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{690}}~(1), \bibinfo{pages}{822} (\bibinfo{year}{2008}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{fortney_unified_2008}
+\bibinfo{author}{Fortney, J.}, \bibinfo{author}{Lodders, K.}, \bibinfo{author}{Marley, M.} \& \bibinfo{author}{Freedman, R.}
+\newblock \bibinfo{title}{A {Unified} {Theory} for the {Atmospheres} of the {Hot} and {Very} {Hot} {Jupiters}: {Two} {Classes} of {Irradiated} {Atmospheres}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{678}}~(2), \bibinfo{pages}{1419--1435} (\bibinfo{year}{2008}).
+
+\bibitem{moses_disequilibrium_2011}
+\bibinfo{author}{Moses, J.~I.} \emph{et~al.}
+\newblock \bibinfo{title}{{DISEQUILIBRIUM} {CARBON}, {OXYGEN}, {AND} {NITROGEN} {CHEMISTRY} {IN} {THE} {ATMOSPHERES} {OF} {HD} 189733b {AND} {HD} 209458b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{737}}~(1), \bibinfo{pages}{15} (\bibinfo{year}{2011}).
+
+\bibitem{tsai_vulcan_2017}
+\bibinfo{author}{Tsai, S.-M.} \emph{et~al.}
+\newblock \bibinfo{title}{{VULCAN} : {An} {Open}-source, {Validated} {Chemical} {Kinetics} {Python} {Code} for {Exoplanetary} {Atmospheres}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Supplement Series}} \textbf{\bibinfo{volume}{228}}~(2), \bibinfo{pages}{20} (\bibinfo{year}{2017}).
+
+\bibitem{line_influence_2016}
+\bibinfo{author}{Line, M.~R.} \& \bibinfo{author}{Parmentier, V.}
+\newblock \bibinfo{title}{The {Influence} of {Non}-{Uniform} {Cloud} {Cover} on {Transit} {Transmission} {Spectra}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{820}}~(1), \bibinfo{pages}{78} (\bibinfo{year}{2016}).
+\newblock \bibinfo{note}{ArXiv: 1511.09443}.
+
+\bibitem{showman_atmospheric_2009}
+\bibinfo{author}{Showman, A.~P.} \emph{et~al.}
+\newblock \bibinfo{title}{Atmospheric circulation of hot {Jupiters}: coupled radiative-dynamical general circulation model simulations of {HD} 189733b and {HD} 209458b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{699}}~(1), \bibinfo{pages}{564--584} (\bibinfo{year}{2009}).
+
+\bibitem{lampon_modelling_2021}
+\bibinfo{author}{Lampón, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Modelling the {He} {I} triplet absorption at 10 830 Å in the atmospheres of {HD} 189733 b and {GJ} 3470 b}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{647}}, \bibinfo{pages}{A129} (\bibinfo{year}{2021}).
+
+\bibitem{zhang_platon_2020}
+\bibinfo{author}{Zhang, M.} \emph{et~al.}
+\newblock \bibinfo{title}{{PLATON} {II}: {New} {Capabilities} {And} {A} {Comprehensive} {Retrieval} on {HD} 189733b {Transit} and {Eclipse} {Data}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{899}}~(1), \bibinfo{pages}{27} (\bibinfo{year}{2020}).
+\newblock \bibinfo{note}{ArXiv: 2004.09513}.
+
+\bibitem{line_systematic_2014}
+\bibinfo{author}{Line, M.~R.}, \bibinfo{author}{Knutson, H.}, \bibinfo{author}{Wolf, A.~S.} \& \bibinfo{author}{Yung, Y.~L.}
+\newblock \bibinfo{title}{A systematic retrieval analysis of secondary eclipse spectra. {II}. a uniform analysis of nine planets and their {C} to {O} ratios}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{783}}~(2), \bibinfo{pages}{70} (\bibinfo{year}{2014}).
+
+\bibitem{birkby_detection_2013}
+\bibinfo{author}{Birkby, J.~L.} \emph{et~al.}
+\newblock \bibinfo{title}{Detection of water absorption in the day side atmosphere of {HD} 189733 b using ground-based high-resolution spectroscopy at 3.2 $\mu$m}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society: Letters}} \textbf{\bibinfo{volume}{436}}~(1), \bibinfo{pages}{L35--L39} (\bibinfo{year}{2013}).
+
+\bibitem{mccullough_water_2014}
+\bibinfo{author}{McCullough, P.~R.}, \bibinfo{author}{Crouzet, N.}, \bibinfo{author}{Deming, D.} \& \bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{Water vapor in the spectrum of the extrasolar planet {HD} 189733b. {I}. {The} transit}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \bibinfo{pages}{11} (\bibinfo{year}{2014}).
+
+\bibitem{swain_presence_2008}
+\bibinfo{author}{Swain, M.~R.}, \bibinfo{author}{Vasisht, G.} \& \bibinfo{author}{Tinetti, G.}
+\newblock \bibinfo{title}{The presence of methane in the atmosphere of an extrasolar planet}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{452}}~(7185), \bibinfo{pages}{329--331} (\bibinfo{year}{2008}).
+\newblock \bibinfo{note}{Number: 7185 Publisher: Nature Publishing Group}.
+
+\bibitem{swain_molecular_2009}
+\bibinfo{author}{Swain, M.~R.} \emph{et~al.}
+\newblock \bibinfo{title}{{MOLECULAR} {SIGNATURES} {IN} {THE} {NEAR}-{INFRARED} {DAYSIDE} {SPECTRUM} {OF} {HD} 189733b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{690}}~(2), \bibinfo{pages}{L114--L117} (\bibinfo{year}{2009}).
+
+\bibitem{brogi_rotation_2016}
+\bibinfo{author}{Brogi, M.} \emph{et~al.}
+\newblock \bibinfo{title}{{ROTATION} {AND} {WINDS} {OF} {EXOPLANET} {HD} 189733 b {MEASURED} {WITH} {HIGH}-{DISPERSION} {TRANSMISSION} {SPECTROSCOPY}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{817}}~(2), \bibinfo{pages}{106} (\bibinfo{year}{2016}).
+
+\bibitem{crouzet_water_2014}
+\bibinfo{author}{Crouzet, N.}, \bibinfo{author}{McCullough, P.~R.}, \bibinfo{author}{Deming, D.} \& \bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{Water vapor in the spectrum of the extrasolar planet {HD} 189733b: 2. {The} eclipse}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{795}}~(2), \bibinfo{pages}{166} (\bibinfo{year}{2014}).
+\newblock \bibinfo{note}{ArXiv:1409.4000 [astro-ph]}.
+
+\bibitem{mordasini_imprint_2016}
+\bibinfo{author}{Mordasini, C.}, \bibinfo{author}{van Boekel, R.}, \bibinfo{author}{Mollière, P.}, \bibinfo{author}{Henning, T.} \& \bibinfo{author}{Benneke, B.}
+\newblock \bibinfo{title}{The imprint of exoplanet formation history on observable present-day spectra of hot {Jupiters}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{832}}~(1), \bibinfo{pages}{41} (\bibinfo{year}{2016}).
+\newblock \bibinfo{note}{ArXiv:1609.03019 [astro-ph]}.
+
+\bibitem{madhusudhan_h2o_2014}
+\bibinfo{author}{Madhusudhan, N.}, \bibinfo{author}{Crouzet, N.}, \bibinfo{author}{McCullough, P.~R.}, \bibinfo{author}{Deming, D.} \& \bibinfo{author}{Hedges, C.}
+\newblock \bibinfo{title}{H$_{\textrm{2}}${O} abundances in the atmospheres of three hot {Jupiters}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{791}}~(1), \bibinfo{pages}{L9} (\bibinfo{year}{2014}).
+
+\bibitem{brogi_retrieving_2019}
+\bibinfo{author}{Brogi, M.} \& \bibinfo{author}{Line, M.~R.}
+\newblock \bibinfo{title}{Retrieving {Temperatures} and {Abundances} of {Exoplanet} {Atmospheres} with {High}-resolution {Cross}-correlation {Spectroscopy}}.
+\newblock \emph{\bibinfo{journal}{The Astronomical Journal}} \textbf{\bibinfo{volume}{157}}~(3), \bibinfo{pages}{114} (\bibinfo{year}{2019}).
+
+\bibitem{fisher_retrieval_2018}
+\bibinfo{author}{Fisher, C.} \& \bibinfo{author}{Heng, K.}
+\newblock \bibinfo{title}{Retrieval analysis of 38 {WFC3} transmission spectra and resolution of the normalization degeneracy}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{481}}~(4), \bibinfo{pages}{4698--4727} (\bibinfo{year}{2018}).
+
+\bibitem{finnerty_atmospheric_2023}
+\bibinfo{author}{Finnerty, L.} \emph{et~al.}
+\newblock \bibinfo{title}{Atmospheric metallicity and {C}/{O} of {HD} 189733 b from high-resolution spectroscopy} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{http://arxiv.org/abs/2312.00141}.
+\newblock \bibinfo{note}{ArXiv:2312.00141 [astro-ph]}.
+
+\bibitem{crossfield_volatile--sulfur_2023}
+\bibinfo{author}{Crossfield, I. J.~M.}
+\newblock \bibinfo{title}{Volatile-to-sulfur {Ratios} {Can} {Recover} a {Gas} {Giant}’s {Accretion} {History}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Letters}} \textbf{\bibinfo{volume}{952}}~(1), \bibinfo{pages}{L18} (\bibinfo{year}{2023}).
+
+\bibitem{ahrer_early_2022}
+\bibinfo{author}{Ahrer, E.-M.} \emph{et~al.}
+\newblock \bibinfo{title}{Early {Release} {Science} of the exoplanet {WASP}-39b with {JWST} {NIRCam}} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{http://arxiv.org/abs/2211.10489}.
+\newblock \bibinfo{note}{ArXiv:2211.10489 [astro-ph]}.
+
+\bibitem{bean_high_2023}
+\bibinfo{author}{Bean, J.~L.} \emph{et~al.}
+\newblock \bibinfo{title}{High atmospheric metal enrichment for a {Saturn}-mass planet}.
+\newblock \emph{\bibinfo{journal}{Nature}} \bibinfo{pages}{1--2} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{Publisher: Nature Publishing Group}.
+
+\bibitem{fu_water_2022}
+\bibinfo{author}{Fu, G.} \emph{et~al.}
+\newblock \bibinfo{title}{Water and an {Escaping} {Helium} {Tail} {Detected} in the {Hazy} and {Methane}-depleted {Atmosphere} of {HAT}-{P}-18b from {JWST} {NIRISS}/{SOSS}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Letters}} \textbf{\bibinfo{volume}{940}}~(2), \bibinfo{pages}{L35} (\bibinfo{year}{2022}).
+
+\bibitem{rackham_transit_2018}
+\bibinfo{author}{Rackham, B.~V.}, \bibinfo{author}{Apai, D.} \& \bibinfo{author}{Giampapa, M.~S.}
+\newblock \bibinfo{title}{The {Transit} {Light} {Source} {Effect}: {False} {Spectral} {Features} and {Incorrect} {Densities} for {M}-dwarf {Transiting} {Planets}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{853}}~(2), \bibinfo{pages}{122} (\bibinfo{year}{2018}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{pont_prevalence_2013}
+\bibinfo{author}{Pont, F.} \emph{et~al.}
+\newblock \bibinfo{title}{The prevalence of dust on the exoplanet {HD} 189733b from {Hubble} and {Spitzer} observations}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{432}}~(4), \bibinfo{pages}{2917--2944} (\bibinfo{year}{2013}).
+
+\bibitem{kipping_nightside_2010}
+\bibinfo{author}{Kipping, D.~M.} \& \bibinfo{author}{Tinetti, G.}
+\newblock \bibinfo{title}{Nightside pollution of exoplanet transit depths: {Nightside} pollution of exoplanet transits}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{407}}~(4), \bibinfo{pages}{2589--2598} (\bibinfo{year}{2010}).
+
+\bibitem{komacek_temporal_2019}
+\bibinfo{author}{Komacek, T.~D.} \& \bibinfo{author}{Showman, A.~P.}
+\newblock \bibinfo{title}{Temporal {Variability} in {Hot} {Jupiter} {Atmospheres}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{888}}~(1), \bibinfo{pages}{2} (\bibinfo{year}{2019}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{burrows_spectra_2014}
+\bibinfo{author}{Burrows, A.}
+\newblock \bibinfo{title}{Spectra as {Windows} into {Exoplanet} {Atmospheres}}.
+\newblock \emph{\bibinfo{journal}{Proceedings of the National Academy of Sciences}} \textbf{\bibinfo{volume}{111}}~(35), \bibinfo{pages}{12601--12609} (\bibinfo{year}{2014}).
+\newblock \bibinfo{note}{ArXiv: 1312.2009}.
+
+\bibitem{madhusudhan_atmospheric_2018}
+\bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{ in \textit{Atmospheric {Retrieval} of {Exoplanets}}}  \bibinfo{pages}{2153--2182} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{http://arxiv.org/abs/1808.04824}.
+\newblock \bibinfo{note}{ArXiv:1808.04824 [astro-ph]}.
+
+\bibitem{line_systematic_2013}
+\bibinfo{author}{Line, M.~R.} \emph{et~al.}
+\newblock \bibinfo{title}{A {Systematic} {Retrieval} {Analysis} of {Secondary} {Eclipse} {Spectra} {I}: {A} {Comparison} of {Atmospheric} {Retrieval} {Techniques}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{775}}~(2), \bibinfo{pages}{137} (\bibinfo{year}{2013}).
+\newblock \bibinfo{note}{ArXiv: 1304.5561}.
+
+\bibitem{brewer_co_2016}
+\bibinfo{author}{Brewer, J.~M.} \& \bibinfo{author}{Fischer, D.~A.}
+\newblock \bibinfo{title}{C/{O} {AND} {Mg}/{Si} {RATIOS} {OF} {STARS} {IN} {THE} {SOLAR} {NEIGHBORHOOD}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{831}}~(1), \bibinfo{pages}{20} (\bibinfo{year}{2016}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{atreya_origin_2016}
+\bibinfo{author}{Atreya, S.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{The {Origin} and {Evolution} of {Saturn}, with {Exoplanet} {Perspective}} (\bibinfo{year}{2016}).
+\newblock \urlprefix\url{http://arxiv.org/abs/1606.04510}.
+\newblock \bibinfo{note}{ArXiv:1606.04510 [astro-ph]}.
+
+\bibitem{li_water_2020}
+\bibinfo{author}{Li, C.} \emph{et~al.}
+\newblock \bibinfo{title}{The water abundance in {Jupiter}’s equatorial zone}.
+\newblock \emph{\bibinfo{journal}{Nature Astronomy}} \textbf{\bibinfo{volume}{4}}~(6), \bibinfo{pages}{609--616} (\bibinfo{year}{2020}).
+\newblock \bibinfo{note}{Number: 6 Publisher: Nature Publishing Group}.
+
+\bibitem{parmentier_non-grey_2014}
+\bibinfo{author}{Parmentier, V.} \& \bibinfo{author}{Guillot, T.}
+\newblock \bibinfo{title}{A non-grey analytical model for irradiated atmospheres: {I}. {Derivation}}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{562}}, \bibinfo{pages}{A133} (\bibinfo{year}{2014}).
+
+\bibitem{tsai_photochemically_2023}
+\bibinfo{author}{Tsai, S.-M.} \emph{et~al.}
+\newblock \bibinfo{title}{Photochemically produced {SO2} in the atmosphere of {WASP}-39b}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{617}}~(7961), \bibinfo{pages}{483--487} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{Number: 7961 Publisher: Nature Publishing Group}.
+
+\bibitem{polman_h_2023}
+\bibinfo{author}{Polman, J.}, \bibinfo{author}{Waters, L. B. F.~M.}, \bibinfo{author}{Min, M.}, \bibinfo{author}{Miguel, Y.} \& \bibinfo{author}{Khorshid, N.}
+\newblock \bibinfo{title}{H $_{\textrm{2}}$ {S} and {SO} $_{\textrm{2}}$ detectability in hot {Jupiters}: {Sulphur} species as indicators of metallicity and {C}/{O} ratio}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{670}}, \bibinfo{pages}{A161} (\bibinfo{year}{2023}).
+
+\bibitem{powell_sulfur_2024}
+\bibinfo{author}{Powell, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Sulfur dioxide in the mid-infrared transmission spectrum of {WASP}-39b}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{626}}~(8001), \bibinfo{pages}{979--983} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{Publisher: Nature Publishing Group}.
+
+\bibitem{lee_mini-chemical_2023}
+\bibinfo{author}{Lee, E. K.~H.}, \bibinfo{author}{Tsai, S.-M.}, \bibinfo{author}{Hammond, M.} \& \bibinfo{author}{Tan, X.}
+\newblock \bibinfo{title}{A mini-chemical scheme with net reactions for {3D} general circulation models - {II}. {3D} thermochemical modelling of {WASP}-39b and {HD} 189733b}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{672}}, \bibinfo{pages}{A110} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{Publisher: EDP Sciences}.
+
+\bibitem{oberg_effects_2011}
+\bibinfo{author}{Oberg, K.~I.}, \bibinfo{author}{Murray-Clay, R.} \& \bibinfo{author}{Bergin, E.~A.}
+\newblock \bibinfo{title}{The effects of snowlines on {C}/{O} in planetary atmospheres}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{743}}~(1), \bibinfo{pages}{L16} (\bibinfo{year}{2011}).
+
+\bibitem{madhusudhan_co_2012}
+\bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{C/{O} ratio as a dimension for characterizing exoplanetary atmospheres}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{758}}~(1), \bibinfo{pages}{36} (\bibinfo{year}{2012}).
+
+\bibitem{schlawin_jwst_2020}
+\bibinfo{author}{Schlawin, E.} \emph{et~al.}
+\newblock \bibinfo{title}{{JWST} {Noise} {Floor}. {I}. {Random} {Error} {Sources} in {JWST} {NIRCam} {Time} {Series}}.
+\newblock \emph{\bibinfo{journal}{The Astronomical Journal}} \textbf{\bibinfo{volume}{160}}~(5), \bibinfo{pages}{231} (\bibinfo{year}{2020}).
+
+\bibitem{kreidberg_batman_2015}
+\bibinfo{author}{Kreidberg, L.}
+\newblock \bibinfo{title}{batman: {BAsic} {Transit} {Model} {cAlculatioN} in {Python}}.
+\newblock \emph{\bibinfo{journal}{Publications of the Astronomical Society of the Pacific}} \textbf{\bibinfo{volume}{127}}~(957), \bibinfo{pages}{1161} (\bibinfo{year}{2015}).
+
+\bibitem{foreman-mackey_emcee_2013}
+\bibinfo{author}{Foreman-Mackey, D.}, \bibinfo{author}{Hogg, D.~W.}, \bibinfo{author}{Lang, D.} \& \bibinfo{author}{Goodman, J.}
+\newblock \bibinfo{title}{emcee: {The} {MCMC} {Hammer}}.
+\newblock \emph{\bibinfo{journal}{Publications of the Astronomical Society of the Pacific}} \textbf{\bibinfo{volume}{125}}~(925), \bibinfo{pages}{306--312} (\bibinfo{year}{2013}).
+\newblock \bibinfo{note}{ArXiv: 1202.3665}.
+
+\bibitem{magic_stagger-grid_2015}
+\bibinfo{author}{Magic, Z.}, \bibinfo{author}{Chiavassa, A.}, \bibinfo{author}{Collet, R.} \& \bibinfo{author}{Asplund, M.}
+\newblock \bibinfo{title}{The {Stagger}-grid: {A} grid of {3D} stellar atmosphere models: {IV}. {Limb} darkening coefficients}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{573}}, \bibinfo{pages}{A90} (\bibinfo{year}{2015}).
+
+\bibitem{grant_exo-ticexotic-ld_2022}
+\bibinfo{author}{Grant, D.} \& \bibinfo{author}{Wakeford, H.~R., Hannah}.
+\newblock \bibinfo{title}{Exo-{TiC}/{ExoTiC}-{LD}: {ExoTiC}-{LD} v3.0.0} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{https://doi.org/10.5281/zenodo.7437681}.
+
+\bibitem{ahrer_early_2022}
+\bibinfo{author}{Ahrer, E.-M.} \emph{et~al.}
+\newblock \bibinfo{title}{Early {Release} {Science} of the exoplanet {WASP}-39b with {JWST} {NIRCam}} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{http://arxiv.org/abs/2211.10489}.
+\newblock \bibinfo{note}{ArXiv:2211.10489 [astro-ph]}.
+
+\bibitem{agol_climate_2010}
+\bibinfo{author}{Agol, E.} \emph{et~al.}
+\newblock \bibinfo{title}{{THE} {CLIMATE} {OF} {HD} 189733b {FROM} {FOURTEEN} {TRANSITS} {AND} {ECLIPSES} {MEASURED} {BY} \textit{{SPITZER}}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{721}}~(2), \bibinfo{pages}{1861--1877} (\bibinfo{year}{2010}).
+
+\bibitem{sing_hubble_2011}
+\bibinfo{author}{Sing, D.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{Hubble {Space} {Telescope} {Transmission} {Spectroscopy} of the {Exoplanet} {HD} 189733b: {High}-altitude atmospheric haze in the optical and near-{UV} with {STIS}}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{416}}~(2), \bibinfo{pages}{1443--1455} (\bibinfo{year}{2011}).
+\newblock \bibinfo{note}{ArXiv: 1103.0026}.
+
+\bibitem{fu_water_2022}
+\bibinfo{author}{Fu, G.} \emph{et~al.}
+\newblock \bibinfo{title}{Water and an {Escaping} {Helium} {Tail} {Detected} in the {Hazy} and {Methane}-depleted {Atmosphere} of {HAT}-{P}-18b from {JWST} {NIRISS}/{SOSS}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Letters}} \textbf{\bibinfo{volume}{940}}~(2), \bibinfo{pages}{L35} (\bibinfo{year}{2022}).
+
+\bibitem{arcangeli_new_2021}
+\bibinfo{author}{Arcangeli, J.}, \bibinfo{author}{Désert, J.-M.}, \bibinfo{author}{Parmentier, V.}, \bibinfo{author}{Tsai, S.-M.} \& \bibinfo{author}{Stevenson, K.~B.}
+\newblock \bibinfo{title}{A new approach to spectroscopic phase curves: {The} emission spectrum of {WASP}-12b observed in quadrature with {HST}/{WFC3}}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{646}}, \bibinfo{pages}{A94} (\bibinfo{year}{2021}).
+
+\bibitem{mikal-evans_diurnal_2022}
+\bibinfo{author}{Mikal-Evans, T.} \emph{et~al.}
+\newblock \bibinfo{title}{Diurnal variations in the stratosphere of the ultrahot giant exoplanet {WASP}-121b}.
+\newblock \emph{\bibinfo{journal}{Nature Astronomy}}  (\bibinfo{year}{2022}).
+
+\bibitem{berta_flat_2012}
+\bibinfo{author}{Berta, Z.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{{THE} {FLAT} {TRANSMISSION} {SPECTRUM} {OF} {THE} {SUPER}-{EARTH} {GJ1214b} {FROM} {WIDE} {FIELD} {CAMERA} 3 {ON} {THE} \textit{{HUBBLE} {SPACE} {TELESCOPE}}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{747}}~(1), \bibinfo{pages}{35} (\bibinfo{year}{2012}).
+
+\bibitem{mandel_analytic_2002}
+\bibinfo{author}{Mandel, K.} \& \bibinfo{author}{Agol, E.}
+\newblock \bibinfo{title}{Analytic {Light} {Curves} for {Planetary} {Transit} {Searches}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{580}}~(2), \bibinfo{pages}{L171--L175} (\bibinfo{year}{2002}).
+
+\bibitem{carter_empirical_2010}
+\bibinfo{author}{Carter, J.~A.} \& \bibinfo{author}{Winn, J.~N.}
+\newblock \bibinfo{title}{Empirical {Constraints} on the {Oblateness} of an {Exoplanet}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{709}}~(2), \bibinfo{pages}{1219--1229} (\bibinfo{year}{2010}).
+\newblock \bibinfo{note}{ArXiv:0912.1594 [astro-ph]}.
+
+\bibitem{deming_strong_2006}
+\bibinfo{author}{Deming, D.}, \bibinfo{author}{Harrington, J.}, \bibinfo{author}{Seager, S.} \& \bibinfo{author}{Richardson, L.~J.}
+\newblock \bibinfo{title}{Strong {Infrared} {Emission} from the {Extrasolar} {Planet} {HD} 189733b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{644}}~(1), \bibinfo{pages}{560--564} (\bibinfo{year}{2006}).
+
+\bibitem{kempton_reflective_2023}
+\bibinfo{author}{Kempton, E. M.-R.} \emph{et~al.}
+\newblock \bibinfo{title}{A reflective, metal-rich atmosphere for {GJ} 1214b from its {JWST} phase curve}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{620}}~(7972), \bibinfo{pages}{67--71} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{ArXiv:2305.06240 [astro-ph]}.
+
+\bibitem{bell_eureka_2022}
+\bibinfo{author}{Bell, T.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{Eureka!: {An} {End}-to-{End} {Pipeline} for {JWST} {Time}-{Series} {Observations}}.
+\newblock \emph{\bibinfo{journal}{Journal of Open Source Software}} \textbf{\bibinfo{volume}{7}}~(79), \bibinfo{pages}{4503} (\bibinfo{year}{2022}).
+\newblock \bibinfo{note}{ArXiv:2207.03585 [astro-ph]}.
+
+\bibitem{skilling_nested_2006}
+\bibinfo{author}{Skilling, J.}
+\newblock \bibinfo{title}{Nested sampling for general {Bayesian} computation}.
+\newblock \emph{\bibinfo{journal}{Bayesian Analysis}} \textbf{\bibinfo{volume}{1}}~(4), \bibinfo{pages}{833--859} (\bibinfo{year}{2006}).
+\newblock \bibinfo{note}{Publisher: International Society for Bayesian Analysis}.
+
+\bibitem{madhusudhan_atmospheric_2018}
+\bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{ in \textit{Atmospheric {Retrieval} of {Exoplanets}}}  \bibinfo{pages}{2153--2182} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{http://arxiv.org/abs/1808.04824}.
+\newblock \bibinfo{note}{ArXiv:1808.04824 [astro-ph]}.
+
+\bibitem{welbanks_application_2023}
+\bibinfo{author}{Welbanks, L.}, \bibinfo{author}{McGill, P.}, \bibinfo{author}{Line, M.} \& \bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{On the {Application} of {Bayesian} {Leave}-one-out {Cross}-validation to {Exoplanet} {Atmospheric} {Analysis}}.
+\newblock \emph{\bibinfo{journal}{The Astronomical Journal}} \textbf{\bibinfo{volume}{165}}~(3), \bibinfo{pages}{112} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{trotta_bayes_2008}
+\bibinfo{author}{Trotta, R.}
+\newblock \bibinfo{title}{Bayes in the sky: {Bayesian} inference and model selection in cosmology}.
+\newblock \emph{\bibinfo{journal}{Contemporary Physics}} \textbf{\bibinfo{volume}{49}}~(2), \bibinfo{pages}{71--104} (\bibinfo{year}{2008}).
+\newblock \bibinfo{note}{ArXiv:0803.4089 [astro-ph]}.
+
+\bibitem{benneke_how_2013}
+\bibinfo{author}{Benneke, B.} \& \bibinfo{author}{Seager, S.}
+\newblock \bibinfo{title}{{HOW} {TO} {DISTINGUISH} {BETWEEN} {CLOUDY} {MINI}-{NEPTUNES} {AND} {WATER}/{VOLATILE}-{DOMINATED} {SUPER}-{EARTHS}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{778}}~(2), \bibinfo{pages}{153} (\bibinfo{year}{2013}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{welbanks_aurora_2021}
+\bibinfo{author}{Welbanks, L.} \& \bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{Aurora: {A} {Generalized} {Retrieval} {Framework} for {Exoplanetary} {Transmission} {Spectra}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{913}}~(2), \bibinfo{pages}{114} (\bibinfo{year}{2021}).
+
+\bibitem{fortney_framework_2013}
+\bibinfo{author}{Fortney, J.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{A {Framework} for {Characterizing} the {Atmospheres} of {Low}-{Mass} {Low}-{Density} {Transiting} {Planets}}.
+\newblock \emph{\bibinfo{journal}{arXiv:1306.4329 [astro-ph]}}  (\bibinfo{year}{2013}).
+\newblock \bibinfo{note}{ArXiv: 1306.4329}.
+
+\bibitem{line_influence_2016}
+\bibinfo{author}{Line, M.~R.} \& \bibinfo{author}{Parmentier, V.}
+\newblock \bibinfo{title}{The {Influence} of {Non}-{Uniform} {Cloud} {Cover} on {Transit} {Transmission} {Spectra}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{820}}~(1), \bibinfo{pages}{78} (\bibinfo{year}{2016}).
+\newblock \bibinfo{note}{ArXiv: 1511.09443}.
+
+\bibitem{heng_theory_2017}
+\bibinfo{author}{Heng, K.} \& \bibinfo{author}{Kitzmann, D.}
+\newblock \bibinfo{title}{The theory of transmission spectra revisited: a semi-analytical method for interpreting {WFC3} data and an unresolved challenge}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{470}}~(3), \bibinfo{pages}{2972--2981} (\bibinfo{year}{2017}).
+
+\bibitem{welbanks_mass-metallicity_2019}
+\bibinfo{author}{Welbanks, L.} \emph{et~al.}
+\newblock \bibinfo{title}{Mass-{Metallicity} {Trends} in {Transiting} {Exoplanets} from {Atmospheric} {Abundances} of {H}\$\_2\${O}, {Na}, and {K}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{887}}~(1), \bibinfo{pages}{L20} (\bibinfo{year}{2019}).
+\newblock \bibinfo{note}{ArXiv: 1912.04904}.
+
+\bibitem{macdonald_why_2020}
+\bibinfo{author}{MacDonald, R.~J.}, \bibinfo{author}{Goyal, J.~M.} \& \bibinfo{author}{Lewis, N.~K.}
+\newblock \bibinfo{title}{Why {Is} it {So} {Cold} in {Here}? {Explaining} the {Cold} {Temperatures} {Retrieved} from {Transmission} {Spectra} of {Exoplanet} {Atmospheres}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{893}}~(2), \bibinfo{pages}{L43} (\bibinfo{year}{2020}).
+
+\bibitem{welbanks_atmospheric_2022}
+\bibinfo{author}{Welbanks, L.} \& \bibinfo{author}{Madhusudhan, N.}
+\newblock \bibinfo{title}{On {Atmospheric} {Retrievals} of {Exoplanets} with {Inhomogeneous} {Terminators}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{933}}~(1), \bibinfo{pages}{79} (\bibinfo{year}{2022}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{benneke_atmospheric_2012}
+\bibinfo{author}{Benneke, B.} \& \bibinfo{author}{Seager, S.}
+\newblock \bibinfo{title}{{ATMOSPHERIC} {RETRIEVAL} {FOR} {SUPER}-{EARTHS}: {UNIQUELY} {CONSTRAINING} {THE} {ATMOSPHERIC} {COMPOSITION} {WITH} {TRANSMISSION} {SPECTROSCOPY}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{753}}~(2), \bibinfo{pages}{100} (\bibinfo{year}{2012}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{guillot_radiative_2010}
+\bibinfo{author}{Guillot, T.}
+\newblock \bibinfo{title}{On the radiative equilibrium of irradiated planetary atmospheres}.
+\newblock \emph{\bibinfo{journal}{Astronomy and Astrophysics}} \textbf{\bibinfo{volume}{520}}, \bibinfo{pages}{A27} (\bibinfo{year}{2010}).
+
+\bibitem{marley_cool_2015}
+\bibinfo{author}{Marley, M.~S.} \& \bibinfo{author}{Robinson, T.~D.}
+\newblock \bibinfo{title}{On the {Cool} {Side}: {Modeling} the {Atmospheres} of {Brown} {Dwarfs} and {Giant} {Planets}}.
+\newblock \emph{\bibinfo{journal}{Annual Review of Astronomy and Astrophysics}} \textbf{\bibinfo{volume}{53}}~(1), \bibinfo{pages}{279--323} (\bibinfo{year}{2015}).
+\newblock \bibinfo{note}{ArXiv:1410.6512 [astro-ph]}.
+
+\bibitem{piskorz_ground-_2018}
+\bibinfo{author}{Piskorz, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Ground- and {Space}-based {Detection} of the {Thermal} {Emission} {Spectrum} of the {Transiting} {Hot} {Jupiter} {KELT}-{2Ab}}.
+\newblock \emph{\bibinfo{journal}{The Astronomical Journal}} \textbf{\bibinfo{volume}{156}}~(3), \bibinfo{pages}{133} (\bibinfo{year}{2018}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{mansfield_unique_2021}
+\bibinfo{author}{Mansfield, M.} \emph{et~al.}
+\newblock \bibinfo{title}{A unique hot {Jupiter} spectral sequence with evidence for compositional diversity}.
+\newblock \emph{\bibinfo{journal}{Nature Astronomy}}  (\bibinfo{year}{2021}).
+\newblock \bibinfo{note}{ArXiv: 2110.11272}.
+
+\bibitem{iyer_sphinx_2023}
+\bibinfo{author}{Iyer, A.~R.}, \bibinfo{author}{Line, M.~R.}, \bibinfo{author}{Muirhead, P.~S.}, \bibinfo{author}{Fortney, J.~J.} \& \bibinfo{author}{Gharib-Nezhad, E.}
+\newblock \bibinfo{title}{The {SPHINX} {M}-dwarf {Spectral} {Grid}. {I}. {Benchmarking} {New} {Model} {Atmospheres} to {Derive} {Fundamental} {M}-dwarf {Properties}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{944}}~(1), \bibinfo{pages}{41} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{tsai_comparative_2021}
+\bibinfo{author}{Tsai, S.-M.} \emph{et~al.}
+\newblock \bibinfo{title}{A {Comparative} {Study} of {Atmospheric} {Chemistry} with {VULCAN}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{923}}~(2), \bibinfo{pages}{264} (\bibinfo{year}{2021}).
+
+\bibitem{tsai_vulcan_2017}
+\bibinfo{author}{Tsai, S.-M.} \emph{et~al.}
+\newblock \bibinfo{title}{{VULCAN} : {An} {Open}-source, {Validated} {Chemical} {Kinetics} {Python} {Code} for {Exoplanetary} {Atmospheres}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Supplement Series}} \textbf{\bibinfo{volume}{228}}~(2), \bibinfo{pages}{20} (\bibinfo{year}{2017}).
+
+\bibitem{tsai_photochemically_2023}
+\bibinfo{author}{Tsai, S.-M.} \emph{et~al.}
+\newblock \bibinfo{title}{Photochemically produced {SO2} in the atmosphere of {WASP}-39b}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{617}}~(7961), \bibinfo{pages}{483--487} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{Number: 7961 Publisher: Nature Publishing Group}.
+
+\bibitem{carter_jwst_2023}
+\bibinfo{author}{Carter, A.~L.} \emph{et~al.}
+\newblock \bibinfo{title}{The {JWST} {Early} {Release} {Science} {Program} for {Direct} {Observations} of {Exoplanetary} {Systems} {I}: {High}-contrast {Imaging} of the {Exoplanet} {HIP} 65426 b from 2 to 16 $\mu$m}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Letters}} \textbf{\bibinfo{volume}{951}}~(1), \bibinfo{pages}{L20} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{husser_new_2013}
+\bibinfo{author}{Husser, T.-O.} \emph{et~al.}
+\newblock \bibinfo{title}{A new extensive library of {PHOENIX} stellar atmospheres and synthetic spectra}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{553}}, \bibinfo{pages}{A6} (\bibinfo{year}{2013}).
+
+\bibitem{lodders_44_2009}
+\bibinfo{author}{Lodders, K.}, \bibinfo{author}{Palme, H.} \& \bibinfo{author}{Gail, H.-P.}
+\newblock \bibinfo{title}{ in \textit{4.4 {Abundances} of the elements in the {Solar} {System}}} (ed.\bibinfo{editor}{Trümper, J.}) \emph{\bibinfo{booktitle}{Solar {System}}}, Vol.~\bibinfo{volume}{4B} \bibinfo{pages}{712--770} (\bibinfo{publisher}{Springer Berlin Heidelberg}, \bibinfo{address}{Berlin, Heidelberg}, \bibinfo{year}{2009}).
+\newblock \urlprefix\url{http://materials.springer.com/lb/docs/sm_lbs_978-3-540-88055-4_34}.
+\newblock \bibinfo{note}{Series Title: Landolt-Börnstein - Group VI Astronomy and Astrophysics}.
+
+\bibitem{gordon_computer_1994}
+\bibinfo{author}{Gordon, S.} \& \bibinfo{author}{Mcbride, B.~J.}
+\newblock \bibinfo{title}{Computer program for calculation of complex chemical equilibrium compositions and applications. {Part} 1: {Analysis}} (\bibinfo{year}{1994}).
+\newblock \urlprefix\url{https://ntrs.nasa.gov/citations/19950013764}.
+\newblock \bibinfo{note}{NTRS Author Affiliations: NASA Lewis Research Center NTRS Report/Patent Number: NAS 1.61:1311 NTRS Document ID: 19950013764 NTRS Research Center: Legacy CDMS (CDMS)}.
+
+\bibitem{moses_disequilibrium_2011}
+\bibinfo{author}{Moses, J.~I.} \emph{et~al.}
+\newblock \bibinfo{title}{{DISEQUILIBRIUM} {CARBON}, {OXYGEN}, {AND} {NITROGEN} {CHEMISTRY} {IN} {THE} {ATMOSPHERES} {OF} {HD} 189733b {AND} {HD} 209458b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{737}}~(1), \bibinfo{pages}{15} (\bibinfo{year}{2011}).
+
+\bibitem{thorngren_intrinsic_2019}
+\bibinfo{author}{Thorngren, D.}, \bibinfo{author}{Gao, P.} \& \bibinfo{author}{Fortney, J.~J.}
+\newblock \bibinfo{title}{The {Intrinsic} {Temperature} and {Radiative}–{Convective} {Boundary} {Depth} in the {Atmospheres} of {Hot} {Jupiters}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Letters}} \textbf{\bibinfo{volume}{884}}~(1), \bibinfo{pages}{L6} (\bibinfo{year}{2019}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{karman_update_2019}
+\bibinfo{author}{Karman, T.} \emph{et~al.}
+\newblock \bibinfo{title}{Update of the {HITRAN} collision-induced absorption section}.
+\newblock \emph{\bibinfo{journal}{Icarus}} \textbf{\bibinfo{volume}{328}}, \bibinfo{pages}{160--175} (\bibinfo{year}{2019}).
+
+\bibitem{polyansky_exomol_2018}
+\bibinfo{author}{Polyansky, O.~L.} \emph{et~al.}
+\newblock \bibinfo{title}{{ExoMol} molecular line lists {XXX}: a complete high-accuracy line list for water}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{480}}~(2), \bibinfo{pages}{2597--2608} (\bibinfo{year}{2018}).
+
+\bibitem{huang__reliable_2014}
+\bibinfo{author}{Huang, X.}, \bibinfo{author}{Gamache, R.~R.}, \bibinfo{author}{Freedman, R.~S.}, \bibinfo{author}{Schwenke, D.~W.} \& \bibinfo{author}{Lee, T.~J.}
+\newblock \bibinfo{title}{Reliable infrared line lists for 13 {CO2} isotopologues up to E=18,000cm$^{-1}$ and {1500K}, with line shape parameters}.
+\newblock \emph{\bibinfo{journal}{Journal of Quantitative Spectroscopy and Radiative Transfer}} \textbf{\bibinfo{volume}{147}}, \bibinfo{pages}{134--144} (\bibinfo{year}{2014}).
+
+\bibitem{allard_kh_2016}
+\bibinfo{author}{Allard, N.~F.}, \bibinfo{author}{Spiegelman, F.} \& \bibinfo{author}{Kielkopf, J.~F.}
+\newblock \bibinfo{title}{K–{H} $_{\textrm{2}}$ line shapes for the spectra of cool brown dwarfs}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{589}}, \bibinfo{pages}{A21} (\bibinfo{year}{2016}).
+
+\bibitem{underwood_exomol_2016}
+\bibinfo{author}{Underwood, D.~S.} \emph{et~al.}
+\newblock \bibinfo{title}{{ExoMol} molecular line lists – {XIV}. {The} rotation–vibration spectrum of hot {SO2}}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{459}}~(4), \bibinfo{pages}{3890--3899} (\bibinfo{year}{2016}).
+
+\bibitem{hargreaves_accurate_2020}
+\bibinfo{author}{Hargreaves, R.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{An {Accurate}, {Extensive}, and {Practical} {Line} {List} of {Methane} for the {HITEMP} {Database}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal Supplement Series}} \textbf{\bibinfo{volume}{247}}~(2), \bibinfo{pages}{55} (\bibinfo{year}{2020}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{coles_exomol_2019}
+\bibinfo{author}{Coles, P.~A.}, \bibinfo{author}{Yurchenko, S.~N.} \& \bibinfo{author}{Tennyson, J.}
+\newblock \bibinfo{title}{{ExoMol} molecular line lists – {XXXV}. {A} rotation-vibration line list for hot ammonia}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{490}}~(4), \bibinfo{pages}{4638--4647} (\bibinfo{year}{2019}).
+
+\bibitem{harris_improved_2006}
+\bibinfo{author}{Harris, G.~J.}, \bibinfo{author}{Tennyson, J.}, \bibinfo{author}{Kaminsky, B.~M.}, \bibinfo{author}{Pavlenko, Y.~V.} \& \bibinfo{author}{Jones, H. R.~A.}
+\newblock \bibinfo{title}{Improved {HCN}/{HNC} linelist, model atmospheres and synthetic spectra for {WZ} {Cas}}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{367}}~(1), \bibinfo{pages}{400--406} (\bibinfo{year}{2006}).
+
+\bibitem{chubb_exomol_2020}
+\bibinfo{author}{Chubb, K.~L.}, \bibinfo{author}{Tennyson, J.} \& \bibinfo{author}{Yurchenko, S.~N.}
+\newblock \bibinfo{title}{{ExoMol} molecular line lists – {XXXVII}. {Spectra} of acetylene}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{493}}~(2), \bibinfo{pages}{1531--1545} (\bibinfo{year}{2020}).
+
+\bibitem{azzam_exomol_2016}
+\bibinfo{author}{Azzam, A. A.~A.}, \bibinfo{author}{Tennyson, J.}, \bibinfo{author}{Yurchenko, S.~N.} \& \bibinfo{author}{Naumenko, O.~V.}
+\newblock \bibinfo{title}{{ExoMol} molecular line lists – {XVI}. {The} rotation–vibration spectrum of hot {H2S}}.
+\newblock \emph{\bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}} \textbf{\bibinfo{volume}{460}}~(4), \bibinfo{pages}{4063--4074} (\bibinfo{year}{2016}).
+
+\bibitem{virtanen_scipy_2020}
+\bibinfo{author}{Virtanen, P.} \emph{et~al.}
+\newblock \bibinfo{title}{{SciPy} 1.0: fundamental algorithms for scientific computing in {Python}}.
+\newblock \emph{\bibinfo{journal}{Nature Methods}} \textbf{\bibinfo{volume}{17}}~(3), \bibinfo{pages}{261--272} (\bibinfo{year}{2020}).
+\newblock \bibinfo{note}{Number: 3 Publisher: Nature Publishing Group}.
+
+\bibitem{etangs_rayleigh_2008}
+\bibinfo{author}{Etangs, A. L.~d.}, \bibinfo{author}{Pont, F.}, \bibinfo{author}{Vidal-Madjar, A.} \& \bibinfo{author}{Sing, D.}
+\newblock \bibinfo{title}{Rayleigh scattering in the transit spectrum of {HD} 189733b}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{481}}~(2), \bibinfo{pages}{L83--L86} (\bibinfo{year}{2008}).
+\newblock \bibinfo{note}{Number: 2 Publisher: EDP Sciences}.
+
+\bibitem{fisher_how_2022}
+\bibinfo{author}{Fisher, C.} \& \bibinfo{author}{Heng, K.}
+\newblock \bibinfo{title}{How {Do} {We} {Optimally} {Sample} {Model} {Grids} of {Exoplanet} {Spectra}?}
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{934}}~(1), \bibinfo{pages}{31} (\bibinfo{year}{2022}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{line_systematic_2013}
+\bibinfo{author}{Line, M.~R.} \emph{et~al.}
+\newblock \bibinfo{title}{A {Systematic} {Retrieval} {Analysis} of {Secondary} {Eclipse} {Spectra} {I}: {A} {Comparison} of {Atmospheric} {Retrieval} {Techniques}}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{775}}~(2), \bibinfo{pages}{137} (\bibinfo{year}{2013}).
+\newblock \bibinfo{note}{ArXiv: 1304.5561}.
+
+\bibitem{kreidberg_detection_2015}
+\bibinfo{author}{Kreidberg, L.} \emph{et~al.}
+\newblock \bibinfo{title}{A detection of water in the transmission spectrum of the hot {Jupiter} {WASP}-12b and implications for its atmospheric composition}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{814}}~(1), \bibinfo{pages}{66} (\bibinfo{year}{2015}).
+
+\bibitem{kreidberg_water_2018}
+\bibinfo{author}{Kreidberg, L.}, \bibinfo{author}{Line, M.~R.}, \bibinfo{author}{Thorngren, D.}, \bibinfo{author}{Morley, C.~V.} \& \bibinfo{author}{Stevenson, K.~B.}
+\newblock \bibinfo{title}{Water, {High}-altitude {Condensates}, and {Possible} {Methane} {Depletion} in the {Atmosphere} of the {Warm} {Super}-{Neptune} {WASP}-107b}.
+\newblock \emph{\bibinfo{journal}{The Astrophysical Journal}} \textbf{\bibinfo{volume}{858}}~(1), \bibinfo{pages}{L6} (\bibinfo{year}{2018}).
+
+\bibitem{parmentier_non-grey_2014}
+\bibinfo{author}{Parmentier, V.} \& \bibinfo{author}{Guillot, T.}
+\newblock \bibinfo{title}{A non-grey analytical model for irradiated atmospheres: {I}. {Derivation}}.
+\newblock \emph{\bibinfo{journal}{Astronomy \& Astrophysics}} \textbf{\bibinfo{volume}{562}}, \bibinfo{pages}{A133} (\bibinfo{year}{2014}).
+
+\bibitem{sing_observational_2018}
+\bibinfo{author}{Sing, D.~K.}
+\newblock \bibinfo{title}{Observational {Techniques} {With} {Transiting} {Exoplanetary} {Atmospheres}} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{http://arxiv.org/abs/1804.07357}.
+\newblock \bibinfo{note}{ArXiv:1804.07357 [astro-ph]}.
+
+\bibitem{henry_techniques_1999}
+\bibinfo{author}{Henry, G.~W.}
+\newblock \bibinfo{title}{Techniques for {Automated} {High}‐{Precision} {Photometry} of {Sun}‐like {Stars}}.
+\newblock \emph{\bibinfo{journal}{Publications of the Astronomical Society of the Pacific}} \textbf{\bibinfo{volume}{111}}~(761), \bibinfo{pages}{845} (\bibinfo{year}{1999}).
+\newblock \bibinfo{note}{Publisher: The University of Chicago Press}.
+
+\bibitem{vanicek_further_1971}
+\bibinfo{author}{Vaníček, P.}
+\newblock \bibinfo{title}{Further development and properties of the spectral analysis by least-squares}.
+\newblock \emph{\bibinfo{journal}{Astrophysics and Space Science}} \textbf{\bibinfo{volume}{12}}~(1), \bibinfo{pages}{10--33} (\bibinfo{year}{1971}).
+
+\bibitem{henry_nine_2022}
+\bibinfo{author}{Henry, G.~W.}, \bibinfo{author}{Fekel, F.~C.} \& \bibinfo{author}{Williamson, M.~H.}
+\newblock \bibinfo{title}{Nine {Bright} $\gamma$ {Doradus} {Variables} {Discovered} with {Ground}-based {Photometry}}.
+\newblock \emph{\bibinfo{journal}{The Astronomical Journal}} \textbf{\bibinfo{volume}{163}}~(4), \bibinfo{pages}{180} (\bibinfo{year}{2022}).
+\newblock \bibinfo{note}{Publisher: The American Astronomical Society}.
+
+\bibitem{harris_array_2020}
+\bibinfo{author}{Harris, C.~R.} \emph{et~al.}
+\newblock \bibinfo{title}{Array programming with {NumPy}}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{585}}~(7825), \bibinfo{pages}{357--362} (\bibinfo{year}{2020}).
+\newblock \bibinfo{note}{Publisher: Nature Publishing Group}.
+
+\bibitem{hunter_matplotlib_2007}
+\bibinfo{author}{Hunter, J.~D.}
+\newblock \bibinfo{title}{Matplotlib: {A} {2D} {Graphics} {Environment}}.
+\newblock \emph{\bibinfo{journal}{Computing in Science \& Engineering}} \textbf{\bibinfo{volume}{9}}~(3), \bibinfo{pages}{90--95} (\bibinfo{year}{2007}).
+\newblock \bibinfo{note}{Conference Name: Computing in Science \& Engineering}.
+
+\end{thebibliography}

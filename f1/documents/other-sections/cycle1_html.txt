@@ -1,0 +1,2115 @@
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1433" target="_parent">1433</a></td>
+			<td style="width: 359px;">Physical Properties of the Triply-Lensed z = 11 Galaxy</td>
+			<td style="width: 202px;">PI: Dan Coe</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">11.3</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1567" target="_parent">1567</a></td>
+			<td style="width: 359px;">Early Galaxy Assembly Uncovered with ALMA and JWST: A Remarkably UV and [CII] Bright, Strongly Lensed Sub-L* Galaxy at z=6.072</td>
+			<td style="width: 202px;">PI: Seiji Fujimoto</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">12.3</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1571" target="_parent">1571</a></td>
+			<td style="width: 359px;">PASSAGE&ndash; Parallel Application of Slitless Spectroscopy to Analyze Galaxy Evolution</td>
+			<td style="width: 202px;">PI: Matthew Malkan</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">0/591</td>
+			<td style="width: 157px;">NIRISS/WFSS</td>
+			<td style="width: 107px; text-align: center;">GO, Pure Parallel</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1572" target="_parent">1572</a></td>
+			<td style="width: 359px;">Mapping, Resolving and Penetrating into the Dusty Spiderweb Protocluster with Unique Pa-beta Imaging</td>
+			<td style="width: 202px;">PI: Helmut Dannerbauer<br />
+			Co-PI: Yusei Koyama</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">3.6</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1626" target="_parent">1626</a></td>
+			<td style="width: 359px;">Achieving a Revolutionary Panchromatic View of Early Galaxy Growth through NIRSpec/IFU Observations of 12 Massive z&gt;6.5 Galaxies with ALMA-derived [CII] Redshifts</td>
+			<td style="width: 202px;">PI: Mauro Stefanon</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">14.1</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1635" target="_parent">1635</a></td>
+			<td style="width: 359px;">Galaxy Protoclusters as Drivers of Cosmic Reionization</td>
+			<td style="width: 202px;">PI: Crystal Martin</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">35.2/9.7</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1657" target="_parent">1657</a></td>
+			<td style="width: 359px;">Anchoring z&gt;6 Galaxy Metallicities Using T_e and n_e Diagnostics Enabled by JWST and ALMA Spectroscopy</td>
+			<td style="width: 202px;">PI: Yuichi Harikane<br />
+			Co-PI: Ryan Sanders</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">23.7</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			MIRI/MRS<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1671" target="_parent">1671</a></td>
+			<td style="width: 359px;">Emission Line Galaxies Beyond the Limits of the Hubble UDF: Physical Conditions in Ultra-faint Star Forming Galaxies</td>
+			<td style="width: 202px;">PI: Michael Maseda</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">23.9</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1701" target="_parent">1701</a></td>
+			<td style="width: 359px;">Dissecting the Prototypical Starbursts NGC 253 and M 82 and Their Cool Galactic Winds</td>
+			<td style="width: 202px;">PI: Alberto Bolatto</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">42.8</td>
+			<td style="width: 157px;">MIRI/Imaging<br />
+			MIRI/MRS<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1712" target="_parent">1712</a></td>
+			<td style="width: 359px;">JWST Beholds the Multiple-merger Assembly of the Most Luminous Quasar</td>
+			<td style="width: 202px;">PI: Tanio Diaz-Santos</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">23.3</td>
+			<td style="width: 157px;">MIRI/MRS<br />
+			NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1721" target="_parent">1721</a></td>
+			<td style="width: 359px;">Probing the Interstellar Medium of Galaxies in the Early Universe</td>
+			<td style="width: 202px;">PI: Jeyhan Kartaltepe</td>
+			<td style="width: 94px;">&nbsp;</td>
+			<td style="width: 122px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="width: 107px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1740" target="_parent">1740</a></td>
+			<td style="width: 359px;">H-drop Galaxies: &quot;Rosetta Stones&#39;&#39; at z~13 for Galaxy Formation Studies</td>
+			<td style="width: 202px;">PI: Yuichi Harikane</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">6.6</td>
+			<td style="width: 157px;">NIRSpec/FS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1747" target="_parent">1747</a></td>
+			<td style="width: 359px;">Linking Bright Galaxy Properties to IGM Opacity and Environment in the Early Epoch of Reionization with NIRSpec</td>
+			<td style="width: 202px;">PI: Guido Roberts-Borsani</td>
+			<td style="width: 94px; text-align: center;">6</td>
+			<td style="width: 122px; text-align: center;">25.1</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1758" target="_parent">1758</a></td>
+			<td style="width: 359px;">Confirming a Potential Ultra-Massive Galaxy at z=10.57</td>
+			<td style="width: 202px;">PI: Steven Finkelstein</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">2.6</td>
+			<td style="width: 157px;">NIRSpec/FS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1762" target="_parent">1762</a></td>
+			<td style="width: 359px;">Halfway to the Peak: A Bridge Program To Map Coeval Star Formation and Supermassive Black Hole Growth</td>
+			<td style="width: 202px;">PI: Alexandra Pope<br />
+			Co-PIs: Anna Sajina and Lin Yan</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">24.6</td>
+			<td style="width: 157px;">MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1783" target="_parent">1783</a></td>
+			<td style="width: 359px;">JWST probes Feedback in Emerging extrAgalactic Star clusTers: JWST-FEAST</td>
+			<td style="width: 202px;">PI: Angela Adamo</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">45</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1791" target="_parent">1791</a></td>
+			<td style="width: 359px;">The Early Assembly History of the Most Massive Halo in the Reionization Era</td>
+			<td style="width: 202px;">PI: Justin Spilker</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">6.1</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1810" target="_parent">1810</a></td>
+			<td style="width: 359px;">The Stellar and Gas Content of Galaxies at Cosmic Noon</td>
+			<td style="width: 202px;">PI: Sirio Belli</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">46/35.7</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1827" target="_parent">1827</a></td>
+			<td style="width: 359px;">NIRSpec Integral Field Spectroscopy of LyC-Leaking Galaxies</td>
+			<td style="width: 202px;">PI: Koki Kakiichi</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">24.1</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1837" target="_parent">1837</a></td>
+			<td style="width: 359px;">PRIMER: Public Release IMaging for Extragalactic Research</td>
+			<td style="width: 202px;">PI: James Dunlop</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">187.2/94.97</td>
+			<td style="width: 157px;">MIRI/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO, Treasury</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1840" target="_parent">1840</a></td>
+			<td style="width: 359px;">ALMA [OIII]88um Emitters. Signpost of Early Stellar Buildup and Reionization in the Universe</td>
+			<td style="width: 202px;">PI: Javier Alvarez-Marquez<br />
+			Co-PI: Takuya Hashimoto</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">33.9</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1864" target="_parent">1864</a></td>
+			<td style="width: 359px;">The Formation of a Primeval Hyperstarburst Galaxy at z~6</td>
+			<td style="width: 202px;">PI: Kedar Phadke</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">18.9</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			MIRI/Imaging<br />
+			NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1865" target="_parent">1865</a></td>
+			<td style="width: 359px;">Witnessing the Circumgalactic Medium in Formation: The Warm Dust and Molecular Gas in a Record-Breaking Galactic Wind</td>
+			<td style="width: 202px;">PI: Sylvain Veilleux</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">8.3</td>
+			<td style="width: 157px;">MIRI/Imaging<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1869" target="_parent">1869</a></td>
+			<td style="width: 359px;">LyC22 - Deep Spectroscopic Insights on Star-forming Galaxies 2.2 Gyr after the Big Bang</td>
+			<td style="width: 202px;">PI: Daniel Schaerer</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">73.5</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1879" target="_parent">1879</a></td>
+			<td style="width: 359px;">Opening the Era of Direct Metallicity Measurements in High Redshift Galaxies</td>
+			<td style="width: 202px;">PI: Mirko Curti</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">54.2</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1883" target="_parent">1883</a></td>
+			<td style="width: 359px;">A Modern Theory for Strong Line Metallicity Indicators in the Era of JWST</td>
+			<td style="width: 202px;">PI: Desika Narayanan</td>
+			<td style="width: 94px;">&nbsp;</td>
+			<td style="width: 122px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="width: 107px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1893" target="_parent">1893</a></td>
+			<td style="width: 359px;">Galaxy Assembly at z &gt; 6: Unraveling the Origin of the Spatial Offset between the UV and FIR Emission</td>
+			<td style="width: 202px;">PI: Stefano Carniani</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">21.3</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1895" target="_parent">1895</a></td>
+			<td style="width: 359px;">FRESCO: The First Reionization Epoch Spectroscopic COmplete Survey</td>
+			<td style="width: 202px;">PI: Pascal Oesch</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">53.1</td>
+			<td style="width: 157px;">NIRCam/WFSS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1914" target="_parent">1914</a></td>
+			<td style="width: 359px;">The AURORA Survey: First Direct Metallicity Calibrations at High Redshift</td>
+			<td style="width: 202px;">PI: Alice Shapley<br />
+			Co-PI: Ryan Sanders</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">63.8</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1933" target="_parent">1933</a></td>
+			<td style="width: 359px;">Anatomy of an Ionized Bubble at z=6.6: Which Galaxies Reionized the Universe?</td>
+			<td style="width: 202px;">PI: Jorryt Matthee<br />
+			Co-PI: Rohan Naidu</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">18.2</td>
+			<td style="width: 157px;">NIRCam/WFSS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1963" target="_parent">1963</a></td>
+			<td style="width: 359px;">UDF Medium Band Survey: Using H-alpha Emission To Reconstruct Ly-alpha Escape during the Epoch of Reionization</td>
+			<td style="width: 202px;">PI: Christina Williams<br />
+			Co-PIs: Michael Maseda and Sandro Tacchella</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">20.4/15.5</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=1991" target="_parent">1991</a></td>
+			<td style="width: 359px;">Lifting the Veil on the Most Obscured Galaxies in the Universe</td>
+			<td style="width: 202px;">PI: George Privon</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">8.5</td>
+			<td style="width: 157px;">MIRI/MRS<br />
+			NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2079" target="_parent">2079</a></td>
+			<td style="width: 359px;">The Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey: Feedback in Low-Mass Galaxies from Cosmic Dawn to Dusk</td>
+			<td style="width: 202px;">PI: Steven Finkelstein<br />
+			Co-PIs: Casey Papovich and Norbert Pirzkal</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">121.7/96.4</td>
+			<td style="width: 157px;">NIRISS/WFSS</td>
+			<td style="width: 107px; text-align: center;">GO,&nbsp;Treasury</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2110" target="_parent">2110</a></td>
+			<td style="width: 359px;">Ultra-deep Continuum Spectroscopy of Quiescent Galaxies at 1.0&lt;z&lt;2.5: Chemical Abundances and Stellar Kinematics</td>
+			<td style="width: 202px;">PI: Mariska Kriek<br />
+			Co-PI: Aliza Beverage</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">22.9</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2123" target="_parent">2123</a></td>
+			<td style="width: 359px;">A Pathfinder for JWST Spectroscopy: Deep High Spectral Resolution Maps of Galaxies over 1&lt;z&lt;6</td>
+			<td style="width: 202px;">PI: Susan Kassin</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">74.3</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2130" target="_parent">2130</a></td>
+			<td style="width: 359px;">Embedded Star Formation in Nearby Galaxies: The Advent of Parsec Scale Studies beyond the Magellanic Clouds</td>
+			<td style="width: 202px;">PI: Janice Lee</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">27.9</td>
+			<td style="width: 157px;">MIRI/Imaging<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2136" target="_parent">2136</a></td>
+			<td style="width: 359px;">The Emergence of the Modern Hubble Sequence Revealed by JWST Slit-stepping</td>
+			<td style="width: 202px;">PI: Tucker Jones</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">31.7</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2162" target="_parent">2162</a></td>
+			<td style="width: 359px;">Does Turbulence Suppress Star Formation in AGN hosts?</td>
+			<td style="width: 202px;">PI: Nicole Nesvadba</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">4.3</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2186" target="_parent">2186</a></td>
+			<td style="width: 359px;">NIRSpec IFU Spectroscopy of the High-density Starburst in Ultra-luminous Infrared Galaxies</td>
+			<td style="width: 202px;">PI: Shunsuke Baba</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">6.7</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2198" target="_parent">2198</a></td>
+			<td style="width: 359px;">Quiescent or Dusty? Unveiling the Nature of Extremely Red Galaxies at z&gt;3</td>
+			<td style="width: 202px;">PI: Laia Barrufet<br />
+			Co-PI: Pascal Oesch</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">9.8</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2219" target="_parent">2219</a></td>
+			<td style="width: 359px;">Shining Light on the CO-dark H2 Gas in the Heart of M83</td>
+			<td style="width: 202px;">PI: Svea Hernandez</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">14.8</td>
+			<td style="width: 157px;">MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2234" target="_parent">2234</a></td>
+			<td style="width: 359px;">The JWST-legacy Narrow-band Survey of H-alpha and [OIII] Emitters in the Epoch of Reionization</td>
+			<td style="width: 202px;">PI: Eduardo Banados</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">17.8</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2279" target="_parent">2279</a></td>
+			<td style="width: 359px;">Where Cosmic Dawn Breaks First: Mapping the Primordial Overdensity Powering a z~9 Ionized Bubble</td>
+			<td style="width: 202px;">PI: Rohan Naidu</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">7.1</td>
+			<td style="width: 157px;">NIRCam/WFSS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2282" target="_parent">2282</a></td>
+			<td style="width: 359px;">A Strongly Magnified Individual Star and Parsec-Scale Clusters Observed in the First Billion Years at z = 6</td>
+			<td style="width: 202px;">PI: Dan Coe</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">13.9</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2285" target="_parent">2285</a></td>
+			<td style="width: 359px;">A Massive Quiescent Galaxy at Redshift 4.657</td>
+			<td style="width: 202px;">PI: Adam Carnall</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">8</td>
+			<td style="width: 157px;">NIRSpec/FS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2301" target="_parent">2301</a></td>
+			<td style="width: 359px;">Unearthing the Fossilized Andromeda Galaxy: A Spectroscopic Pilot Survey of M31 Giants</td>
+			<td style="width: 202px;">PI: John Mackereth</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">12.1</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2321" target="_parent">2321</a></td>
+			<td style="width: 359px;">The First Blind H-alpha Narrow-band Survey of Star-formation at z&gt;6</td>
+			<td style="width: 202px;">PI: Philip Best</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">40.5</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2344" target="_parent">2344</a></td>
+			<td style="width: 359px;">Mapping Emission and Absorption Line Metallicities onto the Same Univeral Scale</td>
+			<td style="width: 202px;">PI: Patricia Schady<br />
+			Co-PI: Nial Tanvir</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">24.9</td>
+			<td style="width: 157px;">NIRSpec/FS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2345" target="_parent">2345</a></td>
+			<td style="width: 359px;">Resolved Studies of a Unique Lensed Quiescent Galaxy at z=2: Testing Models of Assembly History, Quenching, and IMF Variations</td>
+			<td style="width: 202px;">PI: Andrew Newman</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">13.7</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2354" target="_parent">2354</a></td>
+			<td style="width: 359px;">Preventing the Slit-Loss Catastrophe Using Flexible, Spatially Resolved Galaxy Models</td>
+			<td style="width: 202px;">PI: Joel Leja</td>
+			<td style="width: 94px;">&nbsp;</td>
+			<td style="width: 122px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="width: 107px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2362" target="_parent">2362</a></td>
+			<td style="width: 359px;">Dawn of the Monsters: JWST Characterization of Extremely Massive Galaxies at z~5</td>
+			<td style="width: 202px;">PI: Cemile Marsan<br />
+			Co-PI: Adam Muzzin</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">8.6</td>
+			<td style="width: 157px;">NIRSpec/FS<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2368" target="_parent">2368</a></td>
+			<td style="width: 359px;">What Lies Beneath: Understanding the Hidden Engines Driving Extreme Outflows and Galaxy Quenching</td>
+			<td style="width: 202px;">PI: Christy Tremonti</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">19.8</td>
+			<td style="width: 157px;">MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2391" target="_parent">2391</a></td>
+			<td style="width: 359px;">The Resolved Properties of PAHs at Low Metallicity</td>
+			<td style="width: 202px;">PI: Julia Roman-Duval</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">67.3</td>
+			<td style="width: 157px;">MIRI/Imaging<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2410" target="_parent">2410</a></td>
+			<td style="width: 359px;">How Efficiently Do Galaxies Produce Ionizing Photons in the Epoch of Reionization?</td>
+			<td style="width: 202px;">PI: Ramesh Mainali</td>
+			<td style="width: 94px;">&nbsp;</td>
+			<td style="width: 122px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="width: 107px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2417" target="_parent">2417</a></td>
+			<td style="width: 359px;">Physical Characterization of a Massive Galaxy Protocluster ~1 Billion Years after the Big Bang</td>
+			<td style="width: 202px;">PI: Dominik Riechers</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">11</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			MIRI/Imaging<br />
+			NIRSpec/IFU<br />
+			NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2424" target="_parent">2424</a></td>
+			<td style="width: 359px;">Revealing the Ionizing Spectrum of Low-Metallicity Galaxies with MIRI</td>
+			<td style="width: 202px;">PI: Anne Jaskot</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">24.5</td>
+			<td style="width: 157px;">MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2426" target="_parent">2426</a></td>
+			<td style="width: 359px;">Spectroscopic Confirmation and Characterization of Bright Galaxies at z~9</td>
+			<td style="width: 202px;">PI: Micaela Bagley<br />
+			Co-PI: Sofia Rojas</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">18.1</td>
+			<td style="width: 157px;">NIRSpec/FS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2439" target="_parent">2439</a></td>
+			<td style="width: 359px;">Resolving the Cooling Flow at the Center of the Phoenix Cluster</td>
+			<td style="width: 202px;">PI: Michael McDonald</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">14.2</td>
+			<td style="width: 157px;">MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2452" target="_parent">2452</a></td>
+			<td style="width: 359px;">The Vanishing Act: PAHs and Heavy Element Abundance in M101</td>
+			<td style="width: 202px;">PI: JD Smith</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">7</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2457" target="_parent">2457</a></td>
+			<td style="width: 359px;">Extreme Quasar Feedback at the Peak of the Galaxy Formation Epoch</td>
+			<td style="width: 202px;">PI: Andrey Vayner</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">20.9</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2478" target="_parent">2478</a></td>
+			<td style="width: 359px;">Spectroscopy of Dwarf Galaxies in the Reionization Era: Ionizing Sources and Gas Conditions at Very Low Metallicity</td>
+			<td style="width: 202px;">PI: Daniel Stark</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">10</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2484" target="_parent">2484</a></td>
+			<td style="width: 359px;">JWST Probes Star Formation Efficiency in Giant Molecular Clouds at z=1</td>
+			<td style="width: 202px;">PI: Miroslava Dessauges-Zavadsky<br />
+			Co-PI: Johan Richard</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">8.7</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2511" target="_parent">2511</a></td>
+			<td style="width: 359px;">How Do the Small Survive: PAH&rsquo;s in Low Metallicity Starburst II Zw 40</td>
+			<td style="width: 202px;">PI: Thomas Lai<br />
+			Co-PIs: JD Smith, Adolf Witt, Aditya Togi, Brandon Hensley, and others*</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">4.2</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2514" target="_parent">2514</a></td>
+			<td style="width: 359px;">PANORAMIC &ndash; A Pure Parallel Wide Area Legacy Imaging Survey at 1-5 Micron</td>
+			<td style="width: 202px;">PI: Christina Williams<br />
+			Co-PI: Pascal Oesch</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">0/150</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO, Pure Parallel</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2516" target="_parent">2516</a></td>
+			<td style="width: 359px;">Revealing the Hidden Stellar Emission in the Highest-fidelity ALMA-mapped Submillimeter Galaxies</td>
+			<td style="width: 202px;">PI: Jacqueline Hodge<br />
+			Co-PI: Elisabete da Cunha</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">14.3</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2555" target="_parent">2555</a></td>
+			<td style="width: 359px;">How Do Ionizing Photons Escape the Sunburst Arc?</td>
+			<td style="width: 202px;">PI: T. Emil Rivera-Thorsen</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">24.2</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2561" target="_parent">2561</a></td>
+			<td style="width: 359px;">UNCOVER: Ultra-deep NIRCam and NIRSpec Observations Before the Epoch of Reionization</td>
+			<td style="width: 202px;">PI: Ivo Labbe<br />
+			Co-PI: Rachel Bezanson</td>
+			<td style="width: 94px; text-align: center;">0</td>
+			<td style="width: 122px; text-align: center;">68.2/50.2</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO, Treasury</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2565" target="_parent">2565</a></td>
+			<td style="width: 359px;">How Many Quiescent Galaxies Are There at 3&lt;z&lt;4 Really?</td>
+			<td style="width: 202px;">PI: Karl Glazebrook<br />
+			Co-PI: Themiya Nanayakkara</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">14.4</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2566" target="_parent">2566</a></td>
+			<td style="width: 359px;">Characterizing Stellar Mass Assembly and Physical Properties in the Brightest Galaxy in the Redshift&gt;5 Universe</td>
+			<td style="width: 202px;">PI: Gourav Khullar</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">19.4</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			NIRCam/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2567" target="_parent">2567</a></td>
+			<td style="width: 359px;">Do Massive Black Holes Come in Small Packages? A Census of Black Holes in Compact Stellar Systems in the Virgo Cluster</td>
+			<td style="width: 202px;">PI: Matthew Taylor<br />
+			Co-PI: Patrick Cote</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">41.2</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2581" target="_parent">2581</a></td>
+			<td style="width: 359px;">Come Out, Come Out, Wherever You Are: Seeking All the Massive Young Clusters Hidden in the Antennae</td>
+			<td style="width: 202px;">PI: Rupali Chandar</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">6</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2593" target="_parent">2593</a></td>
+			<td style="width: 359px;">CECILIA: A Direct-method Metallicity Calibration for Cosmic Noon through the Epoch of Reionization</td>
+			<td style="width: 202px;">PI: Allison Strom<br />
+			Co-PI: Gwen Rudie</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">39.2</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2659" target="_parent">2659</a></td>
+			<td style="width: 359px;">Beasts in the Bubbles: Characterizing ultra-luminous Galaxies at Cosmic Dawn</td>
+			<td style="width: 202px;">PI: John Weaver</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">13.6</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2674" target="_parent">2674</a></td>
+			<td style="width: 359px;">Environmental Effects on Galaxy Evolution in a z=5.2 Proto-cluster</td>
+			<td style="width: 202px;">PI: Pablo Arrabal Haro</td>
+			<td style="width: 94px; text-align: center;">12</td>
+			<td style="width: 122px; text-align: center;">15.2/7.8</td>
+			<td style="width: 157px;">NIRSpec/MOS</td>
+			<td style="width: 107px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; width: 77px;"><a href="/jwst/science-execution/program-information?id=2687" target="_parent">2687</a></td>
+			<td style="width: 359px;">Leveraging Early Public JWST Data to Measure Luminosity Functions and Rest-UV Slopes from 6&lt;z&lt;12</td>
+			<td style="width: 202px;">PI: Micaela Bagley</td>
+			<td style="width: 94px;">&nbsp;</td>
+			<td style="width: 122px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="width: 107px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1835" target="_parent">1835</a></td>
+			<td style="width: 482px;">Unraveling the Knots of Gaseous Cosmic Web Filaments at z~3 through H-alpha Emission Observations</td>
+			<td style="width: 514px;">PI:<strong> </strong>Sebastiano Cantalupo</td>
+			<td style="width: 108px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.4</td>
+			<td style="width: 135px;">NIRSpec/MOS</td>
+			<td style="width: 50px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2073" target="_parent">2073</a></td>
+			<td style="width: 482px;">Towards Tomographic Mapping of Reionization Epoch Quasar Light-Echoes with JWST</td>
+			<td style="width: 514px;">PI: Joseph Hennawi<br />
+			Co-PI: Frederick Davies&nbsp;</td>
+			<td style="width: 108px; text-align: center;">12</td>
+			<td style="width: 95px; text-align: center;">24.3/6.3</td>
+			<td style="width: 135px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 47px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2180" target="_parent">2180</a></td>
+			<td style="width: 482px;">Structure Formation and Baryonic Cycling in the Edge-on Galaxy NGC891</td>
+			<td style="width: 514px;">PI: Ilse De Looze</td>
+			<td style="width: 108px; text-align: center;">12</td>
+			<td style="width: 95px; text-align: center;">22.7/1.9</td>
+			<td style="width: 135px;">NIRCam/Imaging<br />
+			MIRI/MRS<br />
+			MIRI/Imaging</td>
+			<td style="width: 47px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1638" target="_parent">1638</a></td>
+			<td style="width: 393px;">Securing the TRGB Distance Indicator: A Pre-Requisite for a JWST Measurement of H_0</td>
+			<td style="width: 148px;">PI: Kristen McQuinn</td>
+			<td style="width: 80px; text-align: center;">12</td>
+			<td style="width: 111px; text-align: center;">6.8/2</td>
+			<td style="width: 135px;">NIRCam/Imaging</td>
+			<td style="width: 75px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1727" target="_parent">1727</a></td>
+			<td style="width: 393px;">COSMOS-Web: The JWST Cosmic Origins Survey</td>
+			<td style="width: 148px;">PI: Jeyhan Kartaltepe<br />
+			Co-PI: Caitlin Casey</td>
+			<td style="width: 80px; text-align: center;">0</td>
+			<td style="width: 111px; text-align: center;">207.8/81.3</td>
+			<td style="width: 135px;">NIRCam/Imaging</td>
+			<td style="width: 75px; text-align: center;">GO, Treasury</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1794" target="_parent">1794</a></td>
+			<td style="width: 393px;">100% Gain in Precision and Accuracy of H0 Measurement from JWST Stellar Kinematics of a Lens Galaxy</td>
+			<td style="width: 148px;">PI: Akin Yildirim<br />
+			Co-PIs: Sherry Suyu and Tommaso Treu</td>
+			<td style="width: 80px; text-align: center;">12</td>
+			<td style="width: 111px; text-align: center;">9.5</td>
+			<td style="width: 135px;">NIRSpec/IFU</td>
+			<td style="width: 75px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1871" target="_parent">1871</a></td>
+			<td style="width: 393px;">The First Observations of the Ionizing Luminosity of Galaxies within the Epoch of Reionization</td>
+			<td style="width: 148px;">PI: John Chisholm</td>
+			<td style="width: 80px; text-align: center;">12</td>
+			<td style="width: 111px; text-align: center;">22.2</td>
+			<td style="width: 135px;">NIRSpec/MOS</td>
+			<td style="width: 75px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1995" target="_parent">1995</a></td>
+			<td style="width: 393px;">Answering the Most Important Problem in Cosmology Today: Is the Tension in the Hubble Constant Real?</td>
+			<td style="width: 148px;">PI: Wendy Freedman<br />
+			Co-PI: Barry Madore</td>
+			<td style="width: 80px; text-align: center;">12</td>
+			<td style="width: 111px; text-align: center;">25.8/11.2</td>
+			<td style="width: 135px;">NIRCam/Imaging</td>
+			<td style="width: 75px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2046" target="_parent">2046</a></td>
+			<td style="width: 393px;">A Definitive Test of the Dark Matter Paradigm on Small Scales</td>
+			<td style="width: 148px;">PI: Anna Nierenberg</td>
+			<td style="width: 80px; text-align: center;">12</td>
+			<td style="width: 111px; text-align: center;">38.4</td>
+			<td style="width: 135px;">MIRI/Imaging</td>
+			<td style="width: 75px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2078" target="_parent">2078</a></td>
+			<td style="width: 393px;">A SPectroscopic survey of biased halos In the Reionization Era (ASPIRE): A JWST Quasar Legacy Survey</td>
+			<td style="width: 148px;">PI: Feige Wang<br />
+			Co-PIs: Joseph Hennawi and Xiaohui Fan</td>
+			<td style="width: 80px; text-align: center;">12</td>
+			<td style="width: 111px; text-align: center;">61.5/29.6</td>
+			<td style="width: 135px;">NIRCam/WFSS</td>
+			<td style="width: 75px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2134" target="_parent">2134</a></td>
+			<td style="width: 393px;">Absolute Brightness Measurement of the Extragalactic Background Light Using Gallilean Satellites Eclipse Occultations</td>
+			<td style="width: 148px;">PI: Kohji Tsumura</td>
+			<td style="width: 80px; text-align: center;">12</td>
+			<td style="width: 111px; text-align: center;">24.3</td>
+			<td style="width: 135px;">NIRCam/Imaging</td>
+			<td style="width: 75px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 98px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2608" target="_parent">2608</a></td>
+			<td style="width: 393px;">Revealing the Earliest Reionized Bubbles with JWST</td>
+			<td style="width: 148px;">PI: Anson D&#39;Aloisio&nbsp;</td>
+			<td style="width: 80px;">&nbsp;</td>
+			<td style="width: 111px;">&nbsp;</td>
+			<td style="width: 135px;">&nbsp;</td>
+			<td style="width: 75px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1424" target="_parent">1424</a></td>
+			<td style="width: 354px;">Extreme Events on Gas Giants:&nbsp; Impacts and Storm Eruptions</td>
+			<td style="width: 268px;">PI: Leigh Fletcher</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">10</td>
+			<td style="width: 157px;">MIRI/MRS<br />
+			NIRSpec/IFU</td>
+			<td style="text-align: center;">GO, Non-Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1566" target="_parent">1566</a></td>
+			<td style="width: 354px;">The Coma Dust and Volatiles of C/2017 K2 (Pan-STARRS)</td>
+			<td style="width: 268px;">PI: Chick Woodward</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">12.4</td>
+			<td style="width: 157px;">MIRI/MRS<br />
+			NIRSpec/IFU<br />
+			NIRCam/Imaging</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1568" target="_parent">1568</a></td>
+			<td style="width: 354px;">An Ultra-Sensitive Pencil Beam Search for 10 km Trans-Neptunian Objects</td>
+			<td style="width: 268px;">PI: John Stansberry<br />
+			Co-PIs: David Trilling and Wesley Fraser</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">45.1</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1585" target="_parent">1585</a></td>
+			<td style="width: 354px;">Analysis of GTO Observations of Uranus by the MIRI Instrument</td>
+			<td style="width: 268px;">PI: Glenn Orton</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1598" target="_parent">1598</a></td>
+			<td style="width: 354px;">Analysis of GTO Observations of Neptune by the MIRI Instrument</td>
+			<td style="width: 268px;">PI: Glenn Orton</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1604" target="_parent">1604</a></td>
+			<td style="width: 354px;">Dynamics and Temporal Variability in the Atmosphere of Neptune</td>
+			<td style="width: 268px;">PI: Glenn Orton</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">8.3</td>
+			<td style="width: 157px;">MIRI/MRS</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1658" target="_parent">1658</a></td>
+			<td style="width: 354px;">Pluto&#39;s Climate System with JWST</td>
+			<td style="width: 268px;">PI: Emmanuel Lellouch</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">23.4</td>
+			<td style="width: 157px;">MIRI/MRS<br />
+			MIRI/LRS<br />
+			NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1731" target="_parent">1731</a></td>
+			<td style="width: 354px;">Variability and Abundance of Hydration on M-Type Asteroid (16) Psyche: The Search for Water on the Largest Metallic Asteroid</td>
+			<td style="width: 268px;">PI: Stephanie Jarmak</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">8.7</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1786" target="_parent">1786</a></td>
+			<td style="width: 354px;">The Moons of Uranus: A NIRSpec Investigation of Their Origins, Organic Constituents, and Possible Ocean World Activity</td>
+			<td style="width: 268px;">PI: Richard Cartwright</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">18.7</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1897" target="_parent">1897</a></td>
+			<td style="width: 354px;">Pushing the Envelope of the JWST Discovery Space: Measuring the Insoluble Organic Matter (IOM) and Polycyclic Aromatic Hydrocarbon (PAH) Content of Comet 9P/Tempel 1</td>
+			<td style="width: 268px;">PI: Nathan Roth</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">5.5</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2037" target="_parent">2037</a></td>
+			<td style="width: 354px;">First Detection of Volatiles from a Main-belt Comet</td>
+			<td style="width: 268px;">PI: Michael Kelley</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2060" target="_parent">2060</a></td>
+			<td style="width: 354px;">Unraveling the Primordial Constituents and Exogenic Processes That Shaped Callisto&#39;s Surface</td>
+			<td style="width: 268px;">PI: Richard Cartwright</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">3.4</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2127" target="_parent">2127</a></td>
+			<td style="width: 354px;">Frozen Oort Cloud Comet Hale-Bopp</td>
+			<td style="width: 268px;">PI: Michael Kelley</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">11.1</td>
+			<td style="width: 157px;">NIRCam/Imaging<br />
+			NIRSpec/IFU</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2211" target="_parent">2211</a></td>
+			<td style="width: 354px;">A Pure Parallel Survey of Water in the Asteroid Belt</td>
+			<td style="width: 268px;">PI: David Trilling</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">0/38</td>
+			<td style="width: 157px;">NIRCam/Imaging</td>
+			<td style="text-align: center;">GO,<br />
+			Pure Parallel</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2337" target="_parent">2337</a></td>
+			<td style="width: 354px;">Composition of an Interstellar Object&nbsp;&ndash; Unique Insights into Protoplanetary Disk Midplane Chemistry</td>
+			<td style="width: 268px;">PI: Martin Cordiner</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">17.7</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			MIRI/LRS</td>
+			<td style="text-align: center;">GO,<br />
+			Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2361" target="_parent">2361</a></td>
+			<td style="width: 354px;">Are L-type Asteroids Ancient Reservoirs for the Earliest Solar System Solids?</td>
+			<td style="width: 268px;">PI: Katherine de Kleer</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">23.4</td>
+			<td style="width: 157px;">MIRI/MRS<br />
+			NIRSpec/FS</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2416" target="_parent">2416</a></td>
+			<td style="width: 354px;">Measuring Volatile Production in Active Centaurs with JWST NIRSpec</td>
+			<td style="width: 268px;">PI: Adam McKay</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">26.3</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2418" target="_parent">2418</a></td>
+			<td style="width: 354px;">DiSCo-TNOs: Discovering the Composition of the Trans-Neptunian Objects, Icy Embryos for Planet Formation</td>
+			<td style="width: 268px;">PI: Noemi Pinilla-Alonso</td>
+			<td style="width: 92px; text-align: center;">0</td>
+			<td style="width: 115px; text-align: center;">98.2</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2524" target="_parent">2524</a></td>
+			<td style="width: 354px;">Trace Gases in Titan&#39;s Atmosphere with JWST MIRI</td>
+			<td style="width: 268px;">PI: Conor Nixon</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2537" target="_parent">2537</a></td>
+			<td style="width: 354px;">Analysis of Low-Albedo Asteroids Observed through JWST Guaranteed Time</td>
+			<td style="width: 268px;">PI: Andrew Rivkin</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 157px;">&nbsp;</td>
+			<td style="text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2550" target="_parent">2550</a></td>
+			<td style="width: 354px;">The First Near-IR Spectroscopic Survey of Neptune Trojans</td>
+			<td style="width: 268px;">PI: Larissa Markwardt</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">24.1</td>
+			<td style="width: 157px;">NIRSpec/IFU</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 63px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2574" target="_parent">2574</a></td>
+			<td style="width: 354px;">JWST Observations of Lucy Mission Targets</td>
+			<td style="width: 268px;">PI: Michael Brown</td>
+			<td style="width: 92px; text-align: center;">12</td>
+			<td style="width: 115px; text-align: center;">25.5</td>
+			<td style="width: 157px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1586" target="_parent">1586</a></td>
+			<td style="width: 305px;">Black Hole Jet Launching Physics with MIRI</td>
+			<td style="width: 303px;">PI: Poshak Gandhi<br />
+			Co-PIs: Thomas Maccarone and Aarran Shaw</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">6.6</td>
+			<td style="width: 123px;">MIRI/LRS</td>
+			<td style="width: 85px; text-align: center;">GO,<br />
+			Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1621" target="_parent">1621</a></td>
+			<td style="width: 305px;">Testing the Emerging Paradigm of Wind-driven Accretion with NIRSpec Spectro-imaging</td>
+			<td style="width: 303px;">PI: Ilaria Pascucci</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">15.1</td>
+			<td style="width: 123px;">NIRSpec/IFU</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1644" target="_parent">1644</a></td>
+			<td style="width: 305px;">A Cornerstone Study of the Jet/Outflow Connexion: The Remarkable DG Tau B System</td>
+			<td style="width: 303px;">PI: Catherine Dougados<br />
+			Co-PI: Benoit Tabone</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">11.1</td>
+			<td style="width: 123px;">MIRI/MRS<br />
+			NIRSpec/IFU&nbsp;<br />
+			NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1666" target="_parent">1666</a></td>
+			<td style="width: 305px;">Validating JWST&#39;s In-orbit Clock Accuracy</td>
+			<td style="width: 303px;">PI: Poshak Gandhi<br />
+			Co-PIs: Thomas Maccarone and Aarran Shaw</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">22.9</td>
+			<td style="width: 123px;">NIRCam/TSO</td>
+			<td style="width: 85px; text-align: center;">GO,<br />
+			Calibration</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1706" target="_parent">1706</a></td>
+			<td style="width: 305px;">PROJECT-J: PROtostellar JEt&#39;s Cradle Tested with JWST</td>
+			<td style="width: 303px;">PI: Brunella Nisini</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">23.1</td>
+			<td style="width: 123px;">MIRI/MRS<br />
+			NIRSpec/IFU</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1714" target="_parent">1714</a></td>
+			<td style="width: 305px;">The Origin of the Crab Nebula</td>
+			<td style="width: 303px;">PI: Tea Temim</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">22.6</td>
+			<td style="width: 123px;">MIRI/Imaging<br />
+			MIRI/MRS<br />
+			NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1726" target="_parent">1726</a></td>
+			<td style="width: 305px;">Shocks and Expanding Ejecta in Supernova 1987A</td>
+			<td style="width: 303px;">PI: Mikako Matsuura<br />
+			Co-PIs: Richard Arendt, Eli Dwek, Claes Fransson, and Josefin Larsson</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">24.3</td>
+			<td style="width: 123px;">NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1741" target="_parent">1741</a></td>
+			<td style="width: 305px;">Solid-state Water Inside the Snowline in Planet-forming Disks: Exploring the Origin of Water on Terrestrial Planets</td>
+			<td style="width: 303px;">PI: Alexey Potapov<br />
+			Co-PI: Jeroen Bouwman</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">11.6</td>
+			<td style="width: 123px;">NIRSpec/IFU&nbsp;<br />
+			MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1742" target="_parent">1742</a></td>
+			<td style="width: 305px;">Planetary Nebula NGC 6302 &ndash; A Testbed for Dust Formation and Processing in a Dense Torus Irradiated by Harsh UV Radiation</td>
+			<td style="width: 303px;">PI: Mikako Matsuura</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">17.8</td>
+			<td style="width: 123px;">MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1798" target="_parent">1798</a></td>
+			<td style="width: 305px;">Characterizing Accretion Signatures in the Youngest Protostars: The Case of L1527 IRS</td>
+			<td style="width: 303px;">PI: John Tobin</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">7.6</td>
+			<td style="width: 123px;">NIRSpec/IFU&nbsp;<br />
+			MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1802" target="_parent">1802</a></td>
+			<td style="width: 305px;">Investigating Protostellar Accretion Across the Mass Spectrum</td>
+			<td style="width: 303px;">PI: Tom Megeath</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">65.1</td>
+			<td style="width: 123px;">MIRI/MRS<br />
+			NIRSpec/IFU&nbsp;</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1860" target="_parent">1860</a></td>
+			<td style="width: 305px;">Disentangling the Origin of Dust in Type IIn Supernovae</td>
+			<td style="width: 303px;">PI: Ori Fox</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">12.4</td>
+			<td style="width: 123px;">MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1863" target="_parent">1863</a></td>
+			<td style="width: 305px;">Confirming the First Low-Metallicity Wolf-Rayet Dust Factory</td>
+			<td style="width: 303px;">PI: Ryan Lau</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">6.7</td>
+			<td style="width: 123px;">NIRSpec/IFU&nbsp;</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1874" target="_parent">1874</a></td>
+			<td style="width: 305px;">JWST Spectrophotometry of Brown Dwarf Pulsars</td>
+			<td style="width: 303px;">PI: Stuart Littlefair<br />
+			Co-PIs: Gregg Hallinan and John Pineda</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">5.5</td>
+			<td style="width: 123px;">NIRISS/SOSS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1905" target="_parent">1905</a></td>
+			<td style="width: 305px;">Testing Protoplanetary Disk Evolution and Brown Dwarf Formation in Starburst: NIRCam and MIRI Observations of the Young Cluster Westerlund 1</td>
+			<td style="width: 303px;">PI: Mario Guarcello<br />
+			Co-PIs: Koraljka Muzic, Adam Ginsburg, Andrew Winter, Juan Martinez-Galarza, and others*</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">18.9</td>
+			<td style="width: 123px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1906" target="_parent">1906</a></td>
+			<td style="width: 305px;">NAOMY-J: NIR-dark Accretion Outbursts from Massive Young Stellar Objects with JWST</td>
+			<td style="width: 303px;">PI: Alessio Caratti o Garatti<br />
+			Co-PIs: Jochen Eisloeffel and Bringfried Stecklum</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">24.9</td>
+			<td style="width: 123px;">NIRSpec/IFU&nbsp;<br />
+			MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO, Non-Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1936" target="_parent">1936</a></td>
+			<td style="width: 305px;">Nebular Spectroscopy of a Kilonova with JWST</td>
+			<td style="width: 303px;">PI: Charles Kilpatrick</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">14.9</td>
+			<td style="width: 123px;">NIRCam/Imaging<br />
+			NIRSpec/FS</td>
+			<td style="width: 85px; text-align: center;">GO, Non-Disruptive ToO, Long Term ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1947" target="_parent">1947</a></td>
+			<td style="width: 305px;">JWST Survey of the Prototypical Core-collapse Supernova Remnant Cassiopeia A</td>
+			<td style="width: 303px;">PI: Dan Milisavljevic</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">45.1</td>
+			<td style="width: 123px;">MIRI/Imaging<br />
+			MIRI/MRS<br />
+			NIRCam/Imaging<br />
+			NIRSpec/IFU</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1959" target="_parent">1959</a></td>
+			<td style="width: 305px;">Ice Chemical Complexity Toward the Ophiuchus Molecular Cloud</td>
+			<td style="width: 303px;">PI: Will Rocha</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">7.2</td>
+			<td style="width: 123px;">MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1960" target="_parent">1960</a></td>
+			<td style="width: 305px;">The JWST Protostellar Ice Legacy Survey</td>
+			<td style="width: 303px;">PI: Ewine Van Dishoeck</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">21.5</td>
+			<td style="width: 123px;">NIRSpec/IFU</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1979" target="_parent">1979</a></td>
+			<td style="width: 305px;">The Faintest and Coolest Stars in the Two Closest Globulars</td>
+			<td style="width: 303px;">PI: Luigi Bedin</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">6.9/2.2</td>
+			<td style="width: 123px;">NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1984" target="_parent">1984</a></td>
+			<td style="width: 305px;">Fine-Tuned Search for Kilonova Emission in a Short Gamma-Ray Burst: Implications for Gravitational Wave Sources and r-Process Nucleosynthesis</td>
+			<td style="width: 303px;">PI: Edo Berger</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">11.9</td>
+			<td style="width: 123px;">NIRCam/Imaging<br />
+			NIRSpec/FS</td>
+			<td style="width: 85px; text-align: center;">GO,<br />
+			Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2050" target="_parent">2050</a></td>
+			<td style="width: 305px;">Mid-infrared Molecular Absorption in the Atmospheres of K Giants</td>
+			<td style="width: 303px;">PI: Gregory Sloan</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">5.3</td>
+			<td style="width: 123px;">MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2061" target="_parent">2061</a></td>
+			<td style="width: 305px;">Nucleosynthesis, Astrophysics, and Cosmology with IR Observations of a Gravitational Wave Counterpart</td>
+			<td style="width: 303px;">PI: Ryan Foley</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">17.2</td>
+			<td style="width: 123px;">MIRI/Imaging<br />
+			NIRCam/Imaging<br />
+			NIRSpec/FS</td>
+			<td style="width: 85px; text-align: center;">GO,<br />
+			Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2072" target="_parent">2072</a></td>
+			<td style="width: 305px;">See Through Supernovae: Nebular Spectroscopy of Exploding White Dwarfs</td>
+			<td style="width: 303px;">PI: Saurabh Jha</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">19.8</td>
+			<td style="width: 123px;">MIRI/LRS<br />
+			NIRSpec/FS<br />
+			MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO, Non-Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2091" target="_parent">2091</a></td>
+			<td style="width: 305px;">Detecting the Synthesis of the Heaviest Elements with Photometry of a Kilonova in the Optically Thin Phase</td>
+			<td style="width: 303px;">PI: Maria Drout</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">9.3</td>
+			<td style="width: 123px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2114" target="_parent">2114</a></td>
+			<td style="width: 305px;">MIR Spectroscopy of Type Ia Supernovae: The Key To Unlocking Their Explosions and Element Production</td>
+			<td style="width: 303px;">PI: Chris Ashall<br />
+			Co-PIs: Peter Hoeflich and Eddie Baron</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">21.1</td>
+			<td style="width: 123px;">MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO, Non-Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2122" target="_parent">2122</a></td>
+			<td style="width: 305px;">Dust, Mass Loss and Explosions of Massive Stars in the MIR</td>
+			<td style="width: 303px;">PI: Chris Ashall<br />
+			Co-PIs: Peter Hoeflich and Scott Davis</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">22.1</td>
+			<td style="width: 123px;">MIRI/MRS<br />
+			NIRSpec/FS</td>
+			<td style="width: 85px; text-align: center;">GO, Non-Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2124" target="_parent">2124</a></td>
+			<td style="width: 305px;">Explaining the Diversity of Cold Worlds</td>
+			<td style="width: 303px;">PI: Jacqueline Faherty</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">24.6</td>
+			<td style="width: 123px;">NIRSpec/FS<br />
+			MIRI/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2204" target="_parent">2204</a></td>
+			<td style="width: 305px;">Confirming the Most Massive Neutron Star with Observations of Its Companion</td>
+			<td style="width: 303px;">PI: Paulo Freire<br />
+			Co-PI: Rosie Chen</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">5.2</td>
+			<td style="width: 123px;">NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2209" target="_parent">2209</a></td>
+			<td style="width: 305px;">Preparing for Planets: The Impact of the Extraordinary Outburst of EX Lup on Its Circumstellar Disk</td>
+			<td style="width: 303px;">PI: Peter Abraham</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">1.6</td>
+			<td style="width: 123px;">MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2288" target="_parent">2288</a></td>
+			<td style="width: 305px;">Formation and Impact of Silicate Clouds on L Dwarfs</td>
+			<td style="width: 303px;">PI: Joshua Lothringer<br />
+			Co-PI: Jeff Valenti</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">7.4</td>
+			<td style="width: 123px;">NIRSpec/FS<br />
+			MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2302" target="_parent">2302</a></td>
+			<td style="width: 305px;">Bolometric Luminosities of Cool Brown Dwarfs: The Key To Their Effective Temperatures and the Mass Function</td>
+			<td style="width: 303px;">PI: Michael Cushing</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">75</td>
+			<td style="width: 123px;">NIRSpec/FS<br />
+			MIRI/LRS<br />
+			MIRI/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2327" target="_parent">2327</a></td>
+			<td style="width: 305px;">Water Ice Clouds and Weather on the Coldest Brown Dwarf</td>
+			<td style="width: 303px;">PI: Andrew Skemer<br />
+			Co-PIs: Caroline Morley and Brittany Miles</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">13.7</td>
+			<td style="width: 123px;">NIRSpec/BOTS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2348" target="_parent">2348</a></td>
+			<td style="width: 305px;">Chemistry of Mass Loss in the Interacting Stripped-Envelope Supernova 2014C</td>
+			<td style="width: 303px;">PI: Samaporn Tinyanont</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">3</td>
+			<td style="width: 123px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2395" target="_parent">2395</a></td>
+			<td style="width: 305px;">A Comprehensive View of a Binary Neutron Star Merger</td>
+			<td style="width: 303px;">PI: Andrew Levan<br />
+			Co-PIs: Stephen Smartt and Andrew Fruchter</td>
+			<td style="width: 95px; text-align: center;">0</td>
+			<td style="width: 128px; text-align: center;">25</td>
+			<td style="width: 123px;">NIRSpec/FS<br />
+			NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO,<br />
+			Disruptive ToO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2473" target="_parent">2473</a></td>
+			<td style="width: 305px;">Multiplicity Survey of 20 Y Dwarfs with NIRCam Kernel Phase Interferometry</td>
+			<td style="width: 303px;">PI: Loic Albert<br />
+			Co-PI: Michael Meyer</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">38.8</td>
+			<td style="width: 123px;">NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2559" target="_parent">2559</a></td>
+			<td style="width: 305px;">Brown Dwarfs, White Dwarfs and Planetary Disks in an Ancient Stellar System</td>
+			<td style="width: 303px;">PI: Ilaria Caiazzo<br />
+			Co-PI: Harvey Richer</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">20.7</td>
+			<td style="width: 123px;">NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2635" target="_parent">2635</a></td>
+			<td style="width: 305px;">Infrared Emission from the Magnetar 4U 0142+61: A Dusty Fallback Disk?</td>
+			<td style="width: 303px;">PI: George Pavlov<br />
+			Co-PI: Oleg Kargaltsev</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">2.9</td>
+			<td style="width: 123px;">MIRI/LRS<br />
+			NIRCam/TSO<br />
+			NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2640" target="_parent">2640</a></td>
+			<td style="width: 305px;">A Census to the Bottom of the IMF in Westerlund 2: Atmospheres, Disks, Accretion, and Demographics</td>
+			<td style="width: 303px;">PI: William Best</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">9.4/3.8</td>
+			<td style="width: 123px;">NIRSpec/MOS</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2666" target="_parent">2666</a></td>
+			<td style="width: 305px;">Are Supernovae Dust Factories?</td>
+			<td style="width: 303px;">PI: Ori Fox<br />
+			Co-PI: Tamas Szalai</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">12.8</td>
+			<td style="width: 123px;">MIRI/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 59px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2692" target="_parent">2692</a></td>
+			<td style="width: 305px;">Accurate Mass Determination of the Nearby Single White Dwarf L845-70 through Astrometric Microlensing</td>
+			<td style="width: 303px;">PI: Kailash Sahu</td>
+			<td style="width: 95px; text-align: center;">12</td>
+			<td style="width: 128px; text-align: center;">2.6</td>
+			<td style="width: 123px;">NIRCam/Imaging</td>
+			<td style="width: 85px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1557" target="_parent">1557</a></td>
+			<td style="width: 350px;">Photodissociation Region Models for JWST Observations</td>
+			<td style="width: 226px;">PI: Mark Wolfire</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 172px;">&nbsp;</td>
+			<td style="width: 213px;">&nbsp;</td>
+			<td style="width: 83px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1558" target="_parent">1558</a></td>
+			<td style="width: 350px;">The Ring Nebula as a Laboratory for the Interaction of Molecules, PAHs and Dust in Strong UV Radiation Fields</td>
+			<td style="width: 226px;">PI: Michael Barlow<br />
+			Co-PI: Nick Cox</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">19</td>
+			<td style="width: 213px;">MIRI/Imaging<br />
+			MIRI/MRS<br />
+			NIRCam/Imaging<br />
+			NIRSpec/IFU</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1591" target="_parent">1591</a></td>
+			<td style="width: 350px;">NIRSpec IFU: Deuterated PAHs, PAH-nitriles, and PAH Overtone and Combination Bands</td>
+			<td style="width: 226px;">PI: Louis Allamandola<br />
+			Co-PI: Christiaan Boersma</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">25</td>
+			<td style="width: 213px;">NIRSpec/IFU</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1611" target="_parent">1611</a></td>
+			<td style="width: 350px;">A Chemical Census of Volatile Ices in Protostellar Envelopes</td>
+			<td style="width: 226px;">PI: Klaus Pontoppidan</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">15.7</td>
+			<td style="width: 213px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1617" target="_parent">1617</a></td>
+			<td style="width: 350px;">The Boundary of Galaxy Formation: Constraints from the Ancient Star Formation of the Isolated, Extremely Low-Mass Galaxy Leo P</td>
+			<td style="width: 226px;">PI: Kristen McQuinn</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">35.7</td>
+			<td style="width: 213px;">NIRCam/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1619" target="_parent">1619</a></td>
+			<td style="width: 350px;">Dust Formation in a Primitive Environment</td>
+			<td style="width: 226px;">PI: Martha Boyer</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">24.1/2.1</td>
+			<td style="width: 213px;">MIRI/Imaging<br />
+			MIRI/LRS<br />
+			NIRCam/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1678" target="_parent">1678</a></td>
+			<td style="width: 350px;">Calibrating Billions of SPHEREx Spectra from 2.4 to 5.0 um</td>
+			<td style="width: 226px;">PI: Matthew Ashby</td>
+			<td style="width: 115px; text-align: center;">0</td>
+			<td style="width: 172px; text-align: center;">12.7</td>
+			<td style="width: 213px;">NIRSpec/FS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1685" target="_parent">1685</a></td>
+			<td style="width: 350px;">Uncrowding the Cepheids for an Improved Determination of the Hubble Constant</td>
+			<td style="width: 226px;">PI: Adam Riess</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">24.1</td>
+			<td style="width: 213px;">NIRCam/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1854" target="_parent">1854</a></td>
+			<td style="width: 350px;">It&#39;s Complicated: Disentangling the Formation Pathways of Complex Organic Molecules from Molecular Clouds to Comets.</td>
+			<td style="width: 226px;">PI: Melissa McClure</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">17.7</td>
+			<td style="width: 213px;">MIRI/MRS<br />
+			NIRSpec/IFU</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1908" target="_parent">1908</a></td>
+			<td style="width: 350px;">Constraining the Nature of the First Stellar Complexes: Globular Cluster Precursors and Population III Stellar Clusters at z~6-7</td>
+			<td style="width: 226px;">PI: Eros Vanzella</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">24.5</td>
+			<td style="width: 213px;">NIRSpec/IFU</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1939" target="_parent">1939</a></td>
+			<td style="width: 350px;">The Galactic Center</td>
+			<td style="width: 226px;">PI: Jessica Lu</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">16.5</td>
+			<td style="width: 213px;">NIRCam/Imaging<br />
+			NIRSpec/IFU</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2045" target="_parent">2045</a></td>
+			<td style="width: 350px;">Testing the Physical Origin of the Initial Mass Function and Circumstellar Disk Destruction with Massive Clusters at the Galactic Center</td>
+			<td style="width: 226px;">PI: Matthew Hosek</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">2.6</td>
+			<td style="width: 213px;">NIRCam/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2074" target="_parent">2074</a></td>
+			<td style="width: 350px;">Galactic Archaeology with Brown Dwarfs in Medium-Deep JWST Observations</td>
+			<td style="width: 226px;">PI: Russell Ryan</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 172px;">&nbsp;</td>
+			<td style="width: 213px;">&nbsp;</td>
+			<td style="width: 83px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2092" target="_parent">2092</a></td>
+			<td style="width: 350px;">Unveiling Stellar Birth in a Cosmologically Common Cradle</td>
+			<td style="width: 226px;">PI: Steven Longmore<br />
+			Co-PI: Jens Kauffmann</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">19.5</td>
+			<td style="width: 213px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2104" target="_parent">2104</a></td>
+			<td style="width: 350px;">Mapping the Hot Gas Where an Outflow Is Launched from a Protoplanetary Disk</td>
+			<td style="width: 226px;">PI: Daniel Harsono<br />
+			Co-PIs: Per Bjerkeli, Lars Kristensen, Jon Ramsey, Jes Jorgensen and others*</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">5.3</td>
+			<td style="width: 213px;">NIRSpec/IFU</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2107" target="_parent">2107</a></td>
+			<td style="width: 350px;">A JWST-HST-VLT/MUSE-ALMA Treasury of Star Formation in Nearby Galaxies</td>
+			<td style="width: 226px;">PI: Janice Lee<br />
+			Co-PIs: Karin Sandstrom, Adam Leroy, Eva Schinnerer, David Thilker, and others*</td>
+			<td style="width: 115px; text-align: center;">0</td>
+			<td style="width: 172px; text-align: center;">106.9/10.7</td>
+			<td style="width: 213px;">MIRI/Imaging<br />
+			NIRCam/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO, Treasury</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2128" target="_parent">2128</a></td>
+			<td style="width: 350px;">The First Resolved View of Individual Star Formation Across a Spiral Arm</td>
+			<td style="width: 226px;">PI: Erik Rosolowsky</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">22.8/8</td>
+			<td style="width: 213px;">MIRI/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2143" target="_parent">2143</a></td>
+			<td style="width: 350px;">The Turbulent Magnetized Interstellar Medium: Looking for Ambipolar Diffusion in the Pleiades</td>
+			<td style="width: 226px;">PI: Francois Boulanger<br />
+			Co-PI: Vincent Guillet</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">11.3</td>
+			<td style="width: 213px;">NIRCam/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2151" target="_parent">2151</a></td>
+			<td style="width: 350px;">Blazing the Trail of COMs from Ice to Gas</td>
+			<td style="width: 226px;">PI: Yao-Lun Yang</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">24.6</td>
+			<td style="width: 213px;">MIRI/MRS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2155" target="_parent">2155</a></td>
+			<td style="width: 350px;">Probing Silicate and Carbonaceous Dust and Ice in Distant Galaxies with Mid-IR Spectroscopy of Quasars with Foreground 2175 A Absorbers</td>
+			<td style="width: 226px;">PI: Varsha Kulkarni</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">19.8</td>
+			<td style="width: 213px;">MIRI/MRS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2183" target="_parent">2183</a></td>
+			<td style="width: 350px;">Illuminating the Dust Properties in the Diffuse ISM with JWST</td>
+			<td style="width: 226px;">PI: Sascha Zeegers</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">31</td>
+			<td style="width: 213px;">MIRI/MRS<br />
+			NIRCam/GTS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2221" target="_parent">2221</a></td>
+			<td style="width: 350px;">Star Formation along the Galactic Dust Ridge: The Brick and Cloud C</td>
+			<td style="width: 226px;">PI: Adam Ginsburg<br />
+			Co-PI: Alyssa Bulatek</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">8.6/1.6</td>
+			<td style="width: 213px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2317" target="_parent">2317</a></td>
+			<td style="width: 350px;">Initial Mass Function in the Lowest Metallicity Protocluster in the Galaxy</td>
+			<td style="width: 226px;">PI: Yu Cheng<br />
+			Co-PIs: Morten Andersen, Jonathan Tan, Ruben Fedriani, and Massimo Robberto</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">2.8</td>
+			<td style="width: 213px;">NIRCam/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2331" target="_parent">2331</a></td>
+			<td style="width: 350px;">Unveiling Grain Growth in Very Dense Galactic Cores</td>
+			<td style="width: 226px;">PI: Roberta Paladini<br />
+			Co-PI: Alberto Noriega-Crespo</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">60</td>
+			<td style="width: 213px;">MIRI/MRS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2352" target="_parent">2352</a></td>
+			<td style="width: 350px;">Wide Binary Stars in Nearby Dwarf Galaxies: A Novel Probe of Dark Matter on Subgalactic Scales</td>
+			<td style="width: 226px;">PI: Matthew Walker</td>
+			<td style="width: 115px;">&nbsp;</td>
+			<td style="width: 172px;">&nbsp;</td>
+			<td style="width: 213px;">&nbsp;</td>
+			<td style="width: 83px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2402" target="_parent">2402</a></td>
+			<td style="width: 350px;">Opening Pandora&#39;s Box: Revealing the Hidden Content of a Forming Super Star Cluster</td>
+			<td style="width: 226px;">PI: Jean Turner</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">2.5</td>
+			<td style="width: 213px;">MIRI/MRS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2433" target="_parent">2433</a></td>
+			<td style="width: 350px;">Imaging the Disk-halo Boundary Layer: PAH Emission as a Probe of the Energetics and Physics of Interstellar Thick Disks</td>
+			<td style="width: 226px;">PI: Jay Howk</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">16.1</td>
+			<td style="width: 213px;">&nbsp;</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2441" target="_parent">2441</a></td>
+			<td style="width: 350px;">An Investigation of Claimed Silicate Dust Crystallinity in a z=0.9 Spiral Galaxy</td>
+			<td style="width: 226px;">PI: Monique Aller</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">11.3</td>
+			<td style="width: 213px;">MIRI/MRS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2459" target="_parent">2459</a></td>
+			<td style="width: 350px;">Completing the Puzzle of Interstellar Dust Grain Compositions: Combining Extinction, Depletion, and Molecular Hydrogen Measurements</td>
+			<td style="width: 226px;">PI: Marjorie Decleir</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">16.9</td>
+			<td style="width: 213px;">NIRCam/GTS<br />
+			MIRI/MRS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2491" target="_parent">2491</a></td>
+			<td style="width: 350px;">Low-mass Star Formation in the Inner Parsec of Our Galaxy</td>
+			<td style="width: 226px;">PI: Nadeen Sabha</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">11.6</td>
+			<td style="width: 213px;">MIRI/MRS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2521" target="_parent">2521</a></td>
+			<td style="width: 350px;">The First Ever Low Metallicity PDR Benchmark</td>
+			<td style="width: 226px;">PI: Karin Sandstrom<br />
+			Co-PI: Mark Wolfire</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">16</td>
+			<td style="width: 213px;">MIRI/MRS<br />
+			NIRSpec/IFU</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2526" target="_parent">2526</a></td>
+			<td style="width: 350px;">Density Structure and Fragmentation Manner of Infrared Dark Filaments</td>
+			<td style="width: 226px;">PI: Philippe Andre<br />
+			Co-PI: Michael Mattern</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">23.5</td>
+			<td style="width: 213px;">MIRI/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2560" target="_parent">2560</a></td>
+			<td style="width: 350px;">Solving the Globular Clusters Multiple Population Enigma through JWST</td>
+			<td style="width: 226px;">PI: Anna Marino</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">19/13</td>
+			<td style="width: 213px;">NIRSpec/MOS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2609" target="_parent">2609</a></td>
+			<td style="width: 350px;">Searching for the Alpha-Abundance Bimodality in the M31 Disk</td>
+			<td style="width: 226px;">PI: David Nidever<br />
+			Co-PIs: Karoline Gilbert and Erik Tollerud</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">14.9</td>
+			<td style="width: 213px;">NIRCam/Imaging<br />
+			NIRSpec/MOS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2662" target="_parent">2662</a></td>
+			<td style="width: 350px;">NGC 602 in the SMC, As Seen by Webb &ndash; Progressive Star Formation under Extraordinary Conditions?</td>
+			<td style="width: 226px;">PI: Peter Zeidler</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">12.3/1.4</td>
+			<td style="width: 213px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 57px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2677" target="_parent">2677</a></td>
+			<td style="width: 350px;">Mapping the Aromatic Smoke from the Superwind of the Archetypal Starburst M82</td>
+			<td style="width: 226px;">PI: Aigen Li</td>
+			<td style="width: 115px; text-align: center;">12</td>
+			<td style="width: 172px; text-align: center;">10.2</td>
+			<td style="width: 213px;">NIRSpec/MOS</td>
+			<td style="width: 83px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1670" target="_parent">1670</a></td>
+			<td style="width: 243px;">Closing in on the Launching Sites of AGN Outflows</td>
+			<td style="width: 280px;">PI: Thomas Shimizu</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">34</td>
+			<td style="width: 96px;">MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1717" target="_parent">1717</a></td>
+			<td style="width: 243px;">Feedback around Supermassive Black Holes in Dusty Nuclei</td>
+			<td style="width: 280px;">PI: Vivian U</td>
+			<td style="width: 103px; text-align: center;">0</td>
+			<td style="width: 137px; text-align: center;">27.6</td>
+			<td style="width: 96px;">MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1760" target="_parent">1760</a></td>
+			<td style="width: 243px;">First Accreting Black Hole Candidates: Infrared-dropout Heavily Obscured X-ray AGNs</td>
+			<td style="width: 280px;">PI: Hyewon Suh</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">23.6</td>
+			<td style="width: 96px;">NIRSpec/FS<br />
+			MIRI/LRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1764" target="_parent">1764</a></td>
+			<td style="width: 243px;">A Comprehensive JWST View of the Most Distant Quasars Deep into the Epoch of Reionization</td>
+			<td style="width: 280px;">PI: Xiaohui Fan<br />
+			Co-PIs: Jinyi Yang and Eduardo Banados</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">65.5/8.6</td>
+			<td style="width: 96px;">NIRCam/Imaging<br />
+			MIRI/Imaging<br />
+			NIRSpec/FS<br />
+			NIRSpec/IFU&nbsp;<br />
+			MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1813" target="_parent">1813</a></td>
+			<td style="width: 243px;">Unveiling Stellar Light from Host Galaxies of z~6 Quasars</td>
+			<td style="width: 280px;">PI: Madeline Marshall</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">15.9</td>
+			<td style="width: 96px;">NIRCam/Imaging</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1875" target="_parent">1875</a></td>
+			<td style="width: 243px;">Kinetic and Chemical Feedback in Radio-Quiet AGN as a Driver of the Galaxy Evolution&nbsp;&ndash; Revealed in ESO 420-G13</td>
+			<td style="width: 280px;">PI: Juan Fernandez Ontiveros</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">4</td>
+			<td style="width: 96px;">MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1928" target="_parent">1928</a></td>
+			<td style="width: 243px;">Blowing Star Formation Away: Unraveling Molecular Wnds in AGN</td>
+			<td style="width: 280px;">PI: Rogemar Riffel<br />
+			Co-PI: Nadia Zakamska</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">16.2</td>
+			<td style="width: 96px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1964" target="_parent">1964</a></td>
+			<td style="width: 243px;">The Role of Radio AGN Feedback in Massive Galaxies at z = 4 - 6</td>
+			<td style="width: 280px;">PI: Roderik Overzier<br />
+			Co-PI: Aayush Saxena</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">23.8</td>
+			<td style="width: 96px;">NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1967" target="_parent">1967</a></td>
+			<td style="width: 243px;">A Complete Census of Supermassive Black Holes and Host Galaxies at z=6</td>
+			<td style="width: 280px;">PI: Masafusa Onoue<br />
+			Co-PIs: Yoshiki Matsuoka, Takuma Izumi, John Silverman, and Xuheng Ding</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">49.5</td>
+			<td style="width: 96px;">NIRSpec/FS<br />
+			NIRCam/Imaging</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1970" target="_parent">1970</a></td>
+			<td style="width: 243px;">Zooming into the Monster&#39;s Mouth: Tracing Feedback from Their Hosts to Circumgalactic Medium in z=3.5 Radio-loud AGN</td>
+			<td style="width: 280px;">PI: Wuji Wang</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">24.5</td>
+			<td style="width: 96px;">NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=1983" target="_parent">1983</a></td>
+			<td style="width: 243px;">Uncovering Intermediate Mass Black Holes with JWST: Pushing the Frontier</td>
+			<td style="width: 280px;">PI: Shobita Satyapal</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">11.2</td>
+			<td style="width: 96px;">NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2004" target="_parent">2004</a></td>
+			<td style="width: 243px;">Pressure Gradients of the Molecular Gas and Their Role in Cloud Stability in Massive Outflows Driven by Black Hole Jets</td>
+			<td style="width: 280px;">PI: Kalliopi Dasyra</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">5.6</td>
+			<td style="width: 96px;">MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2016" target="_parent">2016</a></td>
+			<td style="width: 243px;">Revealing Low Luminosity Active Galactic Nuclei (ReveaLLAGN)</td>
+			<td style="width: 280px;">PI: Anil Seth</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">31.9</td>
+			<td style="width: 96px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2028" target="_parent">2028</a></td>
+			<td style="width: 243px;">Mapping a Distant Protocluster Anchored by a Luminous Quasar in the Epoch of Reionization</td>
+			<td style="width: 280px;">PI: Feige Wang<br />
+			Co-PI: Jinyi Yang</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">16.3/5.8</td>
+			<td style="width: 96px;">NIRSpec/MOS<br />
+			NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2057" target="_parent">2057</a></td>
+			<td style="width: 243px;">A JWST Study of the Link Between Supermassive Black Holes and Galaxies at Cosmic Noon</td>
+			<td style="width: 280px;">PI: Yue Shen<br />
+			Co-PI: Jennifer Li</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">22.4</td>
+			<td style="width: 96px;">NIRCam/Imaging<br />
+			NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2064" target="_parent">2064</a></td>
+			<td style="width: 243px;">Dust in the Wind: Testing a New Paradigm for the Nature of AGN Feedback</td>
+			<td style="width: 280px;">PI: David Rosario<br />
+			Co-PIs: Sebastian Hoenig and Leonard Burtscher</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">19.3</td>
+			<td style="width: 96px;">MIRI/Imaging</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2075" target="_parent">2075</a></td>
+			<td style="width: 243px;">The Ultra Violet Output of Sgr A*</td>
+			<td style="width: 280px;">PI: Chi-kwan Chan<br />
+			Co-PI: Andras Gaspar</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">10.4</td>
+			<td style="width: 96px;">MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2080" target="_parent">2080</a></td>
+			<td style="width: 243px;">Exploration of the Nuclear Jet Impact on the Interstellar Medium in Seyfert Galaxy NGC 4258</td>
+			<td style="width: 280px;">PI: Jason Glenn</td>
+			<td style="width: 103px; text-align: center;">6</td>
+			<td style="width: 137px; text-align: center;">24</td>
+			<td style="width: 96px;">NIRCam/Imaging</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2108" target="_parent">2108</a></td>
+			<td style="width: 243px;">Constraining the Seeding and Growth of First Black Holes via Observable Signatures from the Early Universe</td>
+			<td style="width: 280px;">PI: L. Y. Aaron Yung<br />
+			Co-PI: Jonathan Gardner</td>
+			<td style="width: 103px;">&nbsp;</td>
+			<td style="width: 137px;">&nbsp;</td>
+			<td style="width: 96px;">&nbsp;</td>
+			<td style="width: 68px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2177" target="_parent">2177</a></td>
+			<td style="width: 243px;">A Missing Piece of the Puzzle: The Warm Molecular Phase of AGN-driven Outflows at Cosmic Noon</td>
+			<td style="width: 280px;">PI: Vincenzo Mainieri</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">13.1</td>
+			<td style="width: 96px;">MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2228" target="_parent">2228</a></td>
+			<td style="width: 243px;">Probing the M87 Supermassive Black Hole with Parsec-Scale Stellar Dynamics</td>
+			<td style="width: 280px;">PI: Jonelle Walsh</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">9.9</td>
+			<td style="width: 96px;">NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2235" target="_parent">2235</a></td>
+			<td style="width: 243px;">Imaging the Shadow of a Black Hole through Sgr A* Monitoring</td>
+			<td style="width: 280px;">PI: Farhad Yusef-Zadeh</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">24.9</td>
+			<td style="width: 96px;">NIRCam/Imaging</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2249" target="_parent">2249</a></td>
+			<td style="width: 243px;">Monster in the Early Universe: Unveiling the Nature of a Dust Reddened Quasar Hosting a Ten-Billion Solar Mass Black Hole at z=7.1</td>
+			<td style="width: 280px;">PI: Jinyi Yang<br />
+			Co-PI: Feige Wang</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">5.5</td>
+			<td style="width: 96px;">NIRSpec/IFU<br />
+			MIRI/Imaging</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2446" target="_parent">2446</a></td>
+			<td style="width: 243px;">Illuminating the AGN-Galaxy Connection with JWST: AGN Host Demographics During the Era of Galaxy Assembly</td>
+			<td style="width: 280px;">PI: Dale Kocevski</td>
+			<td style="width: 103px;">&nbsp;</td>
+			<td style="width: 137px;">&nbsp;</td>
+			<td style="width: 96px;">&nbsp;</td>
+			<td style="width: 68px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2547" target="_parent">2547</a></td>
+			<td style="width: 243px;">Quasar Feedback in Action: The Multiphase and Multiscale Outflow of the Most Luminous Quasar in the Local Universe</td>
+			<td style="width: 280px;">PI: Sylvain Veilleux</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">8.7</td>
+			<td style="width: 96px;">MIRI/MRS<br />
+			NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2554" target="_parent">2554</a></td>
+			<td style="width: 243px;">AGN Feeding and Feedback in NGC 4151</td>
+			<td style="width: 280px;">PI: Francisco Mueller-Sanchez</td>
+			<td style="width: 103px;">&nbsp;</td>
+			<td style="width: 137px;">&nbsp;</td>
+			<td style="width: 96px;">&nbsp;</td>
+			<td style="width: 68px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2654" target="_parent">2654</a></td>
+			<td style="width: 243px;">Kpc-scale Dual Supermassive Black Holes and Their Impact on Galaxy Formation at Cosmic Noon</td>
+			<td style="width: 280px;">PI: Yuzo Ishikawa<br />
+			Co-PIs: Yue Shen and Xin Liu</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">16.4</td>
+			<td style="width: 96px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="width: 60px; text-align: center;"><a href="/jwst/science-execution/program-information?id=2701" target="_parent">2701</a></td>
+			<td style="width: 243px;">Unveiling the Nature of CID-42. The Best Candidate for a Gravitational Wave Recoiling Supermassive Black Hole</td>
+			<td style="width: 280px;">PI: Francisco Mueller-Sanchez</td>
+			<td style="width: 103px; text-align: center;">12</td>
+			<td style="width: 137px; text-align: center;">6.7</td>
+			<td style="width: 96px;">NIRSpec/IFU</td>
+			<td style="width: 68px; text-align: center;">GO</td>
+		</tr>

@@ -1,0 +1,91 @@
+
+We thank the referee for their careful consideration of our paper and providing very useful comments. We have addressed all of the referee's comments in this version of the paper for their consideration.  We comment on how we addressed each comment below and have bolded text that has changed in the submitted version (except in the abstract and in the table).
+
+Introduction:
+
+49 - The words "explored the initial evolution of planetary systems and" don't add anything to the sentence, and indeed confuse it, so I suggest they be deleted. "Initial evolution" sounds more like star formation than post-main-sequence evolution.
+
+We removed the clause as the reviewer suggested.
+
+66 - Consider pointing out that the accreted metals match planetary compositions (e.g. Trierweiler+2023).
+
+We added this point and appropriate references (Trierweiler+2023, Xu+2019 and Melis+2011) to as the reiewer suggested. 
+
+Methods
+
+113 - A non-detection from this program has been published (WD 2149+021; Poulsen+2023), but what happened to the other target WD 1620-391? It is used here as a PSF reference, but otherwise not discussed directly. I infer from the discussion of "four WDs" at line 330 that nothing has been found there, but if that target is to be used in statistical arguments, please be more explicit about what has or has not been found there so far. Unless another paper is in preparation, it would also help to "finish the story" of this JWST program.
+
+We Listed all four white dwarf stars in the first paragraph of the methods section and mention in the analysis that no candidates were found within 3 arc seconds of these stars in Setion 2.3. A long paper describing what was found across all four fields is in the works, but beyond what could fit in an ApJ Letter and we wanted to report on these high fidelity candidates right away.
+
+
+127 - Please qualify or remove "most recent". I have not checked, but perhaps these are the most recent _spectroscopic_ fits? Both stars should have at least photometric fits from the recent series of papers on the 40pc sample, which are more recent than the studies currently cited.
+
+We removed the word "most".
+
+Table 1 - The Gaia DR3 parallaxes are measured to better than 0.1% for both targets. The authors should therefore either use the straightforward inverse-parallax distance, or provide a strong justification for why the Bailer-Jones estimates were preferred when such precise data were available. It makes little practical difference in this instance, as the data overwhelm the priors, but the Bailer-Jones scheme is not a silver bullet and should not be used uncritically.
+
+We agree that there is no substantial difference between the Bailer-Jones and inverse-parallax distances for these two stars and so reverted the distances to the direct inverse-parallax distances from Gaia.
+
+159 - Consider specifying the CRDS context used in the reduction, for completeness.
+
+Thank you for noticing this oversight. We added the CRDS context, software version and calibration software version.
+
+168 - Please state the value used for the scale parameter, in case the default changes in future.
+
+We added the scale parameter values that we used in the processing as the referee suggested.
+
+187 - How were the "best results" judged? It would be useful to have a few words about this - was it obvious from visual inspection, or did it come down to small improvements to the residuals? It is stated that no other close companions were found, but it is hard to judge how strong that statement is without knowing how reliable the PSF construction was.
+
+We clarified this in the text. The best PSF was judged using visual inspection and looking for the distance from the star at which the residuals reached the noise floor.
+
+192 - Inconsistent star name (WD 2105-820)
+
+We made the star names consistent throughout the text. 
+
+202 - I don't understand the description of the flux measurements. Taking a ratio and then normalising against the same quantity sounds like it should cancel out? Perhaps a simple formula would clarify things.
+
+We clarified the text on this point by adding more information about how the stellar photometry was taken and how the ratio between the flux of the candidate and the flux of the star were determined.
+
+Table 2 - the caption states that a 3% calibration error is included, but the uncertainty on the F1500W measurement for WD2105-82b is less than 3%. Please double-check the values in the table, or elaborate on the error calculations.
+
+We thank the referee for noticing this oversight. We had forgotten to add in the 3% calibration error on the candidate photometry. The values in Table 2 now includ the 3% error.
+
+
+Results
+
+256 - "the age of the WD" risks ambiguity. I think "the total age of the star" would be clearer.
+
+We agree with the refere and have made the change.
+
+305 - TNOs can move at a few arcsec per hour, so the total time of the exposure sequences and the positional stability quoted in section 3.1 seem like they would strongly disfavour this scenario. If not, consider quantifying what "the appropriate size" would mean in the context of objects distant enough to appear stationary during the observations.
+
+We agree that most TNOs will have a few arcseconds per hour motion which would be easily visible in our series of exposures. We add that to our disucssion as to why we believe TNOs are not a likely false positive scenario.
+
+
+309 - The statistical calculation presented in this paragraph is critical to determining whether the detected sources can be declared planetary candidates. The following comments cover several areas for improvement.
+316 - the background density is determined from _two_ fields, yet _four_ are searched for planets. What are the background statistics in the other two fields? If the density differs between fields, then the calculation needs to account for that.
+
+Per the referee’s suggestion we revisited the fields of WD 2149 and WD 1620. The density of red sources does not significantly change between the fields.  While, WD 1620 has a much higher occurrence of star-like point sources as expected because of its galactic latitude, it is WD2149+021 that has the largest number of sources consistent with our cut-offs. Given our color and flux cut-offs the lack of change with field confirms that most red point sources are likely background galaxies. In the paper we indicate that that fields do not significantly from one field to the next and use an average statistic in the given false positive statistics.
+
+324 - The ratios appear to be the wrong way round - as written, higher values would mean bluer objects.
+
+We fixed the order of the ratios.
+
+327 - how were the bounds of 2--20 uJy chosen for the contaminant search? The candidate sources are only just above the lower bound, whereas the models shown in Figure 2 seem to extend beyond the upper bound.
+
+We were originaly limiting the search to small giant planets, but instead have decided it would be more reasonable to include larger planets as well. We set th elimits to 100muJy in the 15 micron band. We added rational for limiting the search to 100muJy in F1500W based on the BSL models.
+
+330 - From this point to the end of the paragraph, I believe the calculations to be invalid. The two expected source counts seem to have been multiplied together, and the result treated as a probability. Such a calculation could give a result greater than unity for higher expected source counts. Moreover, two separate searches are conducted, thus recycling the data, whereas only one expectation value is appropriate. Finally, the search radius is problematic as it (and thus the expectation value) is data-dependent, i.e. the test is designed after seeing the results.
+  One might use binomial statistics to sidestep these issues. For example, finding objects at two out of four stars is inconsistent with the quoted background density at 3-sigma for a search radius is 4.2" or smaller. Such a statement can be made as soon as the background density is known, i.e. the test can be designed before seeing the results.
+ As already mentioned, if the fourth star (WD 1620-391) is to be included in the calculations, then some kind of statement must be made about what has or has not been found there.
+
+We fixed the false positive statistics as indicated by the referee and thank them for pointing out this flaw in our logic. We now use binomial statistics applied to a search across four MIRI fields. We also mention that no candidates were found around the other two WD stars in this sample. 
+
+Discussion
+
+369 - how is the 37% JWST sensitivity value arrived at? And is it reasonable to state it so precisely, rather than e.g. "roughly one-third"? Presumably some assumptions about semi-major axis, cooling age, etc. feed into this estimate? If it has come from one of the references, that should be made clearer.
+
+We agree that stating the value so precisely is unnecessary to make this point, so we have changed the language. 
+
+We plan to write a more complete paper in the future that considers the detection limits and background sources for the entirety of all four fields, but did not have the space to include that analysis in this letter. That paper hopes to say something more precise, though with four stars, it might not be much more definitive.
+ 

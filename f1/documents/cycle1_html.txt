@@ -1,0 +1,665 @@
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1549" target="_parent">1549</a></td>
+			<td style="width: 349px;">The Deepest Search for Rare Molecules and Isotopologues in Planet-forming Disks</td>
+			<td style="width: 255px;">PI: Klaus Pontoppidan</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">13.4</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1556" target="_parent">1556</a></td>
+			<td style="width: 349px;">A Time Series Calibration of Medium Resolution Spectroscopy with MIRI</td>
+			<td style="width: 255px;">PI: Drake Deming</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">12.8</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO, Calibration</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1563" target="_parent">1563</a></td>
+			<td style="width: 349px;">Icy Kuiper Belts in Exoplanetary Systems</td>
+			<td style="width: 255px;">PI: Christine Chen</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">34.9</td>
+			<td style="width: 142px;">NIRSpec/IFU<br />
+			NIRCam/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1584" target="_parent">1584</a></td>
+			<td style="width: 349px;">A DSHARP-MIRI Treasury Survey of Chemistry in Planet-forming Regions</td>
+			<td style="width: 255px;">PI: Colette Salyk<br />
+			Co-PI: Klaus Pontoppidan</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">27.7</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO, Treasury</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1618" target="_parent">1618</a></td>
+			<td style="width: 349px;">Searching Our Closest Stellar Neighbor for Planets and Zodiacal Emission</td>
+			<td style="width: 255px;">PI: Charles Beichman<br />
+			Co-PI: Dimitri Mawet</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">25</td>
+			<td style="width: 142px;">MIRI/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1633" target="_parent">1633</a></td>
+			<td style="width: 349px;">A Deep Molecular Survey of HD 189733b</td>
+			<td style="width: 255px;">PI: Drake Deming</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">39</td>
+			<td style="width: 142px;">MIRI/MRS<br />
+			NIRCam/GTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1640" target="_parent">1640</a></td>
+			<td style="width: 349px;">The Infrared Water Spectrum as a Tracer of Pebble Delivery to Rocky Planets</td>
+			<td style="width: 255px;">PI: Andrea Banzatti</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">19.1</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1647" target="_parent">1647</a></td>
+			<td style="width: 349px;">Caught in the Act: A Debris Disc in Outburst</td>
+			<td style="width: 255px;">PI: Andrew Swan</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">16.7</td>
+			<td style="width: 142px;">NIRSpec/BOTS<br />
+			MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1668" target="_parent">1668</a></td>
+			<td style="width: 349px;">Searching for Low Mass Planets in Debris Disk Gaps</td>
+			<td style="width: 255px;">PI: Sebastian Marino</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">11.1</td>
+			<td style="width: 142px;">MIRI/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1676" target="_parent">1676</a></td>
+			<td style="width: 349px;">EUV vs. X-ray Photoevaporation of Protoplanetary Disks</td>
+			<td style="width: 255px;">PI: Catherine Espaillat</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">7.7</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1729" target="_parent">1729</a></td>
+			<td style="width: 349px;">A NIRSpec Phase Curve for the Ultrahot Jupiter WASP-121b</td>
+			<td style="width: 255px;">PI: Thomas Mikal-Evans<br />
+			Co-PI: Tiffany Kataria</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">44.7</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1743" target="_parent">1743</a></td>
+			<td style="width: 349px;">Constraining the Atmosphere of the Terrestrial Exoplanet Gl486b</td>
+			<td style="width: 255px;">PI: Megan Mansfield</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">12.6</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1751" target="_parent">1751</a></td>
+			<td style="width: 349px;">Mapping Inclined Disk Astrochemical Signatures (MIDAS)</td>
+			<td style="width: 255px;">PI: Melissa McClure</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.9</td>
+			<td style="width: 142px;">NIRSpec/IFU<br />
+			MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1759" target="_parent">1759</a></td>
+			<td style="width: 349px;">Physics and Chemistry of Planet-Forming Disks in Extreme Radiation Environments</td>
+			<td style="width: 255px;">PI: Maria Claudia Ramirez-Tannus</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.3</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1803" target="_parent">1803</a></td>
+			<td style="width: 349px;">Unlocking the Mysteries of the Archetype Sub-Neptune GJ1214b with a Full-Orbit Phase Curve</td>
+			<td style="width: 255px;">PI: Jacob Bean<br />
+			Co-PI: Eliza Kempton</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">48.7</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1843" target="_parent">1843</a></td>
+			<td style="width: 349px;">Cloud Composition and Origin of the Reddest Known Sub-stellar Companion HD 206893 B</td>
+			<td style="width: 255px;">PI: Jens Kammerer<br />
+			Co-PI: Tomas Stolker</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">2.5</td>
+			<td style="width: 142px;">NIRISS/AMI</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1846" target="_parent">1846</a></td>
+			<td style="width: 349px;">A Search for Signatures of Volcanism and Geodynamics on the Hot Rocky Exoplanet LHS 3844b</td>
+			<td style="width: 255px;">PI: Laura Kreidberg</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">11.7</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1902" target="_parent">1902</a></td>
+			<td style="width: 349px;">High Resolution, High Contrast Kernel Phase Imaging with NIRCam</td>
+			<td style="width: 255px;">PI: Jens Kammerer<br />
+			Co-PIs: Laurent Pueyo and Anand Sivaramakrishnan</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">4.3</td>
+			<td style="width: 142px;">NIRCam/Imaging</td>
+			<td style="width: 73px; text-align: center;">GO, Calibration</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1911" target="_parent">1911</a></td>
+			<td style="width: 349px;">A Search for the Giant Planets that Drive White Dwarf Accretion</td>
+			<td style="width: 255px;">PI: Susan Mullally<br />
+			Co-PI: Fergal Mullally</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.6</td>
+			<td style="width: 142px;">MIRI/Imaging</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1935" target="_parent">1935</a></td>
+			<td style="width: 349px;">Unshrouding the Sub-Neptune Population: The Case of TOI-421b</td>
+			<td style="width: 255px;">PI: Eliza Kempton</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">10.9</td>
+			<td style="width: 142px;">NIRISS/SOSS<br />
+			NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1952" target="_parent">1952</a></td>
+			<td style="width: 349px;">Determining the Atmospheric Composition of the Super-Earth 55 Cancri e</td>
+			<td style="width: 255px;">PI: Renyu Hu</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">15.4</td>
+			<td style="width: 142px;">NIRCam/GTS<br />
+			MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1958" target="_parent">1958</a></td>
+			<td style="width: 349px;">Spectroscopy of the Circumplanetary Disk around the Young Planet-mass Companion CT Cha b</td>
+			<td style="width: 255px;">PI: Christian Rab<br />
+			Co-PIs: Inga Kamp, Rens Waters, and Michael Migo Mueller</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">4.5</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1977" target="_parent">1977</a></td>
+			<td style="width: 349px;">Glows in the Dark: New Models for the Atmospheric Structure and Evolution of High Metallicity and Low Mass Giant Planets</td>
+			<td style="width: 255px;">PI: Mark Marley</td>
+			<td style="width: 84px;">&nbsp;</td>
+			<td style="width: 90px;">&nbsp;</td>
+			<td style="width: 142px;">&nbsp;</td>
+			<td style="width: 73px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=1981" target="_parent">1981</a></td>
+			<td style="width: 349px;">Tell Me How I&rsquo;m Supposed To Breathe With No Air: Measuring the Prevalence and Diversity of M-Dwarf Planet Atmospheres</td>
+			<td style="width: 255px;">PI: Kevin Stevenson<br />
+			Co-PIs: Jacob Lustig-Yaeger</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">75.6</td>
+			<td style="width: 142px;">NIRSpec/BOTS<br />
+			NIRCam/GTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2001" target="_parent">2001</a></td>
+			<td style="width: 349px;">Mineral Clouds in the Atmosphere of the Hot Jupiter HD189733b</td>
+			<td style="width: 255px;">PI: Michiel Min</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">6.4</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2008" target="_parent">2008</a></td>
+			<td style="width: 349px;">A Blast From the Past: A Spectroscopic Look at the Flash Heating of HD80606b</td>
+			<td style="width: 255px;">PI: Tiffany Kataria<br />
+			Co-PIs: Nikole Lewis and Laura Mayorga</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.2</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2021" target="_parent">2021</a></td>
+			<td style="width: 349px;">Into the Next Dimension:&nbsp; 3-D Eclipse Maps of the Canonical Hot Jupiter HD 189733b</td>
+			<td style="width: 255px;">PI: Brian Kilpatrick<br />
+			Co-PI: Tiffany Kataria</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">12.4</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2025" target="_parent">2025</a></td>
+			<td style="width: 349px;">The Chemistry of Planet Formation: A JWST-ALMA Survey of 4 Planet-Forming Disks</td>
+			<td style="width: 255px;">PI: Karin Oberg</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">12.8</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2044" target="_parent">2044</a></td>
+			<td style="width: 349px;">Direct Imaging Spectroscopy of Two Jovian Exoplanets: Characterization of the TYC 8998-760-1 Multi-Planetary System</td>
+			<td style="width: 255px;">PI: Kielan Wilcomb<br />
+			Co-PIs: Marshall Perrin and Quinn Konopacky</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">5.2</td>
+			<td style="width: 142px;">NIRSpec/IFU<br />
+			MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2053" target="_parent">2053</a></td>
+			<td style="width: 349px;">Search for NIR Gas in Debris Disks. Is There a Water Delivery Mechanism?</td>
+			<td style="width: 255px;">PI: Isabel Rebollido</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">5.9</td>
+			<td style="width: 142px;">NIRSpec/FS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2055" target="_parent">2055</a></td>
+			<td style="width: 349px;">Tracing Hot Jupiter Formation and Migration with Volatile and Refractory Element Ratios</td>
+			<td style="width: 255px;">PI: Joshua Lothringer</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">9.1</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2062" target="_parent">2062</a></td>
+			<td style="width: 349px;">Transmission Spectroscopy of the Super-Neptune WASP-166b</td>
+			<td style="width: 255px;">PI: Andrew Mayo<br />
+			Co-PI: Courtney Dressing</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">22.8</td>
+			<td style="width: 142px;">NIRISS/SOSS<br />
+			NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2084" target="_parent">2084</a></td>
+			<td style="width: 349px;">Is It Raining Lava in the Evening on 55 Cancri e?</td>
+			<td style="width: 255px;">PI: Alexis Brandeker</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">25</td>
+			<td style="width: 142px;">NIRCam/GTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2113" target="_parent">2113</a></td>
+			<td style="width: 349px;">Exploring the Morning and Evening Limbs of a Transiting Exoplanet</td>
+			<td style="width: 255px;">PI: Nestor Espinoza</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">15.6</td>
+			<td style="width: 142px;">NIRISS/SOSS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2149" target="_parent">2149</a></td>
+			<td style="width: 349px;">The Nature, Origin, and Fate of Two Planets of a Newborn System through the Lens of their Relative Atmospheric Properties</td>
+			<td style="width: 255px;">PI: Jean-Michel Desert</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.6</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2153" target="_parent">2153</a></td>
+			<td style="width: 349px;">Detecting a Young 2 Jupiter Mass Planet Embedded in the Disk of HD 163296</td>
+			<td style="width: 255px;">PI: Gabriele Cugno<br />
+			Co-PI: Richard Teague</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">7.8</td>
+			<td style="width: 142px;">MIRI/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2158" target="_parent">2158</a></td>
+			<td style="width: 349px;">From East to West: The First Simultaneous Temperature and Cloud Map of a Hot Jupiter</td>
+			<td style="width: 255px;">PI: Vivien Parmentier</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">25</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2159" target="_parent">2159</a></td>
+			<td style="width: 349px;">The First Near-infrared Spectroscopic Phase-curve of a Super-Earth</td>
+			<td style="width: 255px;">PI: Nestor Espinoza</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">14.9</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2232" target="_parent">2232</a></td>
+			<td style="width: 349px;">Precision Tests of the Physics of Mixing in Cool Planetary and Brown Dwarf Atmospheres</td>
+			<td style="width: 255px;">PI: Jonathan Fortney</td>
+			<td style="width: 84px;">&nbsp;</td>
+			<td style="width: 90px;">&nbsp;</td>
+			<td style="width: 142px;">&nbsp;</td>
+			<td style="width: 73px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2243" target="_parent">2243</a></td>
+			<td style="width: 349px;">A Direct Detection of the Closest Jupiter Analog with JWST/MIRI</td>
+			<td style="width: 255px;">PI: Elisabeth Matthews</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">13.8</td>
+			<td style="width: 142px;">MIRI/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2260" target="_parent">2260</a></td>
+			<td style="width: 349px;">Caught in the Act of Dispersing their Disks? MIRI MRS Can Tell</td>
+			<td style="width: 255px;">PI: Ilaria Pascucci</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">18</td>
+			<td style="width: 142px;">MIRI/MRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2278" target="_parent">2278</a></td>
+			<td style="width: 349px;">Illuminating Ice: A 3D View of Water Ice during Planet Formation</td>
+			<td style="width: 255px;">PI: Ilse Cleeves</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">16.2</td>
+			<td style="width: 142px;">NIRCam/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2297" target="_parent">2297</a></td>
+			<td style="width: 349px;">Unveiling Formation Signatures in the Atmosphere of beta Pictoris c</td>
+			<td style="width: 255px;">PI: Tomas Stolker</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">5.1</td>
+			<td style="width: 142px;">NIRISS/AMI</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2304" target="_parent">2304</a></td>
+			<td style="width: 349px;">Hot Take on a Cool World:&nbsp; Does Trappist-1c Have an Atmosphere?</td>
+			<td style="width: 255px;">PI: Laura Kreidberg</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">17.9</td>
+			<td style="width: 142px;">MIRI/Imaging</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2311" target="_parent">2311</a></td>
+			<td style="width: 349px;">JWST MIRI Imaging Survey of Planetary-mass Companions: Testing the Compact Disk Hypothesis</td>
+			<td style="width: 255px;">PI: Ya-Lin Wu<br />
+			Co-PI: Brendan Bowler</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">16.2</td>
+			<td style="width: 142px;">MIRI/Imaging</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2319" target="_parent">2319</a></td>
+			<td style="width: 349px;">TOI-178: The Best Laboratory for Testing Planetary Formation Theories</td>
+			<td style="width: 255px;">PI: Matthew Hooton</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.9</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2334" target="_parent">2334</a></td>
+			<td style="width: 349px;">Exploring the Nature of a Temperate Exoplanet in the Fulton Gap</td>
+			<td style="width: 255px;">PI: Mario Damiano</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">14.4</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2347" target="_parent">2347</a></td>
+			<td style="width: 349px;">A Hell of a Phase Curve: Mapping the Surface and Atmosphere of a Lava Planet K2-141b</td>
+			<td style="width: 255px;">PI: Lisa Dang</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">24.9</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2358" target="_parent">2358</a></td>
+			<td style="width: 349px;">Under the Light of a Dead Star: Revealing the Atmospheric Composition of a White Dwarf Planet</td>
+			<td style="width: 255px;">PI: Ryan MacDonald</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">13.3</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2372" target="_parent">2372</a></td>
+			<td style="width: 349px;">Deep Characterization of the Atmosphere of a Temperate Sub-Neptune</td>
+			<td style="width: 255px;">PI: Renyu Hu</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">67.9</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2420" target="_parent">2420</a></td>
+			<td style="width: 349px;">Probing the Terrestrial Planet TRAPPIST-1c for the Presence of an Atmosphere</td>
+			<td style="width: 255px;">PI: Alexander Rathcke</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">24.9</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2437" target="_parent">2437</a></td>
+			<td style="width: 349px;">Diamonds are Forever: Probing the Carbon Budget and Formation History of the Ultra-Puffy Hot Jupiter WASP-127b</td>
+			<td style="width: 255px;">PI: Stefan Pelletier<br />
+			Co-PIs: Bjorn Benneke and Romain Allart</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">13.1</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2454" target="_parent">2454</a></td>
+			<td style="width: 349px;">Unveiling the Nature of the Impossible Planets</td>
+			<td style="width: 255px;">PI: Peter Gao</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">14.9</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2487" target="_parent">2487</a></td>
+			<td style="width: 349px;">Detecting a Wide-Separation Gas Giant in AS 209</td>
+			<td style="width: 255px;">PI: Stefano Facchini</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">4.6</td>
+			<td style="width: 142px;">NIRCam/Imaging</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2488" target="_parent">2488</a></td>
+			<td style="width: 349px;">Real Time Exoplanet Meteorology: Direct Measurement of Cloud Dynamics on the High-Eccentricity Hot Jupiter HD80606 b</td>
+			<td style="width: 255px;">PI: James Sikora</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">25</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2498" target="_parent">2498</a></td>
+			<td style="width: 349px;">The Atmosphere of a 17Myr Old Hot Jupiter</td>
+			<td style="width: 255px;">PI: Andrew Mann</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">8.9</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2507" target="_parent">2507</a></td>
+			<td style="width: 349px;">Thermal Emission from the First Planet Transiting a White Dwarf</td>
+			<td style="width: 255px;">PI: Andrew Vanderburg</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">3</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2508" target="_parent">2508</a></td>
+			<td style="width: 349px;">The First and Only Multi-wavelength Map of an Ultra-short-period Sub-Earth</td>
+			<td style="width: 255px;">PI: Michael Zhang</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">13.2</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2509" target="_parent">2509</a></td>
+			<td style="width: 349px;">Kernel-Phase Detection Limits for Planet Discovery with JWST</td>
+			<td style="width: 255px;">PI: Samuel Factor</td>
+			<td style="width: 84px;">&nbsp;</td>
+			<td style="width: 90px;">&nbsp;</td>
+			<td style="width: 142px;">&nbsp;</td>
+			<td style="width: 73px; text-align: center;">AR</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2512" target="_parent">2512</a></td>
+			<td style="width: 349px;">Seeing the Forest and the Trees: Unveiling Small Planet Atmospheres with a Population-Level Framework</td>
+			<td style="width: 255px;">PI: Natasha Batalha<br />
+			Co-PI: Johanna Teske</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">141.6</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2538" target="_parent">2538</a></td>
+			<td style="width: 349px;">Using JWST to Search for Planetary Sculptors in an ALMA-Selected Sample of Debris Disks</td>
+			<td style="width: 255px;">PI: Sasha Hinkley</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">23.5</td>
+			<td style="width: 142px;">MIRI/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2540" target="_parent">2540</a></td>
+			<td style="width: 349px;">Investigating the Disk-Planet Interaction in the HD 163296 System with JWST</td>
+			<td style="width: 255px;">PI: Luca Ricci</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">15.6</td>
+			<td style="width: 142px;">NIRCam/Coronagraphy</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2562" target="_parent">2562</a></td>
+			<td style="width: 349px;">Dust Settling and Grain Evolution in Edge-on Protoplanetary Disks</td>
+			<td style="width: 255px;">PI: Francois Menard<br />
+			Co-PI: Karl Stapelfeldt</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">10.8</td>
+			<td style="width: 142px;">NIRCam/Imaging<br />
+			MIRI/Imaging</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2571" target="_parent">2571</a></td>
+			<td style="width: 349px;">Unveiling the Atmospheric Composition and Haze Formation Rates in the Young, Cool, Super-Puff Kepler-51d</td>
+			<td style="width: 255px;">PI: Jessica Libby-Roberts<br />
+			Co-PI: Zach Berta-Thompson</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">20.5</td>
+			<td style="width: 142px;">NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2589" target="_parent">2589</a></td>
+			<td style="width: 349px;">Atmospheric Reconnaissance of the TRAPPIST-1 Planets</td>
+			<td style="width: 255px;">PI: Olivia Lim</td>
+			<td style="width: 84px; text-align: center;">0</td>
+			<td style="width: 90px; text-align: center;">53.7</td>
+			<td style="width: 142px;">NIRISS/SOSS<br />
+			NIRSpec/BOTS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2594" target="_parent">2594</a></td>
+			<td style="width: 349px;">The Twin Paradox: Assessing Planetary Radius Evolution with a CH4 Thermometer</td>
+			<td style="width: 255px;">PI: Jessica Spake<br />
+			Co-PI: Zafar Rustamkulov</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">16.6</td>
+			<td style="width: 142px;">NIRSpec/BOTS<br />
+			NIRISS/SOSS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2627" target="_parent">2627</a></td>
+			<td style="width: 349px;">Demonstrating a Model-based Coronagraphic Phase Retrieval for Processing of High-Contrast-Imaging Observations with the James Webb Space Telescope</td>
+			<td style="width: 255px;">PI: Marie Ygouf</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">9.9</td>
+			<td style="width: 142px;">Wfsc Fine Phasing&nbsp; NIRCam/Coronagraphy<br />
+			NIRCam/Engineering Imaging</td>
+			<td style="width: 73px; text-align: center;">GO, Calibration</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2667" target="_parent">2667</a></td>
+			<td style="width: 349px;">Good Vibrations: Directly Measuring Exoplanet Aerosol Compositions with MIRI Spectroscopy</td>
+			<td style="width: 255px;">PI: Hannah Wakeford</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">9.2</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2708" target="_parent">2708</a></td>
+			<td style="width: 349px;">The Thermal Emission Spectrum of the Closest M Dwarf Transiting Rocky Planet</td>
+			<td style="width: 255px;">PI: Zach Berta-Thompson</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">17.8</td>
+			<td style="width: 142px;">MIRI/LRS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><a href="/jwst/science-execution/program-information?id=2722" target="_parent">2722</a></td>
+			<td style="width: 349px;">Chemical Disequilibrium in a Temperate Sub-Neptune</td>
+			<td style="width: 255px;">PI: Nikku Madhusudhan</td>
+			<td style="width: 84px; text-align: center;">12</td>
+			<td style="width: 90px; text-align: center;">20.4</td>
+			<td style="width: 142px;">NIRSpec/BOTS<br />
+			MIRI/LRS<br />
+			NIRISS/SOSS</td>
+			<td style="width: 73px; text-align: center;">GO</td>
+		</tr>

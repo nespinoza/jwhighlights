@@ -1,0 +1,775 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                                                 %%
+%% Please do not use \input{...} to include other tex files.       %%
+%% Submit your LaTeX manuscript as one .tex document.              %%
+%%                                                                 %%
+%% All additional figures and files should be attached             %%
+%% separately and not embedded in the \TeX\ document itself.       %%
+%%                                                                 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%\documentclass[referee,sn-basic]{sn-jnl}% referee option is meant for double line spacing
+
+%%=======================================================%%
+%% to print line numbers in the margin use lineno option %%
+%%=======================================================%%
+
+%%\documentclass[lineno,sn-basic]{sn-jnl}% Basic Springer Nature Reference Style/Chemistry Reference Style
+
+%%======================================================%%
+%% to compile with pdflatex/xelatex use pdflatex option %%
+%%======================================================%%
+
+%%\documentclass[pdflatex,sn-basic]{sn-jnl}% Basic Springer Nature Reference Style/Chemistry Reference Style
+
+%%\documentclass[sn-basic]{sn-jnl}% Basic Springer Nature Reference Style/Chemistry Reference Style
+%%\documentclass[pdflatex,sn-mathphys]{sn-jnl}% Math and Physical Sciences Reference Style
+%%\documentclass[sn-aps]{sn-jnl}% American Physical Society (APS) Reference Style
+%%\documentclass[sn-vancouver]{sn-jnl}% Vancouver Reference Style
+%%\documentclass[sn-apa]{sn-jnl}% APA Reference Style
+%%\documentclass[sn-chicago]{sn-jnl}% Chicago-based Humanities Reference Style
+%%\documentclass[sn-standardnature]{sn-jnl}% Standard Nature Portfolio Reference Style
+%%\documentclass[default]{sn-jnl}% Default
+%%\documentclass[default,iicol]{sn-jnl}% Default with double column layout
+
+\documentclass[pdflatex,sn-standardnature]{sn-jnl}% Default with double column layout
+\usepackage{array}
+\newcolumntype{C}{>{$}c<{$}} % math-mode version of "c" column type
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+%%%% Standard Packages
+%%<additional latex packages if required can be included here>
+%%%%
+
+%%%%%=============================================================================%%%%
+%%%%  Remarks: This template is provided to aid authors with the preparation
+%%%%  of original research articles intended for submission to journals published 
+%%%%  by Springer Nature. The guidance has been prepared in partnership with 
+%%%%  production teams to conform to Springer Nature technical requirements. 
+%%%%  Editorial and presentation requirements differ among journal portfolios and 
+%%%%  research disciplines. You may find sections in this template are irrelevant 
+%%%%  to your work and are empowered to omit any such section if allowed by the 
+%%%%  journal you intend to submit to. The submission guidelines and policies 
+%%%%  of the journal take precedence. A detailed User Manual is available in the 
+%%%%  template package for technical guidance.
+%%%%%=============================================================================%%%%
+
+%\jyear{2021}%
+
+
+\raggedbottom
+%%\unnumbered% uncomment this for unnumbered level heads
+
+\def\aap{{Astron. Astrophys.}}		% Astronomy and Astrophysics
+\def\apj{{Astrophys. J.}}			% Astrophysical Journal
+\def\aj{{Astron. J.}}
+\def\apjl{{Astrophys. J. L.}}		% Astrophysical Journal, Letters
+\def\apjs{{Astrophys. J. S.}}		% Astrophysical Journal, Supplement
+\def\pasp{{Publ. Astron. Soc. Pacif.}}		% Publications of the ASP
+\def\procspie{{Proc.~SPIE}}
+\def\mnras{{Mon. Not. R. Astron. Soc.}}
+\def\nat{{Nature}}
+\def\icarus{{Icarus}}
+\def\aaps{{Astron. Astrophys. Suppl. Ser.}}
+
+\begin{document}
+
+%Length limit
+%First paragraph: 200 words
+%Total main text including first paragraph: 2500 words
+%4 display items that each occupy a quarter of a page
+%50 references
+%Sections are separated with subheadings to aid navigation. Subheadings may be up to 40 characters (including spaces).
+
+
+%\title[GJ\,1214b Phase Curve]{A thermal emission phase curve of the sub-Neptune exoplanet GJ\,1214b}
+
+\title[GJ\,1214b Phase Curve]{A reflective, metal-rich atmosphere for GJ\,1214b from its JWST phase curve}
+
+
+\author[1]{Eliza M.-R. Kempton} %\email{ekempton@astro.umd.edu}
+
+\author[2]{Michael Zhang}
+\author[2]{Jacob L.\ Bean}
+\author[3]{Maria E.\ Steinrueck}
+\author[4]{Anjali A.\,A.\ Piette}
+\author[5,6]{Vivien Parmentier}
+\author[7]{Isaac Malsky}
+\author[8]{Michael T.\ Roman}
+\author[7]{Emily Rauscher}
+\author[4]{Peter Gao}
+\author[9]{Taylor J.\ Bell}
+\author[2]{Qiao Xue}
+\author[5,10]{Jake Taylor}
+\author[1,11]{Arjun B.\ Savel}
+\author[1]{Kenneth E.\ Arnold}
+\author[1]{Matthew C.\ Nixon}
+\author[12]{Kevin B.\ Stevenson}
+\author[13]{Megan Mansfield}
+\author[14]{Sarah Kendrew}
+\author[3,15]{Sebastian Zieba}
+\author[16,17]{Elsa Ducrot}
+\author[17]{Achr\`{e}ne Dyrek}
+\author[17]{Pierre-Olivier Lagage}
+\author[18]{Keivan G. Stassun}
+\author[19]{Gregory W.\ Henry}
+\author[20]{Travis Barman}
+\author[21]{Roxana Lupu}
+\author[1]{Matej Malik}
+\author[22]{Tiffany Kataria\textsuperscript{22}}
+\author[1]{Jegug Ih}
+\author[23]{Guangwei Fu}
+\author[24]{Luis Welbanks}
+\author[25]{Peter McGill}
+
+
+
+
+
+
+
+\affil[1]{Department of Astronomy, University of Maryland, College Park, MD, USA}
+\affil[2]{Department of Astronomy \& Astrophysics, University of Chicago, Chicago, IL, USA}
+\affil[3]{Max-Planck-Institut f\"ur Astronomie, Heidelberg, Germany}
+\affil[4]{Earth and Planets Laboratory, Carnegie Institution for Science, Washington, DC, USA}
+\affil[5]{Department of Physics, University of Oxford, Oxford, UK}
+\affil[6]{Université Côte d’Azur, Observatoire de la Côte d’Azur, CNRS, Laboratoire Lagrange, France}
+\affil[7]{Department of Astronomy, University of Michigan, Ann Arbor, MI, USA}
+\affil[8]{School of Physics and Astronomy, University of Leicester, Leicester, UK}
+\affil[9]{BAER Institute, NASA Ames Research Center, Moffet Field, CA, USA}
+\affil[10]{Institut Trottier de Recherche sur les Exoplan\`etes and D\'epartement de Physique, Universit\'e de Montr\'eal, Montr\'eal, QC, Canada}
+\affil[11]{Center for Computational Astrophysics, Flatiron Institute, New York, NY, USA}
+\affil[12]{Johns Hopkins Applied Physics Laboratory, Laurel,  MD, USA}
+\affil[13]{Steward Observatory, University of Arizona, Tucson,  AZ, USA}
+\affil[14]{European Space Agency, Space Telescope Science Institute, Baltimore, MD, USA}
+\affil[15]{Leiden Observatory, Leiden University, Leiden, The Netherlands}
+\affil[16]{Paris Region Fellow, Marie Sklodowska-Curie Action}
+\affil[17]{AIM, CEA, CNRS, Universit\'e Paris-Saclay, Universit\'e de Paris, Gif-sur-Yvette, France}
+\affil[18]{Department of Physics and Astronomy, Vanderbilt University, Nashville, TN, USA}
+\affil[19]{Center of Excellence in Information Systems, Tennessee State University, Nashville, TN, USA}
+\affil[20]{Lunar and Planetary Laboratory, University of Arizona, Tucson, AZ, USA}
+\affil[21]{Eureka Scientific, Inc., Oakland, CA, USA}
+\affil[22]{NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena,  CA, USA}
+\affil[23]{Department of Physics \& Astronomy, Johns Hopkins University, Baltimore, MD, USA}
+\affil[24]{School of Earth \& Space Exploration, Arizona State University, Tempe, AZ, USA}
+\affil[25]{Department of Astronomy \& Astrophysics, University of California, Santa Cruz, CA, USA}
+
+
+
+\maketitle
+
+\textbf{There are no planets intermediate in size between Earth and Neptune in our Solar System, yet these objects are found around a substantial fraction of other stars \cite{howard12}. Population statistics show that close-in planets in this size range bifurcate into two classes based on their radii \cite{fulton17,vaneylen18}. It is hypothesized that the group with larger radii (referred to as ``sub-Neptunes'') is distinguished by having hydrogen-dominated atmospheres that are a few percent of the total mass of the planets \cite{bean21}. GJ\,1214b is an archetype sub-Neptune that has been observed extensively using transmission spectroscopy to test this hypothesis \cite{bean10, croll11, bean11, desert11, berta12, fraine13, kreidberg14, kasper20, orell22, spake22}. However, the measured spectra are featureless, and thus inconclusive, due to the presence of high-altitude aerosols in the planet’s atmosphere. Here we report a spectroscopic thermal phase curve of GJ\,1214b obtained with JWST in the mid-infrared. The dayside and nightside spectra (average brightness temperatures of 553\,$\pm$\,9 and 437 $\pm$\,19\,K, respectively) each show $>3\sigma$ evidence of absorption features, with H$_2$O as the most likely cause in both. The measured global thermal emission implies that GJ\,1214b's Bond albedo is 0.51\,$\pm$\,0.06. Comparison between the spectroscopic phase curve data and three-dimensional models of GJ\,1214b reveal a planet with a high metallicity atmosphere blanketed by a thick and highly reflective layer of clouds or haze.}
+
+
+
+% There are no planets intermediate in size between Earth and Neptune in our Solar System, yet these objects are found around a substantial fraction of other stars. Population statistics show that close-in planets in this size range bifurcate into two classes based on their radii. It is hypothesized that the group with larger radii (referred to as ``sub-Neptunes'') is distinguished by having hydrogen-dominated atmospheres that are a few percent of the total mass of the planets. The transiting exoplanet GJ 1214b is an archetype sub-Neptune that has been observed extensively using transmission spectroscopy to test this hypothesis. However, the results have been inconclusive because high-altitude aerosols have prevented the measurement of the planet's atmospheric composition. To circumvent the challenges of featureless transmission spectra, here we present a spectroscopic thermal phase curve of GJ 1214b with the JWST MIRI instrument. The phase curve data reveal that the planet's dayside spectrum resembles a blackbody at 553 +/- 5 K, whereas its nightside spectrum  is not well fit by a single blackbody and reveals spectral features suggestive of H2O and perhaps CH4 and HCN.  The planet's global thermal emission allows us to measure GJ 1214b's Bond albedo to be 0.51 +/- 0.04, implying reflective aerosols. Comparison between our spectroscopic phase curve data and three-dimensional models of GJ 1214b reveal a planet with a high metallicity atmosphere blanketed by a thick and highly reflective layer of clouds or haze.
+
+
+The exoplanet GJ\,1214b has a radius of 2.6\,$R_{\oplus}$ and orbits its late M dwarf host star with a period of 37.9\,hours \cite{charbonneau09}. We observed the phase curve of GJ\,1214b using JWST's Mid-Infrared Instrument Low Resolution Spectrometer (MIRI LRS) \cite{kendrew15} on July 20\,--\,22, 2022. The observation was a time series of regular and continuous integrations using the slitless prism mode, starting 2.0~hours before the predicted time of secondary eclipse.  The data acquisition continued through the eclipse, a transit, and for 1.1 hours after a second eclipse for a total of 41.0\,hours. The telescope pointing was kept fixed during the observation; neither scanning nor dithering was used. A total of 21,600 integrations with 42 groups per integration (6.68\,s integration time) were obtained. 
+
+We used a custom pipeline to reduce the data and extract the combined spectra of the planet and its host star from 5 to 12\,$\mu$m. We generated spectroscopic light curves (Extended Data Figure~\ref{fig:spectroscopic_lc}, inverted to equivalently produce spectra at each orbital phase; Extended Data Figure~\ref{fig:spectra_vs_phase}) by binning the data by 0.5\,$\mu$m (corresponding to 7 to 28 pixels per bin). We also produced a band-integrated ``white'' light phase curve by summing the data over all wavelengths (Figure~\ref{fig:wl_phasecurve}). Although the raw JWST light curves exhibit systematics that are typical for space-based phase curve observations, we clearly see the transit and the secondary eclipse in the light curve prior to any detrending (Extended Data Figure~\ref{fig:raw_white_lc}). We thus applied corrections for the systematics using standard methods and fit the data with an exoplanet phase curve model. More details of the data analysis are given in the Methods section.
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=1.0\textwidth]{wl_phase_curve.pdf}
+    \caption{\textbf{The white light phase curve of GJ\,1214b.} \textbf{a,} The phase curve integrated from $5-12$\,$\mu$m after subtraction of instrument systematics and removal of the first hour of data.  The transit and two eclipses are clearly seen at phase 0.0 and $\pm 0.5$, respectively.  Red points are binned at every 5 degrees in orbital phase.  The black line is our best-fit astrophysical model, which includes the primary transit, secondary eclipses, and phase-dependent thermal emission assuming a second-order sinusoid functional form.  \textbf{b,} Same as panel a, but zoomed in to show the phase modulation in the planet's thermal emission.  The dashed black line indicates the (presumed constant) stellar flux in the absence of any emission from the planet.  \textbf{c,} Residuals of the binned data from the astrophysical model with 1$\sigma$ error bars. }
+    \label{fig:wl_phasecurve} 
+\end{figure}
+
+Previous observations at 4.5\,$\mu$m with the Spitzer Space Telescope tentatively detected the secondary eclipse of GJ\,1214b half an orbital period following the transit (i.e., at phase 0.5) with a corresponding brightness temperature of $545^{+40}_{-50}$\,K \cite{gillon14}. We confirm the timing of the secondary eclipse, which is also consistent with prior constraints from radial velocity observations \cite{cloutier21}, suggesting a nearly circular orbit for the planet.  We measure a best-fit brightness temperature for the MIRI 5\,--\,12\,$\mu$m secondary eclipse of $553 \pm 9$\,K, in further agreement with the prior Spitzer observation.
+
+
+Our measurement of GJ\,1214b's thermal emission allows us to map out the planet's longitudinal brightness temperature distribution in the 5\,--\,12~$\mu$m wavelength range (Figure~\ref{fig:T_map}).  It is apparent from this calculation that the planet must have a non-zero albedo, as its emission at nearly all longitudes falls well below what is expected for a fully absorptive planet in the limit that it uniformly redistributes the energy received from its host star (dashed line in Figure~\ref{fig:T_map}).  Furthermore, we estimate that the MIRI LRS bandpass encompasses approximately 50\,--\,60\% of the planet's emitted flux (see Methods).  This gives us confidence that we are capturing the majority (and the peak) of GJ\,1214b's thermal emission and allows us to determine the planet's Bond albedo without heavy reliance on model extrapolations.  We estimate a Bond albedo of \mbox{$0.51 \pm 0.06$}, implying that the planet reflects a considerable fraction of the incident starlight it receives.  The error bar is derived formally from the phase curve data;  we estimate that systematic uncertainty in the nightside flux from choices in the data reduction could make the error as large as 0.12, as detailed in the Methods.  For context, hot Jupiter exoplanets have been found to have very low geometric and Bond albedos \cite{rowe08, stevenson14, brandeker22}.  The majority of solar system planets have Bond albedos less than 0.35, with notable exceptions being Venus (0.75) \cite{moroz81} and Jupiter (new upwardly revised value of 0.53) \cite{li18}.
+
+%we estimate that systematic uncertainty in the nightside flux from choices in the data reduction could make the error as large as 0.12.
+
+
+%We estimate a Bond albedo of $0.51 \pm 0.07$, implying that the planet reflects a considerable fraction of the incident starlight it receives (see details in the Methods section).   For context, hot Jupiter exoplanets have been found to have very low geometric and Bond albedos \cite{rowe08, stevenson14, brandeker22}.  The majority of solar system planets have Bond albedos less than 0.35, with notable exceptions being Venus (0.75) \cite{moroz81} and Jupiter (new upwardly revised value of 0.53) \cite{li18}.  
+
+
+
+
+
+
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.0\textwidth]{wl_map_0409_centerd_0.png}
+    \caption{\textbf{Temperature map of GJ 1214b.} \textbf{a,} The equatorial 5\,--\,12\,$\mu$m brightness temperature vs.\ phase angle of GJ\,1214b, obtained by inverting the phase curve observations, as described in the Methods section.  The gray region is the 3$\sigma$ confidence interval on the derived temperature.  The dashed line indicates the zero-albedo temperature of GJ\,1214b under conditions of uniform heat redistribution.  \textbf{b,} The photospheric temperature map extrapolated by inverting the phase curve assuming a cosine dependence of the temperature with latitude.  Black regions are where the mapping inversion of the measured planet-star flux ratio produces negative planetary emission due to the functional form that is enforced \cite{keating17}.}
+    \label{fig:T_map} 
+\end{figure}
+
+
+%To further interpret the data, we compared observed phase curves to various new simulations from \mbox{3-D} general circulation models (GCMs). We simulated clear and aerosol-rich atmospheres with compositions assuming solar metallicity and a range of higher mean molecular weights (100, 300, and 3000$\times$ solar metallicity). 
+
+%Given large uncertainties in the nature of GJ\,1214b's aerosols, we ran several simulations with global hazes of different assumed scattering properties, including those based on soot \citep{lavvas17}, tholins \citep{khare84], and an idealized conservative scattering haze.  We assumed a vertical distribution based on results of 1-D models of photochemical aerosol formation using CARMA [refNN]. Such hazes have not been previously modeled with GCMs, and details of our GCM and aerosol models are described in the Methods section. From these simulations, we forward-modeled synthetic MIRI phase curves for comparison to the data (see Figure NN).  
+
+%%%We found MIRI phase curve data are best matched by GCM simulations that included a metallicity in excess of 100$\times$ solar and a thick haze composed of highly conservative.  The (single scattering albedo $\sim$0.9999) aerosols. The presence of modestly absorbing aerosol were found to create excessive heating inconsistent with the dayside emitted fluxes. Furthermore, the required optical thickness of this scattering haze was 10$\times$ greater than what is predicted by microphysical modelling with CARMA[refNN]. 
+
+%We found MIRI phase curve data are best matched by GCM simulations that included a metallicity in excess of 100$\times$ solar and a thick haze composed of highly conservative scattering aerosols. On the dayside, the observed phase curve fall between models that assumed tholin-like aerosols and those with purely conservative scatterers. This implies the aerosols are highly scattering, with visible single scattering albedos (SSA) between X and $\sim$0.9999. Furthermore, the required optical thickness of this scattering haze was 10$\times$ greater than the nominal aerosol model based on  CARMA[refNN].   
+
+%The presence of a thick, high-albedo haze is consistent with all the available data derived from the observations, including the white light phase curve (Figure~\ref{fig:wl_models}), the dayside and nightside spectra (Figure~\ref{fig:fp_day_night}, discussed further, below), the phase curve amplitudes and peak offsets (Extended Data Figure~\ref{fig:amp_offset}), and the transmission spectrum (Extended Data Figure NN).  
+
+
+
+
+To obtain further constraints on GJ\,1214b's atmospheric composition, aerosol properties, and atmospheric dynamics, we ran a new set of 3-D general circulation models (GCMs) spanning compositions from solar metallicity to high mean molecular weight atmospheres (i.e., 3000$\times$ solar metallicity; see Methods).  Transmission spectroscopy of GJ\,1214b requires a thick aerosol layer at the planet's terminator \cite{kreidberg14}.  The composition of the aerosols is unknown, but hydrocarbon haze is the favored culprit \cite{morley15,kawashima19b,adams19,lavvas19,gao20b}.   Prior 3-D modeling of GJ\,1214b has focused on clear atmospheres \citep{kataria14} and condensate clouds \cite{charnay15b,charnay15,christie22} but neglected photochemical hazes. Given large uncertainties in the nature of GJ\,1214b's aerosols, we ran end-member GCMs both with clear atmosphere conditions and with a thick global haze.  Our nominal haze model uses the optical properties of soot \citep{lavvas17} and a vertical distribution based on results of 1-D models of photochemical aerosol formation using CARMA \cite{toon1979,ackerman1995}.  We additionally ran several simulations with more reflective hazes (specifically, tholins \citep{khare84} and an idealized conservative scattering haze) due to our finding that GJ\,1214b has a high Bond albedo.  From these simulations, we forward-modeled synthetic MIRI phase curves and phase-resolved spectra for comparison to the data (see Figures~\ref{fig:wl_models} \& \ref{fig:fp_day_night}).  
+
+
+%It has previously been shown that mean molecular weight has a leading order effect on day-night heat transport in tidally locked exoplanet atmospheres, with low mean molecular weight atmospheres (e.g., solar composition) having the most efficient heat transport and therefore producing the smallest phase curve amplitudes and largest peak offsets \cite{zhang17}. Prior 3-D modeling of GJ\,1214b has affirmed this trend in the sub-Neptune regime \cite{kataria14} and has furthermore shown that condensate clouds only moderately perturb the clear atmosphere expectations \cite{charnay15b,charnay15,christie22}.  Thick photochemically-derived hazes however, such as are expected to be present in GJ\,1214b's atmosphere based on prior transmission spectroscopy observations, have not been modeled in GCMs previously.  We include such haze layers in our modeling here, in order to understand their impact on the JWST MIRI phase curve.
+
+%To obtain further constraints on GJ\,1214b's atmospheric composition, aerosol properties, and atmospheric dynamics, we turn to the results from \mbox{3-D} general circulation models (GCMs). We ran a new set of GCMs spanning compositions from solar metallicity gas to high mean molecular weight atmospheres (i.e., 3000$\times$ solar metallicity) for clear and hazy scenarios, as described in the Methods section.  It has previously been shown that mean molecular weight has a leading order effect on day-night heat transport in tidally locked exoplanet atmospheres, with low mean molecular weight atmospheres (e.g., solar composition) having the most efficient heat transport and therefore producing the smallest phase curve amplitudes and largest peak offsets \cite{zhang17}. Prior 3-D modeling of GJ\,1214b has affirmed this trend in the sub-Neptune regime \cite{kataria14} and has furthermore shown that condensate clouds only moderately perturb the clear atmosphere expectations \cite{charnay15b,charnay15,christie22}.  Thick photochemically-derived hazes however, such as are expected to be present in GJ\,1214b's atmosphere based on prior transmission spectroscopy observations, have not been modeled in GCMs previously.  We include such haze layers in our modeling here, in order to understand their impact on the JWST MIRI phase curve. 
+
+
+We found that the broadband MIRI phase curve is best matched by GCM simulations that include a metallicity in excess of 100$\times$ solar and a thick haze composed of highly reflective aerosols (Figure~\ref{fig:wl_models}).  The high metallicity is required to produce the large observed phase curve amplitude \cite[][Extended Data Figure~\ref{fig:amp_offset}]{kataria14,charnay15b,charnay15,christie22}.  On the dayside, the observed phase curve falls between models that assumed tholin-like aerosols and those with purely conservative scatterers, implying single scattering albedos (SSA) in excess of $\sim$0.8 over the wavelength range of GJ\,1214's peak luminosity. 
+ Clear atmospheres absorb too much stellar radiation and are thus all globally too hot to match the observed phase curve.  Furthermore, the nominal CARMA haze model did not provide sufficient radiative feedback to significantly alter GJ\,1214b's thermal structure; models that best match the data required a haze optical thickness enhanced by a factor of 10.  
+
+A consistent picture of a planet with a high metallicity atmosphere and a thick, high-albedo haze qualitatively agrees with all of the available data products: the white light phase curve (Figure~\ref{fig:wl_models}), the dayside and nightside spectra (Figure~\ref{fig:fp_day_night}, discussed further, below), the phase curve amplitudes and peak offsets (Extended Data Figure~\ref{fig:amp_offset}), and the transmission spectrum (Extended Data Figure~\ref{fig:transmission}).  The latter reveals a flat spectrum across the MIRI bandpass.  Due to the computational cost of running GCMs we were unable to fully sample the possible parameter space, and we expect that a finer sampling and perhaps introducing non-uniform aerosol coverage would serve to further refine our best-fit results.
+
+%The presence of a thick, high-albedo haze is consistent with all the available data derived from the observations, including the white light phase curve (Figure~\ref{fig:wl_models}), the dayside and nightside spectra (Figure~\ref{fig:fp_day_night}, discussed further, below), the phase curve amplitudes and peak offsets (Extended Data Figure~\ref{fig:amp_offset}), and the transmission spectrum (Extended Data Figure NN). 
+
+
+%Comparing the GCM results to the white light phase curve (Figure~\ref{fig:wl_models}) and to GJ\,1214b's dayside and nightside spectra (Figure~\ref{fig:fp_day_night}), we find that low metallicity atmospheres are strongly disfavored by the data.  Furthermore, clear atmospheres of all compositions produce a much hotter planet than what is observed.  We achieve a significantly improved fit to the data by including a thick haze in our models.  Transmission spectroscopy of GJ\,1214b requires a thick aerosol layer at the planet's terminator \cite{kreidberg14}.  The composition of the aerosols is unknown, but hydrocarbon haze is the favored culprit \cite{morley15,kawashima19b,adams19,lavvas19,gao20b}.  Our hazy GCMs therefore include soot hazes as the nominal aerosol.  Soot, however, is highly absorptive; it generates thermal inversions in GJ\,1214b's dayside atmosphere, elevating the dayside flux and providing a poor overall fit to the planet's 5 -- 12\,$\mu$m luminosity.  We must introduce much more reflective aerosol particles to better reproduce GJ\,1214b's high observed Bond albedo.   We ultimately employed several choices for the haze optical properties in our modeling: soot, Titan-like tholins, and a maximally reflective limiting case using the soot optical properties but increasing the single scattering albedo (SSA) to a value of 0.9999.  
+
+  
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=1\textwidth]{wl_phase_curve_models.pdf}
+    \caption{\textbf{White light phase curve compared to GCM outputs.} \textbf{a,} The best-fit phase curve model (thick black line) is compared against GCM outputs for clear-atmosphere models, assuming various metallicities, as indicated.  Dark and light gray shaded regions are the 1$\sigma$ and 3$\sigma$ uncertainty regions, respectively. All clear atmosphere models predict the planet to be much hotter and therefore have considerably more 5 -- 12\,$\mu$m thermal emission than what is observed.  \textbf{b,} The addition of a thick haze to the 100$\times$ solar metallicity GCM (solid colored lines) alters the model predictions.  Absorptive hazes (e.g., soot) heat the dayside and cool the nightside, producing even stronger dayside emission and thus a poor fit to the observations.  More reflective hazes (e.g., tholins and ``maximally reflective" hazes with a high imposed SSA) cool the planet globally and provide a better match to the observed dayside flux.  \textbf{c,} Models with reflective hazes and high metallicity (e.g., blue and purple lines) provide the best qualitative fit to the observed phase curve, although further tuning of the haze parameters and metallicity would be required to reproduce the observed thermal emission at all orbital phases.}
+    \label{fig:wl_models} 
+\end{figure}
+
+%Our best-fit 3-D forward models when compared against the MIRI phase curve data have metallicity in excess of 100$\times$ solar, haze that is approximately 10$\times$ more abundant than our nominal model, and haze particles with a high SSA. The high haze SSA implies more reflective aerosols on GJ\,1214b than what are found in Titan's atmosphere. This picture of GJ\,1214b's atmosphere qualitatively agrees with all of the available data products: the white light phase curve (Figure~\ref{fig:wl_models}), the dayside and nightside spectra (Figure~\ref{fig:fp_day_night}, discussed further, below), the phase curve amplitudes and peak offsets (Extended Data Figure~\ref{fig:amp_offset}), and the transmission spectrum (Extended Data Figure NN).  The latter reveals a flat spectrum across the MIRI bandpass.  Due to the computational cost of running GCMs we were unable to fully sample the possible parameter space, and we expect that a finer sampling and perhaps introducing non-uniform aerosol coverage would serve to further refine our best-fit results.
+
+
+% 
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=1.0\textwidth]{GJ1214_fp_day_night.pdf}
+    \caption{\textbf{JWST MIRI dayside and nightside spectra of GJ\,1214b.} \textbf{a,} The dayside spectrum is shown in black (filled symbols with 1$\sigma$ error bars) with the best-fit blackbody curve at $T = 553$\,K overplotted in gray.  \textbf{b,} The nightside spectrum (open symbols with 1$\sigma$ error bars) and its best-fit blackbody of $T = 437$\,K.  In both panels, colored lines show spectra derived from GCMs with various metallicities (1 -- 3000$\times$ solar), haze optical thickness (clear atmospheres and 10$\times$ thicker than our nominal haze model), and haze optical properties (soot, tholin, and highly reflective), as described in the Methods section.  The dayside and nightside spectra are jointly well-fit by models that have high metallicity accompanied by thick and reflective haze (e.g., the solid light blue lines, representing a hazy atmosphere at 300$\times$ solar metallicity), suggesting a globally consistent solution.}
+    \label{fig:fp_day_night} 
+\end{figure}
+
+Finally, we investigated whether the shape of GJ\,1214b's dayside and nightside spectra can reveal anything about the planet's atmospheric composition.  The planet's dayside spectrum (Figure~\ref{fig:fp_day_night}, panel a) appears blackbody-like by eye, with a best-fit temperature of $553 \pm 9$\,K.  However, a more careful analysis reveals that the dayside spectrum is formally discrepant from an isothermal atmosphere at the 3.1$\sigma$ confidence level (see Methods).  The nightside spectrum (Figure~\ref{fig:fp_day_night}, panel b) is even more inconsistent with a single-component blackbody (at $>6\sigma$), with a deep absorption feature clearly visible at \mbox{5\,--\,9\,$\mu$m}.  Interestingly, this feature is also mirrored in the GCM-derived spectra, which arises in the models from overlapping bands of H$_2$O (5\,--\,8\,$\mu$m) and CH$_4$ \mbox{(7\,--\,9\,$\mu$m)}.
+
+%determine whether any formal detections of atmospheric species are implied. 
+
+%The nightside retrievals additionally produce weak detections of CH$_4$ (1.6$\sigma$) and HCN (1.7$\sigma$). 
+
+We ran retrievals on the dayside and nightside spectra to obtain further constraints on the planet's atmospheric composition. When removing the data at $\lambda > 10.5$\,$\mu$m due to concerns about correlated noise at these wavelengths (see Methods), our dayside and nightside free retrievals identify H$_2$O as the absorber at the 2.5$\sigma$ and 2.6$\sigma$ confidence levels, respectively (Extended Data Figure~\ref{fig:retrievals}). There is some evidence of additional absorption on the nightside from a combination of CH$_4$ and HCN (identified at 1.6$\sigma$ and 1.7$\sigma$ confidence, respectively). Interestingly, HCN is predicted to form as a byproduct of CH$_4$ photolysis; the latter process is needed to catalyze the formation of hydrocarbon haze \cite{kempton12}. We caution that we consider all of these molecular detections to be tentative because of the low resolution and signal-to-noise of the data and having not performed an exhaustive search of all possible absorbers.  In particular, we have found that minor changes in the shape of the spectrum around the  5\,--\,9\,$\mu$m feature can result in a tradeoff between detections of H$_2$O, CH$_4$, and HCN.  One of these molecules is always retrieved at high abundance, independent of choices in the data reduction, and when taken together we find here that H$_2$O$+$CH$_4$ (H$_2$O+HCN) are jointly detected at the 3.0$\sigma$ (3.1$\sigma$) level in the nightside spectrum.  Our retrievals allow for water abundances in excess of 100$\times$ solar, which is consistent with the results from our GCM investigations.  
+
+
+%We finally investigate whether the non-blackbody shape of GJ\,1214b's nightside spectrum can reveal anything about the planet's atmospheric composition.  The absorption feature present in the GCM-derived spectra, which is also mirrored in the data at 5 -- 9\,$\mu$m (Figure~\ref{fig:fp_day_night}, panel b) results from overlapping bands of H$_2$O (5 -- 8\,$\mu$m) and CH$_4$ (7 -- 9\,$\mu$m).  Our nightside observations additionally show a second tentative absorption feature at 10.5 -- 12\,$\mu$m that is not well-matched by the GCMs.  We are cautious about interpreting the longer wavelength feature because we found the data to be highly sensitive to choices in background subtraction beyond 10.5\,$\mu$m (see Methods).  We ran additional retrievals on the nightside spectrum to determine whether these apparent spectral features formally imply the detection of any species (see Methods).  When removing the data at $\lambda > 10.5$\,$\mu$m, all of our free retrievals indicate a 2.7$\sigma$ detection of H$_2$O at abundances consistent with 3 -- 1000$\times$ solar.  CH$_4$ is also tentatively detected at the 2-$\sigma$ level at sub-solar abundance.  When we do include the 10 -- 12\,$\mu$m data, the retrievals additionally tentatively prefer a modest abundance of HCN to match the drop in flux at the reddest wavelengths.  HCN is predicted to form as a byproduct of CH$_4$ photolysis; the latter process is needed to catalyze the formation of hydrocarbon haze \cite{kempton12}. We caution that we consider all of these molecular detections (H$_2$O, CH$_4$, and HCN) to be tentative because of the low resolution of the data and having not performed an exhaustive search of all possible absorbers.  In particular, we have found that minor changes in the shape of the spectrum around the  5 -- 9\,$\mu$m feature can result in a tradeoff between detections of H$_2$O and CH$_4$.  One of these molecules is always retrieved at high abundance, independent of choices in the data reduction. 
+
+While direct spectroscopic characterization of GJ\,1214b's atmosphere remains challenging due to thick and pervasive aerosol coverage, the JWST MIRI phase curve provides considerable insight into the planet's atmospheric properties.  Our finding that GJ\,1214b's atmosphere is highly enhanced in heavy elements relative to its host star rules out the scenario of an unaltered primary atmosphere.  Instead, our observations are consistent with a hydrogen-rich but metallicity-enhanced atmosphere. This is in line with predictions that sub-Neptunes retain primordial atmospheres composed of nebular gases, which are sculpted by mass loss that is either photoevaporative or core-powered \cite{owen13,gupta19}.  Alternatively, given the possibility of high water abundance from our retrievals and our inability to rule out very high metallicity atmospheres, our results are also consistent with a  ``water world" planetary scenario, in which the planet's high \textit{bulk} water content would result from formation beyond the water ice line or incorporation of significant material from that region  \cite{kuchner03,leger04,rogers10b}.  
+
+The high observed Bond albedo of GJ\,1214b opens new questions as to the nature of the planet's aerosol layer.  The previous candidates for hydrocarbon hazes (i.e., soots and tholins) are too absorptive to match our observations.  Laboratory experiments that generate photochemical hazes for sub-Neptune-like environments hint at a wider variety of outcomes for haze formation \cite{horst18,he18,gavilan18} and could provide viable candidates.  Reflective clouds such as KCl and ZnS are also a possibility, but it has been challenging to find scenarios that form sufficiently thick clouds high enough in the atmosphere to match the featureless nature of GJ\,1214b's transmission spectrum \cite{morley15, ohno18}.  The high observed albedo of GJ\,1214b motivates further work toward understanding the diversity of aerosols that can exist in exoplanetary environments.
+
+
+\section*{Methods}
+
+\renewcommand{\tablename}{Extended Data Table}
+%\renewcommand{\thetable}{ \arabic{table}}
+\setcounter{table}{0}
+
+\renewcommand{\figurename}{Extended Data Fig.}
+%\renewcommand{\thefigure}{ \arabic{figure}}
+\setcounter{figure}{0}
+
+\subsection*{Data reduction}
+Our primary data reduction was carried out using a new, end-to-end pipeline (\texttt{SPARTA}) that begins with the raw, uncalibrated files. This pipeline was tested on the L\,168-9b transit observation obtained during JWST commissioning and we found agreement with the results of Ref.~\cite{bouwman22}. We also performed independent reductions of the GJ\,1214b phase curve using the \texttt{Eureka!} package \cite{eureka} as a further check of the robustness of our results. The \texttt{Eureka!} package uses the stage 1 and 2 reduction routines from the JWST Science Calibration Pipeline. We found that we could get consistent results between \texttt{SPARTA} and \texttt{Eureka!} when adopting the same assumptions for the exponential ramp used to model the instrument systematics (see below). We ultimately chose the reduction described in detail here as the primary result for this paper because it gave the smallest scatter of the residuals (significantly outperforming the other reductions at wavelengths $<8\,\mu$m), it was more robust to variations in the reduction and analysis parameters, and it was more extensively developed and tested for this data set.
+
+The raw data files for the GJ\,1214b observation contain 42 up-the-ramp samples (``groups'') for every integration, row (the spatial direction), and column (the spectral direction).  They are therefore 4D arrays.  The phase curve was broken up into five exposures due to data volume limitations. The breaks between the exposures were 40\,s, during which the telescope maintained fine guidance pointing. STScI further divided the delivered data for the exposures into ten segments each to keep file sizes reasonable, resulting in 50 uncalibrated files.
+
+First, we redivide segments 5 and 6 of exposure 3 into three segments: one with only pre-transit data, one that covers the transit only, and one with only post-transit data.  This way, each segment has similar flux throughout, with the exception of the short ingresses and egresses in the middle segment.
+
+Second, we calibrate the data using the reference files provided by STScI: version 32 of the nonlinearity coefficients, version 84 of the dark, version 789 of the flat, version 85 of the read noise, version 73 of the reset, and version 6 of specwcs.  We subtract the reset anomaly, apply the non-linearity correction, subtract the dark current, and multiply by the gain, in the same way as the official JWST pipeline. 
+
+The gain value currently provided in JDocs and the calibration reference files (5.5 e-/DN) is known to be incorrect. The MIRI detector gain was found to be wavelength-dependent, varying from $\sim$2.9\,e-/DN at 5\,$\mu$m to $\sim$3.6\,e-/DN at 15\,$\mu$m and beyond (STScI, private communication). We adopt here an intermediate value of 3.1\,e-/DN, which is consistent with the values adopted in the JWST ETC over the MIRI LRS passband. 
+
+In addition, the non-linearity correction was found to leave higher than desired residuals, especially in the brightest pixels (of order 100s of DN). Currently, the official JWST reference file reports the same correction parameters for all pixels, whereas further investigation suggests that the pixels' non-linearity behavior displays a flux dependency. This issue is being investigated further at STScI.  Therefore, we adopt a two-step process to fit the up-the-ramp samples and obtain slopes for each pixel of each integration.  For each file (corresponding to one segment of one exposure), we:
+
+\begin{enumerate}
+    \item Fit the up-the-ramp samples for each pixel of each integration.
+    \item Calculate residuals of these fits.
+    \item Calculate the median residuals for every group and pixel, across all integrations in the file.
+    \item Subtract these median residuals from the original data
+    \item Fit the up-the-ramp samples for each pixel of each integration again.  Groups with values that deviate from the fit by more than 5$\sigma$ are rejected, and the fit is repeated.  Approximately 0.032\% of all groups are flagged as bad.  This is repeated until convergence.
+\end{enumerate}
+
+Fitting a line to up-the-ramp data is not as trivial as it might appear, because each sample has two sources of noise: read noise, which can be assumed to be independent, and photon noise, which depends on all of the photons accumulated so far and is thus not independent.  The problem is simpler when the differences between adjacent reads are considered.  For the differences, there are two sources of noise: photon noise for the photons accumulated between the two reads, which is independent, and read noise, which is correlated with the read noise on the previous difference.  Due to this covariance, there is no simple method of optimally estimating the slope.  The other naive method of subtracting the first read from the last and dividing by the interval is optimal in the limit where photon noise far exceeds read noise, while the other method of fitting a line to all reads with equal weights is optimal in the limit where read noise far exceeds photon noise.  The optimal estimate can only be obtained by considering the covariance matrix of the differences \citep{fixsen_2000}:
+
+\begin{align}
+\begin{bmatrix}
+(s + 2R^2) & -R^2 & 0 & 0 & ...\\
+-R^2 & (s + 2R^2) & -R^2 & 0 & ...\\ 
+0 & -R^2 & (s + 2R^2) & -R^2 & ...\\
+...
+\end{bmatrix}
+\end{align}
+where $s$ is the signal in photons/group, and $R$ is the read noise.  The inverse of this matrix is the precision matrix, and the sum of the precision matrix's columns (or rows; the matrix is symmetric) gives the optimal weights to apply to the first differences so that their weighted average optimally estimates the slope.  The variance on the estimate is then the inverse of the sum of the weights.
+
+To invert the covariance matrix, we note that it is a tridiagonal matrix with a constant diagonal and constant off-diagonals.  This type of matrix has an analytical inverse, given in Equation 10 of \cite{hu_1996}.  We sum over the rows of the inverse with the help of Mathematica and obtain
+\begin{equation}
+    l \equiv \mathrm{arccosh}(1 + \frac{s}{2R^2})\end{equation}
+\begin{equation}
+    w_j = -\frac{e^l (1-e^{-jl}) (e^{(jl-lN)} - e^l)}{R^2 (e^l - 1)^2 (e^l + e^{-lN})}\\
+\end{equation}
+for the weight of the $j$th first difference out of $N$.  The sum of $w_j$ over $j$ is also analytic, but its expression is longer, so we numerically compute the sums.
+
+
+%\begin{align}
+%    l &\equiv arccosh(1 + \frac{s}{2R^2})
+%    w_j &= -\frac{e^l (1-e^{-jl}) (e^{(jl-lN)} - e^l)}%{R^2 (e^l - 1)^2 (e^l + e^{-lN})}\\
+%\end{align}
+
+
+
+
+
+After generating the rateints files, we measure the position of the trace in each integration.  We compute a 2D template by taking the pixel-wise median of all integrations.  To get the position of the trace in any given integration, we shift and scale the template until it matches the data, using \texttt{scipy's} Nelder-Mead minimizer to find the optimal parameters.  The template matching algorithm ignores the 10 rows closest to either edge, and only consider columns 26--46 (that is, the 10 closest to the trace).  We ignore trace rotation.  Although the inferred ``scale'' (the number which multiplies the template) could be used directly as the flux, we decided to have a dedicated spectral extraction step and consider the scale as a nuisance parameter.
+
+After measuring trace positions, we perform spectral extraction.  For each row between 141 and 386 inclusive, corresponding to 5\,--\,12\,$\mu$m, we sum the columns 33\,--\,39 inclusive.  This 7-pixel extraction window is centered on the brightest column, namely 36.  The background is computed by averaging columns 10:24 and 48:62 (inclusive and zero-indexed) of each row of each integration (i.e., two 15-wide windows equidistant from the trace, one on each side of the trace) and subtracting the result from the flux on a per-integration, per-row basis.  We do not repair any bad pixels at this stage because our attempts have resulted in minimal or deleterious effects.
+
+As the final step of the reduction, we gather all 21,600 fluxes and positions, and identify the bad integrations.  The integrations where the minimizer failed to find a position offset are flagged as bad.  We compute a detrended version of the light curve by subtracting a median-filtered version with a kernel of size 216.  Integrations that are more than 4$\sigma$ from zero in this detrended light curve are flagged as bad.  The first 10 integrations in the observation are also always marked as bad.  Excepting the 25 bad integrations at the very beginning, which we trim off, we find 44 bad integrations (0.2\% of the total).
+
+\subsection*{Time-series systematics}
+We inspected the white light curve (Extended Data Figure~\ref{fig:raw_white_lc}) resulting from the reduction described above to identify instrument systematics in the data. We find that the time-series exhibits a ramp downward with a variety of e-folding timescales (roughly 5\,--\,90 minutes), of which the shortest timescales are most visible early in the visit.  The white light curve also exhibits a linear drift in time of $\sim$1300\,ppm from one secondary eclipse to the next, partially explained by a linear drift in the $y$-position of the spectrum (i.e., the dispersion direction) of $\sim$0.033 pixels.  
+Additional correlated (red) noise is apparent in both the white light and spectroscopic light curves.  It is not clear what the exact noise sources are, but we suspect that they are primarily instrumental. We refer the reader to Morrison et al.\ (submitted), where the various detector systematics that are likely to be present in our data are described in more detail.   We also find that the time-series exhibits a mysterious 200\,ppm pre-transit brightening starting at phase -0.06 (see orange curve in Extended Data Figure \ref{fig:raw_white_lc}), with no obvious wavelength dependence.  This brightening is seen in all independent reductions.  It is unclear whether the brightening is planetary, stellar, or instrumental.  Finally, there were six high gain antennae (HGA) moves during the observation, four of which led to a momentary decrease in flux (Extended Data Figure \ref{fig:raw_white_lc}).
+
+The JWST observation was obtained during a time of maximum brightness for GJ\,1214 over the last five years \citep{henry23}, suggesting a period of minimal spot coverage. The rotation period of the star is also estimated to be $>$50\,days, which is much longer than the timespan of the phase curve. No spot crossings are seen in the transit. Therefore, we do not expect stellar activity to have impacted the data.
+
+
+
+\subsection*{Fitting the time series}
+We infer system parameters from the light curves with \texttt{emcee} \cite{foremanmackey13}.  The free parameters in the white light curve fit are the transit and eclipse time, the transit and eclipse depth, the scaled semi-major axis ($a/R_{s}$), the impact parameter ($b$), the nominal stellar flux ($F_\star$), a coefficient that multiplies the $y$-position of the trace ($c_y$), the amplitude ($A$) and timescale ($\tau$) of the exponential ramp, an error factor that multiplies the nominal errors, and the four sinusoidal coefficients of a second order phase curve ($C_1$, $D_1$, $C_2$, $D_2$). 
+
+To avoid having to fit the steep ramp at the beginning of the observations, we discard the first hour (550 integrations) of observations.  We also identify points that lie more than 4 sigma from the median-filtered light curve (filter size: 216 points, or 1\% of the total length) as outliers and reject them.  Depending on the wavelength, we reject between 0 and 17 points (0--0.08\% of the total). The transit is modelled with \texttt{batman} \cite{batman}, assuming a circular orbit with a period of 1.58040433\,d \cite{cloutier21}, and limb darkening coefficients computed from a \texttt{PHOENIX} model.  The \texttt{PHOENIX} model has parameters $T_{\mathrm{eff}}$ = 3250\,K, $log\,g = 5.0$, and [M/H] = +0.2 and is part of the set of the models originally used in Ref.~\cite{kreidberg14}. This same stellar model is used throughout the rest of our modeling and interpretation of the data, and for error propagation we adopt an uncertainty on $T_{\mathrm{eff}}$ of $\pm$100\,K \cite{cloutier21}.  The disk-integrated spectrum computed in this model provides a good match to the flux calibrated spectrum of GJ\,1214 extracted from the MIRI data, as shown in Extended Data Figure \ref{fig:stellar_spec_comp}.  
+
+
+The systematics model is:
+\begin{align}
+    S = F_* (1 + A\exp{(-t/\tau)} + c_y y + m(t-\overline{t}))
+\end{align}
+The planetary flux model is:
+\begin{align}
+    F_p = E + C_1(\cos(\omega t) - 1) + D_1 \sin(\omega t) + C_2(\cos(2\omega t) - 1) + D_2 \sin(2\omega t)
+    \label{eq_flux}
+\end{align}
+where E is the eclipse depth, $t$ is the time since secondary eclipse, $\overline{t}$ is the mean time, and $\omega=2\pi/P$.  The -1 is included so that at the time of secondary eclipse, the planetary flux is E.  The derived planetary flux model parameters for the white light and spectroscopic phase curves are given in Extended Data Table~\ref{tab:phase_curve_params}.
+
+The $y$-position (i.e., dispersion direction) changes nearly linearly with time during the observations, but with significant high-frequency fluctuations.  To reduce degeneracy, we subtract out the linear trend from $y$ so that all of the linear dependence of flux on time goes into the $m(t-\overline{t})$ term.  The $y$ term is important: without it,  the scatter increases by tens of percent for both the white light curve and the spectral light curves.  The $x$-position (i.e., spatial direction) doesn't carry a similar sensitivity, because small shifts in the spatial position of the trace have nearly imperceptible impacts on the measured flux.
+
+The transit parameters found by our fit to the white light curve are shown in Extended Data Table \ref{tab:transit_params}.  The transit time is within 3.7 seconds (0.4$\sigma$) of that predicted by the ephemeris of Ref.~\cite{kokori_2022}.  The $a/R_*$ is similarly within 1$\sigma$ of that reported by Ref.~\cite{cloutier21}, although our $b$ is smaller than their value of $0.325 \pm 0.025$ by 1.4$\sigma$.  The eclipse in our data happens $80\pm 16$ seconds after phase=0.5.  Fifteen seconds of the delay can be explained by light travel time, leaving $65 \pm 16$ s unexplained.  If this delay is due to eccentricity and not underestimated errors resulting from systematics, it would imply $e\cos(\omega) = 0.00075 \pm 0.0004$.  This is consistent with $e\cos(\omega)=-0.007_{-0.023}^{+0.032}$ derived by Ref.~\cite{gillon14} from Spitzer eclipse observations.  Alternatively, hot spot offsets in planetary atmospheres can cause apparent timing delays, and we estimate that GJ\,1214b's observed hot spot offset could cause a delay consistent with the one we observe.  Due to our overall degree of consistency with the system parameters from Ref.~\cite{cloutier21}, we ultimately adopt their values and associated error bars for $a$, $R_p$, and $R_*$, as well as the size ratios $a/R_*$ and $R_p/R_*$ in our subsequent theoretical modeling efforts and for all calculations that rely on these parameters.  
+
+To fit the spectral light curves, we fix the transit time, eclipse time, $a/R_{s}$, and $b$ to the best fit values found in the white light curve fit.  All other free parameters in the white light curve are also free in the spectral fit.  The limb darkening parameters are again computed from the PHOENIX model.  For wavelengths larger than 10\,$\mu$m, the noise is large enough that the timescale of the exponential ramp is poorly constrained, and large timescales become degenerate with the phase curve parameters because, combined with $c_y y$, they can mimic the phase curve.  We therefore give the timescale a Gaussian prior with mean 0.035\,d and standard deviation 0.01\,d for the three reddest wavelength bins, spanning 10.5\,--\,12.0\,$\mu$m.  The prior of 0.035\,d was chosen because it is similar to the timescales at 9.0\,--\,10.5\,$\mu$m.  
+
+The white light fit achieves a RMS of 280\,ppm, which is 12\% above the photon noise if the gain is assumed to be 3.1 electrons/data number.  In the spectroscopic channels, the RMS of our residuals is 6\% above photon noise in our bluest bin (5.0\,--\,5.5\,$\mu$m), dropping to 0.5\% above photon noise at 8\,$\mu$m before rising again to 13\% in the reddest bin (11.5\,--\,12.0\,$\mu$m).  We note again that the gain is wavelength dependent and has not yet been finalized, so these values are only accurate to several percent.
+
+We performed many tests to assess the robustness of the results from our primary reduction, most of which produced negligible changes ($\lesssim 0.5\sigma$ for every wavelength in the transit spectrum, emission spectrum, nightside emission spectrum, phase curve amplitude, and phase curve offset).  For example, we tried MCMC chain lengths of 3,000 and 30,000, and obtained identical results.  We tried ignoring the pre-transit anomaly by masking phases -0.06 to -0.011, finding minimal differences even in the nightside emission spectrum.  We tried decorrelating against the trace's $x$-position, which changed nothing because the vast majority of the flux was already within our window, and the pointing was very stable.  However, some of our tests resulted in small changes (generally $\sim$0.8$\sigma$ shifts at a few wavelengths).  These include using optimal extraction, shrinking the aperture half-width from 3 to 2 pixels, and not ignoring the first five groups for the first round of up-the-ramp fitting.  The last test resulted in transit spectra $\sim$100\,ppm lower, probably due to the reset switch charge decay \citep{argyriou_phd}.
+
+One test that resulted in more substantial changes was using different regions to estimate the background.  Using the rightmost 15 pixels instead of two 15-pixel windows on either side of the trace results in a declining nightside emission spectrum beyond 10\,$\mu$m instead of a flat spectrum, opening up a gap of 300\,ppm at the reddest wavelengths.  The former approach results in fewer
+artifacts in the spectral light curves, but the latter approach results in far cleaner background-subtracted 2D images, making it unclear which approach is best.  Ultimately, we chose the latter approach.  This finding that the nightside spectrum at the reddest wavelengths depends on choices in background subtraction led us to perform our retrievals only on the data shortward of 10.5\,$\mu$m, as detailed in the main text. 
+
+Among all our tests, the ones that most significantly affect our results are those relating to the ramp.  The ramp at the beginning of the observations is degenerate with the phase curve.  Intuitively, any curvature in the light curve can be attributed to either the ramp or the phase curve.  Since we have no independent model of the ramp and do not know its exact functional form, it is difficult to know what to attribute to the ramp and what to attribute to the phase curve. 
+
+When we trim only 30 minutes instead of 60 minutes from the beginning of the observations, both the white light fit and the bluer ($<$8\,$\mu$m) spectroscopic fits strongly prefer negative planetary fluxes for the coldest hemisphere.  The inferred exponential decay timescale is shorter, likely because the ramp has components with many different timescales and the short-timescale contributions are suppressed with more aggressive trimming.  If we fix the timescale to the value found in our fiducial fit, we fail to fit the very rapid decline in flux at the very beginning.  If we fit two exponential ramps instead of one, we obtain larger error bars on inferred parameters, but do not resolve the problem of the fit preferring negative fluxes.  We can resolve the problem by imposing Gaussian priors on the amplitude and timescale of the ramp, but we had no physical justification for these priors. 
+
+In the end, we decided to trim as much data as we could before the first eclipse in order to eliminate as much of the ramp as possible, and assume that the remainder is accurately modelled by a single exponential.  Across all of our tests, the dayside spectrum and the shape of the nightside spectrum shortward of 10\,$\mu$m remain consistent.  The choice of ramp parameters impacts the phase curve primarily by altering the (absolute) nightside flux and therefore the phase curve amplitude, and also the phase curve offset.  Across all of our reductions using reasonable choices for trimming, fitting the ramp, and background subtraction, we find that the phase curve amplitude, offset, and nightside planet-star flux ratio differ by up to 17 ppm, 7$^\circ$, and 40 ppm, respectively in the white light phase curves.  The large uncertainty on the nightside flux, in particular, impacts our estimates of GJ\,1214b's Bond albedo; derived albedos from our various data reductions give values between 0.39 and 0.61.  This implies that our formal error bar on the Bond albedo reported the main text may be underestimated by a factor of up to $\sim$2.  Additionally, as with all phase curve observations, the peak offsets (Extended Data Figure~\ref{fig:amp_offset}) are quite sensitive to the treatment of time-varying systematics and therefore may also have larger uncertainty than the formal error bars suggest.  Ultimately a better understanding of the origin and nature of the ramp is necessary for improving confidence in these derived phase curve parameters.  
+
+
+%In the end, we decided to trim as much data as we could before the first eclipse in order to eliminate as much of the ramp as possible, and hope that the remainder is accurately modelled by a single exponential.  A better understanding of the origin and nature of the ramp is necessary for obtaining robust nightside emission spectra, phase offsets, and phase amplitudes.  Absent such an understanding, our inferred parameters should be regarded as substantially less robust than the dayside emission spectrum.
+
+
+
+
+%\subsection*{Supplementary data reductions}
+%We performed independent reductions of the data using the \texttt{Eureka!} package \cite{eureka} as a further check of the robustness of our results. The \texttt{Eureka!} package uses the stage 1 and 2 reduction routines from the JWST Science Calibration Pipeline. There were four separate \texttt{Eureka!} reductions and they varied in the stage 1 and 2 parameters (e.g., jump detection threshold), size of the spectral extraction window, background estimate, stellar limb darkening, and treatment of the systematics.
+
+%We found that the supplementary reductions gave nearly identical results as our primary reduction for the dayside emission spectrum and the transmission spectrum. Three of the \texttt{Eureka!} reductions gave similar results for the phase curve offset ($\sim50^\circ$) and the shape of the nightside spectrum, although some suggested an overall brighter nightside that corresponds to an average temperature of $\sim$NNN\,K (compare to 437\,K for the primary reduction). One \texttt{Eureka!} reduction gave very large phase curve offsets ($>100^\circ$), and another did not show the dip in the nightside spectrum longward of 10\,$\mu$m due to a difference in the treatment of the background.
+
+%We ultimately chose the reduction described in detail in the preceding sections as the primary result for this paper because it gave the lowest rms of the residuals (significantly outperforming the other reductions at wavelengths $<8\,\mu$m), it was more robust to variations in the reduction and analysis parameters, and it was more extensively developed and tested.
+
+
+%\subsection*{Star and planet parameters}
+%As an independent determination of the basic stellar parameters, we performed an analysis of the broadband spectral energy distribution (SED) of the star together with the {\it Gaia\/} DR3 parallax (with no systematic offset applied; see, e.g., \cite{StassunTorres:2021}), in order to determine an empirical measurement of the stellar radius, following the procedures described in \cite{Stassun:2016,Stassun:2017,Stassun:2018}. We pulled the $JHK_S$ magnitudes from {\it 2MASS}, the W1--W4 magnitudes from {\it WISE}, and the $G G_{\rm RP}$ magnitudes from {\it Gaia}. Together, the available photometry spans the stellar SED over the wavelength range 0.4--22~$\mu$m (see Figure~\ref{fig:sed}).  
+
+%\begin{figure}
+%    \centering
+%\includegraphics[width=0.7\linewidth,trim=70 80 80 80,clip,angle=90]{gj1214_sed.pdf}
+%\caption{Spectral energy distribution of GJ-1214. Red symbols represent the observed photometric measurements, where the horizontal bars represent the effective width of the passband. Blue symbols are the model fluxes from the best-fit NextGen atmosphere model (black).  \label{fig:sed}}
+%\end{figure}
+
+%We performed a fit using NextGen stellar atmosphere models, with the free parameters being the effective temperature ($T_{\rm eff}$) and metallicity ([Fe/H]). The remaining free parameter is the extinction $A_V$, which we fixed at zero due to the star's proximity. For the metallicity, we adopted the spectroscopically measured value of [Fe/H] = $0.2 \pm 0.3$ from \cite{Rojas-Ayala:2012}. The resulting fit (Figure~\ref{fig:sed}) has a reduced $\chi^2$ of 1.0, with $T_{\rm eff} = 3250 \pm 75$~K. Integrating the model SED gives the bolometric flux at Earth, $F_{\rm bol} = 5.76 \pm 0.13 \times 10^{-10}$ erg~s$^{-1}$~cm$^{-2}$. Taking the $F_{\rm bol}$ together with the {\it Gaia\/} parallax directly gives the bolometric luminosity, $L_{\rm bol} = 3.861 \pm 0.090 \times 10^{-3}$~L$_\odot$. The stellar radius the follows from $L_{\rm bol}$ via the Stefan-Boltzmann relation, $R_\star = 0.1959 \pm 0.0091$~R$_\odot$. In addition, we can estimate the stellar mass from the empirical relations of \cite{Mann:2019}, giving $M_\star = 0.209 \pm 0.010$~M$_\odot$. 
+
+%Finally, we can use the star's rotation period to estimate an age via empirical rotation-age relations. The rotation period reported by \cite{Newton:2014} is 55~d, however we adopt twice this value as the more likely estimate. This estimated rotation period implies an age of $\tau_\star = 6.7 \pm 0.7$~Gyr via the empirical relations of \cite{Engle:2018}.
+
+%Note that a previous analysis of the GJ\,1214 stellar parameters by \cite{cloutier21} finds slightly different $L_{\rm bol}$, $R_\star$, and $M_\star$, with the differences ranging from 10\% to 15\%, despite those authors adopting nearly identical $T_{\rm eff}$ and [Fe/H] as above. The differences can be traced to the following. 
+%First, our $L_{\rm bol}$ estimate comes directly from the observed $F_{\rm bol}$ and the {\it Gaia\/} parallax, whereas the $L_{\rm bol}$ estimated by \cite{cloutier21} is derived from $T_{\rm eff}$ and their adopted $R_\star$. We prefer our $L_{\rm bol}$ estimate as it is more direct and empirical. 
+%Second, our $R_\star$ estimate comes from $L_{\rm bol}$, whereas the $R_\star$ estimated by \cite{cloutier21} comes from empirical relations. We prefer our $R_\star$ as it is determined directly from our direct $L_{\rm bol}$ measurement.
+%Finally, our $M_\star$ estimate is from the empirical relations of \cite{Mann:2019}, whereas \cite{cloutier21} use the similar empirical relations from \cite{Benedict:2016}. This is a matter of preference, and the difference reflects the systematics in these types of empirical relations. We note that the $M_\star$ and $R_\star$ we have determined are closer to the $M_\star \approx R_\star$ relationship that is observed for low-mass stars \cite{boyajian12}, hence again we prefer the values determined here.
+
+%The planet parameters are thus...
+
+\subsection*{Temperature Map}
+
+
+
+We followed \cite{cowan2008} in producing a longitudinal brightness map from the white light curve. The planetary flux given by Equation~\ref{eq_flux} is converted to longitude-based sinusoids 
+\begin{align}
+    \frac{F_p(\phi)}{F_*} = A_0 +A_1cos(\phi)+B_1sin(\phi)+A_2cos(2\phi)+B_2sin(2\phi)
+\end{align}
+where $\phi$ is longitude, and 
+\begin{align}
+\begin{array}{l}
+A_0 = (F_p-C_1-C_2)/2 \\
+A_1 = 2C_1/\pi \\
+B_1 = -2D_1/\pi \\
+A_2 = 3C_2/2 \\
+B_2=-3D_2/2.
+\end{array}
+\end{align}
+We then inverted $F_p(\phi)$, assuming blackbody emission, to obtain the corresponding longitudinal brightness temperature curve (Figure~\ref{fig:T_map}, panel a).  By assigning a $\cos(\theta)$ weighting of the planetary flux with latitude, $\theta$, we plot the brightness temperature map (Figure~\ref{fig:T_map}, panel b) using a Robinson projection.  The black region on the map is where the planetary flux is negative. 
+
+%We then estimated $F_p/F_s$ assuming $F_p$ equals blackbody radiation with temperature ranging from 0 to 1000 K and $F_s$ from PHOENIX model. $F(\phi)/F_s$ was interpolated to $Fp_{black body}/Fs$ to calculate the corresponding longitudinal brightness temperature curve (Fig.?? Left). By assigning a $\cos(latitude)$ weight, we plot the brightness temperature map (Fig.?? Right) using Robinson projection.  The black region on the map is where the planetary flux is negative. 
+
+
+\subsection*{Bond Albedo Calculation}
+
+To compute the Bond albedo of GJ\,1214b, we need to answer four questions:
+
+\begin{enumerate}
+\item How much energy per second does the planet receive from its host star?  For illustrative purposes, we calculate the luminosity the planet receives from the star.  This quantity cancels out in the end, since we directly measure $F_p/F_*$, so the error on the quantity is irrelevant. We adopt $2.48 \times 10^{26}$ erg/s.
+\item How much luminosity does the planet radiate from 5 to 12\,$\mu$m?  We measure $F_p/F_*$ as a function of phase and wavelength.  We can derive $F_p$ as a function of phase and wavelength because the stellar spectrum is known fairly accurately.  At each phase, we integrate across 5\,--\,12\,$\mu$m to calculate what the planet luminosity would be if it were isothermal.  Since the planet is not actually isothermal, we then take the mean across all phases.  Our result is $7.1 \pm 0.6 \times 10^{25}$ erg/s, where the error bar is derived from the MCMC samples.
+\item What fraction of total planet luminosity is within 5\,--\,12\,$\mu$m?  For a blackbody, this fraction is close to 50\% for a wide range of temperatures: it is 48\% at 350 K, 57\% at 500 K, 54\% at 600 K, and 49\% at 700 K.  We also computed this value for our GCMs to estimate the impact of the non-isothermal nature of the energy output, and find that for almost every GCM, the value is 50--60\%.  We adopt $54 \pm 4$\% as our fiducial value.  With this assumption, the total planet luminosity becomes $1.31 \pm 0.15 \times 10^{26}$ erg/s.
+\item What is the ratio of the planet flux as seen at infinite distance averaged over the equatorial plane (which is effectively our own viewing geometry), and the planet flux as seen at infinite distance averaged over all angles (which is what is needed to determine the true planet luminosity)?  We can approximate this value by considering the case of zero heat redistribution, in which case the flux the planet radiates would equal the flux it receives from the star at every latitude and longitude.  The emitted flux would therefore be proportional to $\cos(\theta)$.  Further assuming isotropic emission, and integrating the specific intensity, we find that the average observed flux is:
+
+\begin{align}
+F_{\rm equator} = \frac{8}{3} I_{\rm equator} (R/D)^2\\
+F_{\rm avg} = \frac{\pi^2}{4} I_{\rm equator} (R/D)^2,
+\end{align}
+where $I_{\rm equator}$ is the specific intensity of emission from the equator.  The ratio $F_{\rm equator} / F_{\rm avg} = 32/(3\pi^2) = 1.08$ is the correction factor we are looking for.  Happily, it turns out to be a minor correction. We adopt an error of 0.01 on the correction factor.  With this correction, the total planet luminosity becomes $1.21 \pm 0.14 \times 10^{26}$ erg/s.
+\end{enumerate}
+
+The Bond albedo is then $1 - L_p/L_{in}$, where $L_p$ is from step 4 and $L_{in}$ is the incident flux from step 1.  We obtain $A_B = 0.51 \pm 0.06$.
+
+We note that this assumes GJ\,1214b's global energy balance is dominated by the stellar irradiation and that any flux from the interior is negligible in comparison.  If the planet has a considerable intrinsic luminosity (unlikely but not possible to rule out with our data), then the Bond albedo would be even higher.
+
+
+As a consistency check on the previous calculation, we also calculate the Bond albedo directly from the temperature map shown in Figure~\ref{fig:T_map}.  In this case, we calculate $L_{p}$ by directly integrating the temperature field given by the map.  This is then divided by $L_{in}$ and subtracted from unity, to give
+\begin{align}
+    A_B = 1 -  \frac{a^2}{\pi T_{*}^4 R_{*}^2} \iint T_{p}(\theta, \phi)^4 \sin \theta \,d \theta \,d \phi,
+\end{align}
+following Equations 6 and 9 from \cite{keating19}. We obtain a result of \mbox{$A_B = 0.49 \pm 0.05$}, which is consistent with the previous calculation.  We formally adopt the previous calculation of the Bond albedo because it was more directly derived from the observational data.
+
+
+\subsection*{General Circulation Models}
+
+
+We simulated the atmosphere of GJ\,1214b using the SPARC/MITgcm \citep{showman09,kataria13}. The model solves the primitive equations using the dynamical core of Adcroft et al. \citep{adcroft04} and is coupled to wavelength-dependent radiative transfer \citep{marley1999} using the correlated-k method in 11 wavelength bins.
+In the simulations, we used the best-fit system parameters from Ref.~\cite{cloutier21}, an internal temperature of 30\,K, and the same 3,250\,K PHOENIX stellar model described in the data reduction section, above. 
+%In the simulations, we used a planet radius of $1.7469282 \times 10^7$\,m, a gravity of 10.65\,m\,s$^{-2}$, an internal temperature of 30\,K, and the same 3,250\,K PHOENIX stellar model described in the data reduction section, above.
+%The stellar spectrum was interpolated from a grid of PHOENIX models to an effective temperature of 3,250~K. 
+%We used a ratio of the semimajor axis to the stellar radius $a/R_\star$ of 14.9, corresponding to a zero-albedo equilibrium temperature of the planet of 595~K. 
+All simulations assume equilibrium chemistry abundances for the gas. For pressures greater than 10\,bar, we employ a bottom drag that linearly increases with pressure \citep{liu13}, with a maximum drag timescale of $10^{5}$\,s at the bottom layer, and we apply a Shapiro filter throughout the simulation to suppress small-scale numerical noise. Our simulations have a horizontal resolution of C32 (equivalent to 128$\times$64) and vertically extend from 200~bars to $2\times 10^{-7}$~bar, using 60 vertical layers. We used a dynamical timestep of 25~s/10~s and a radiative timestep of 50~s/20~s for metallicities up to 100$\times$~solar/300$\times$~solar and above, respectively. The initial temperature profiles were calculated with the 1D radiative transfer code HELIOS \cite{malik17,malik19}.  All GCMs were run for 1,000~simulation days. 
+
+It has previously been shown that mean molecular weight has a leading order effect on day-night heat transport in tidally locked exoplanet atmospheres, with low mean molecular weight atmospheres (e.g., solar composition) having the most efficient heat transport and therefore producing the smallest phase curve amplitudes and largest peak offsets \cite{zhang17}. Prior 3-D modeling of GJ\,1214b has affirmed this trend in the sub-Neptune regime \cite{kataria14} and has furthermore shown that condensate clouds only moderately perturb the clear atmosphere expectations \cite{charnay15b,charnay15,christie22}.  Thick photochemically-derived hazes however, such as are expected to be present in GJ\,1214b's atmosphere based on prior transmission spectroscopy observations, have not been modeled in GCMs previously.  We include such haze layers in our modeling here, in order to understand their impact on the JWST MIRI phase curve. 
+
+%haze parametrization
+For our simulations with photochemical hazes, we added horizontally uniform haze extinction to the model, with vertical profiles of the optical depth, single-scattering albedo and asymmetry parameter derived from the 1D microphysics model CARMA (Community Aerosol and Radiation Model for Atmospheres) \cite{toon1979,ackerman1995}. In particular, we follow the same haze modeling strategy as \cite{adams19}. Briefly, 10 nm radii spherical seed haze particles are added to the model atmosphere from the topmost model layer with a user-chosen column-integrated production rate and allowed to coagulate with each other to grow to larger sizes. Primary (monomer) haze particle sizes range between a few to a few tens of nm in the atmospheres of hazy solar system worlds \cite{tomasko2009,lavvas2010,gladstone2016}, motivating our choice of 10 nm for the radii of our initial seed particles. These particles are also transported around the atmospheric column via sedimentation and eddy diffusion, with an eddy diffusion coefficient of 10$^7$ cm$^2$ s$^{-1}$ that is constant with altitude. We base this value on the GCM simulations of Ref.~\cite{charnay15b}, The microphysics model assumed a column-integrated haze production rate of $10^{-12}$ g cm$^{-2}$ s$^{-1}$ and a background atmosphere with 100$\times$~solar metallicity. The haze production rate was chosen as a typical value derived from photochemical models \cite[e.g.,][]{kawashima19b}, though its value can vary by orders of magnitude. 
+To simulate higher (or lower) haze production rates in the GCMs, we multiplied the optical depth in each layer of the atmosphere by a fixed scaling factor.  We explored three different cases for the haze optical properties: soot \cite{lavvas17}, tholins \cite{khare84}, and highly reflective hazes.  The latter were constructed to have identical properties as the soots, except that the single-scattering albedo was raised to 0.9999. 
+
+We post-processed the GCM outputs to produce thermal emission spectra using the same plane-parallel radiative transfer code as in the GCM but with 196 wavelength bins. Details on the post-processing procedure can be found in Ref.~\citep{parmentier16}. We additionally post-processed the GCMs with a three-dimensional ray-striking radiative transfer code \cite{kempton2012constraining, savel2023diagnosing} to generate model transmission spectra (Extended Data Figure~\ref{fig:transmission}). We adapted this code to accept the same haze abundance and opacity profiles used in the GCM, employing a similar aerosol implementation to an emission spectroscopy version of this code \citep{harada2021signatures}.  All of our post-processing calculations use the planet-to-star radius ratio ($R_p/R_\star$) from Ref.~\cite{cloutier21}.
+
+
+The full set of GCMs that we ran for this work are listed in Extended Data Table~\ref{tab:gcm_overview}. The 3-D thermal structures and atmospheric dynamics of these GCMs will be described in detail in Steinrueck et al.\ (in prep.).  As described above, our haze model was derived from a 1-D calculation and is therefore homogeneous around the entire planet.  Future work should entail the inclusion of spatially inhomogeneous hazes, including their radiative feedback, and transport, as well as the chemistry that leads to the formation and destruction of the haze particles.
+
+
+
+\subsection*{Retrievals}
+We performed atmospheric retrievals on the dayside and nightside emission spectra of GJ\,1214b using the \texttt{HyDRo} \citep{piette22} and \texttt{CHIMERA}  \citep{Line2013} retrieval frameworks. As described in the main text and in the Methods (``Fitting the time series''), we exclude data points at wavelengths $>$10.5~$\mu$m from the retrieval due to concerns about correlated noise in this region that arise from uncertainty in how to best describe the ramp parameters and choices in background subtraction.  
+
+\texttt{HyDRo}, which builds on the \texttt{HyDRA} \citep{gandhi18,gandhi20,piette20} retrieval code, consists of a parametric atmospheric forward model coupled to a Nested Sampling Bayesian parameter estimation algorithm \citep{skilling06}, \textsc{PyMultiNest}\citep{feroz09,buchner14}. For each model spectrum computed in the parameter exploration, we calculate the likelihood assuming symmetric error bars on the data (calculated by averaging the positive and negative error bars in Extended Data Figure \ref{fig:spectra_vs_phase}). The atmospheric temperature profile is modeled using the parameterization of \citep{madhusudhan09}, which includes 6 parameters and is able to capture the range of temperature structures expected for exoplanet atmospheres. We investigate cases with a range of atmospheric opacity sources, including gas phase species and clouds. The gas phase opacity sources we consider are: H$_2$O\citep{rothman10}, CH$_4$ \citep{yurchenko13,yurchenko14}, CO$_2$\citep{rothman10}, HCN\citep{harris06}, NH$_3$ \citep{yurchenko11}, CO \citep{rothman10}, N$_2$ \citep{barklem16,western18} and collision-induced absorption (CIA) due to H$_2$-H$_2$ and H$_2$-He \citep{richard12}. The absorption cross sections for these species are calculated as described in \citep{gandhi17} using data from the sources cited above. We perform retrievals both with and without the assumption of a H$_2$-dominated background composition. When a H$_2$-rich background is assumed, the constant-with-depth abundance of each species other than H$_2$ or He is a parameter in the retrieval, and a solar H$_2$/He ratio is assumed. When no assumption of the background gas is made, we parameterize the abundances of each species using the centered-log-ratio (CLR) method \citep{benneke12,piette22}, which ensures identical priors for each of the chemical species in the retrieval.
+
+The \texttt{HyDRo} retrievals also consider the effects of clouds using a simple parameterization, including the modal particle size, cloud base pressure ($P_\mathrm{b}$), pressure exponent ($\alpha$), and cloud particle abundance ($f_0$). The particle abundance is assumed to be zero below the cloud base, and to decrease at pressures below $P_\mathrm{b}$, such that at pressure $P$ the abundance is $f_0(P/P_\mathrm{b})^\alpha$. Given the temperatures probed in the atmosphere of GJ\,1214~b, KCl clouds may form on the nightside. We therefore perform retrievals with KCl clouds, using the KCl scattering and absorption properties from \citep{pinhas17}.
+
+We also use \texttt{HyDRo} to calculate the detection significances of various chemical species. These detection significances are calculated by comparing the Bayesian evidences of retrievals which include/exclude the species in question \citep{trotta08,benneke13}. Similarly, the joint detection of two or more species can be calculated by comparing retrievals which include or exclude those species. In order to calculate the significance to which the day/nightside spectrum is inconsistent with a blackbody, we compare the Bayesian evidences of a blackbody model (with a single temperature parameter) and a simple absorption model which includes the six temperature profile parameters described above and the H$_2$O abundance (since H$_2$O is the primary absorber detected on both the dayside and nightside). We find that the observed dayside and nightside spectra are inconsistent with blackbody spectra to 3$\sigma$ and 6$\sigma$, respectively.
+
+We perform a series of \texttt{HyDRo} retrievals on the nightside spectrum to test the sensitivity of our results to various modeling choices. We begin by testing the sensitivity of the retrieval to the species listed above, assuming a H$_2$-rich background composition. We find that the abundances of CO and N$_2$ are completely unconstrained, as expected given their minimal spectral features in this wavelength range. Furthermore, the posterior distribution for the abundance of NH$_3$ shows a strong 99\% upper limit of 10$^{-4.2}$. Given the large number of possible model parameters relative to the number of data points, we remove CO, N$_2$ and NH$_3$ from subsequent retrievals in order to minimize unnecessary parameters. While CO$_2$ was not constrained in this test, we include it out of precaution in the subsequent retrievals, as we found it to be somewhat constrained for some alternative data reductions. We also test the difference between retrievals with and without KCl clouds, finding that cloudy models are not preferred with statistical significance ($<1\sigma$ preference over the clear model). Furthermore, the posterior distributions for all other parameters are unaffected by the addition of clouds. This result does not rule out clouds (or haze) on the nightside of GJ~1214~b, but suggests that such clouds do not show significant spectral features (e.g., if the clouds are deeper than the infrared photosphere). The effects of any clouds may also be taken into account by the retrieved temperature profile which, for example, could mimic a deep cloud layer with a deep isothermal layer.
+
+We further test the effects of assuming a H$_2$-rich background compared to making no assumption about the background composition. We find that both assumptions lead to consistent results. When a H$_2$-rich background is assumed, the detection significances for H$_2$O, CH$_4$ and HCN in the nightside are 2.6$\sigma$, 1.6$\sigma$ and 1.7$\sigma$, respectively. When no assumption is made about the background composition (using the CLR method described above), the detection significances for H$_2$O, CH$_4$ and HCN are 2.5$\sigma$, 1.3$\sigma$ and 1.6$\sigma$, respectively. The tentative detection of H$_2$O is therefore robust across all retrieval models considered, while the inferences of CH$_4$ and HCN are very marginal. Extended Data Figure \ref{fig:retrievals} (panels d, e, f) shows the retrieved nightside spectrum, temperature profile and molecular abundances for our nominal \texttt{HyDRo} retrieval model, which includes H$_2$O, CH$_4$, CO$_2$ and HCN, and assumes a H$_2$-rich background.
+
+We also perform a similar suite of retrievals on the dayside emission spectrum (Extended Data Figure \ref{fig:retrievals} panels a, b, c), and find a tentative 2.5$\sigma$ detection of H$_2$O. Similarly to the nightside, we find that NH$_3$, CO and N$_2$ are not constrained by the retrieval, and we do not find statistically significant evidence for KCl clouds (only a 1.3$\sigma$ preference for the cloudy model over the clear model). The results are consistent whether a H$_2$-rich background is assumed, or no assumption is made about the background composition.
+
+We find that our retrieval results are broadly consistent with the inferences based on GCM models. Hazes (and clouds) are expected to affect mini-Neptune emission spectra via their radiative feedback on the atmospheric temperature profile. For example, purely scattering hazes result in more isothermal temperature profiles in 1D atmospheric models of mini-Neptunes \citep{piette20_MN}. While we do not explicitly include hazes in our retrieval models, we do include KCl clouds in our models, which have qualitatively similar effects on the spectrum as haze.  As discussed above, the clouds are neither ruled out nor statistically preferred over clear-atmosphere models, but we do retrieve a near-isothermal temperature profile for the dayside. This shallow temperature gradient may be a result of strongly reflecting hazes, in agreement with the GCM models described in the main text. Furthermore, the retrieved abundances for H$_2$O are consistent with several hundred times solar for both the dayside and nightside spectra. This is consistent with the high atmospheric metallicities inferred from the GCM models.
+
+In order to further assess the robustness of our H$_2$O detections, we apply leave-one-out cross validation (LOO-CV) to the retrievals on the dayside and nightside spectra, following the method described in \citep{welbanks2022_loo}. We compute the expected log pointwise predictive density (elpd$_{\rm LOO}$), which quantifies the ability of the fitted model to predict unseen data, where each data point in the spectrum is left out in turn \citep{Vehtari2017}. The difference in elpd score between two models ($\Delta$elpd$_{\rm LOO}$) divided by the standard error (SE) can be used as a means of model comparison and as a complementary metric to Bayesian evidence, which is commonly used to calculate detection significances from a retrieval. Comparing models with and without H$_2$O absorption, we find that the models including H$_2$O have higher elpd$_{\rm LOO}$ scores for both the dayside and nightside spectra: $\Delta$elpd$_{\rm LOO}=2.39$ (SE =$1.46$) for the dayside spectrum and $\Delta$elpd$_{\rm LOO}=3.26$ (SE $=1.64$) for the nightside spectrum. These numbers indicate that, in both cases, the inclusion of H$_2$O absorption improves the out of sample predictive performance of the model.
+
+We perform a second retrieval analysis with \texttt{CHIMERA} to ensure that our retrieved inferences are robust against different modelling frameworks and model prescriptions. It has been shown that, to thoroughly explore JWST observations, more than one framework needs to be used, as the precision on the observations is at the level in which model differences can be seen \citep{Barstow2020}. We performed a similar retrieval to the nominal model of HyDRo. We assume that the atmosphere is dominated by H$_2$, with a H$_2$ to He ratio of 0.17. We use the same molecules, however with a different prior assumption for each. For CHIMERA we assume a log prior from -12 to -1, hence each molecule has an upper limit of 10$\%$ of the atmosphere.  
+
+We used a different parameterisation for the thermal structure. We use a double gray analytic temperature-pressure profile from  \cite{Parmentier2014}, which has five free parameters: $T_{\text{irr}}$, $\kappa_{\text{IR}}$, $\gamma_1$, $\gamma_2$ and $\alpha$. $T_{\text{irr}}$ is the irradiation temperature, $\kappa_{\text{IR}}$ is the infrared opacity, the parameters $\gamma_{1}$ and $\gamma_{2}$ are the ratios of the mean opacities in the two visible streams to the thermal stream: $\gamma_{1} = \kappa_{v1} / \kappa_{IR}$ and $\gamma_{2} = \kappa_{v2} / \kappa_{IR}$. The parameter $\alpha$ ranges between 0 and 1, and controls the weighting used between the two visible streams, $\kappa_{v1}$ and $\kappa_{v2}$. 
+
+We find that our retrieved abundances and thermal structure are consistent with HyDRo within 1-sigma. This confirms that our retrieved abundances are robust against model assumptions.
+
+
+
+
+
+\section*{Extended Data Tables and Figures}
+%\newpage
+
+\begin{figure}[h!]
+    \centering
+\includegraphics[width=\linewidth]{spectral_phase_curves.pdf}
+\caption{\textbf{MIRI spectroscopic light curves from 5 to 12\,$\mu$m.} Black lines are the best-fit astrophysical model to the data, assuming a second-order sinusoid functional form for the phase variation.  Colored points are the data binned every 5 degrees in orbital phase, plotted without error bars for clarity.  Wavelength ranges for each light curve are as indicated.  Note the differing y-axis scale on each sub-panel.}
+    \label{fig:spectroscopic_lc} 
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+\includegraphics[width=\linewidth]{spectra_vs_phase.pdf}
+\caption{\textbf{The observed emission spectrum of GJ\,1214b at various orbital phases.}  The upper left and upper right-hand panels correspond to the nightside and dayside emission spectrum, respectively.  Colored lines denote blackbody planetary emission at temperatures of 400, 500, and 600\,K, as indicated in the upper right-hand panel. Black points with 1$\sigma$ error bars are the wavelength-binned phase curve data.}
+    \label{fig:spectra_vs_phase} 
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+\includegraphics[width=\linewidth]{raw_white_lc}
+\caption{\textbf{Raw white light curve for GJ\,1214b.} All the individual integrations are shown in blue. A median filtered (64 points) version of the light curve is shown in orange. For our analysis we discard the 550 integrations (63 min) before the vertical black line.  Note the higher discrepant integrations, some of which correspond to HGA moves (vertical dashed lines); the ramp at the start of observations; and the pre-transit brightening.}
+    \label{fig:raw_white_lc} 
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.0\textwidth]{amp_offset.pdf}
+    \caption{\textbf{Phase curve amplitudes and offsets vs.\ wavelength.} \textbf{a,} The phase curve amplitude is defined as $(F_{max} - F_{min}) / F_{max}$, where $F_{max}$ and $F_{min}$ are the maximum and minimum planet/star flux ratios from the best-fit phase curve model, respectively.  \textbf{b,} The peak offset is defined as the number of degrees in phase away from secondary eclipse at which the peak planet/star flux ratio is achieved. Negative values denote the peak occurring prior to secondary eclipse, meaning that the maximum planetary flux is eastward of the sub-stellar point.  In both panels, colored lines are the GCM-derived values for the same set of models shown in Figure~\ref{fig:fp_day_night} (see that figure's legend).  Models with higher metallicity \mbox{(i.e., $\geq$\,100$\times$ solar)} tend to provide a qualitatively better fit to the data. All error bars are 1$\sigma$.}
+    \label{fig:amp_offset} 
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.0\textwidth]{transmission.pdf}
+    \caption{\textbf{The transmission spectrum of GJ\,1214b.} \textbf{a,} The MIRI data are shown compared to GCM-derived spectra from the same set of GCMs as in Figures~\ref{fig:fp_day_night} and \ref{fig:amp_offset} (see the  legend in Figure~\ref{fig:fp_day_night}). \textbf{b,} The same set of models are shown over a broader wavelength range, with the HST/WFC3 transmission spectrum from Ref.~\cite{kreidberg14} also over-plotted (smaller symbols with error bars). The WFC3 data have been offset by 76 ppm to match the weighted-average transit depth of the MIRI observations in order to account for a mismatch in the system parameters applied in analyzing these two data sets and the potential for other epoch-to-epoch changes in the stellar brightness profile.  Models with higher metallicity and thicker haze provide a qualitatively better fit to the transmission spectrum, in line with our findings from the thermal emission data.  A more detailed interpretation of the MIRI transmission spectrum will be presented in Gao et al.~(submitted). All error bars are 1$\sigma$.}
+    \label{fig:transmission} 
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.86\textwidth]{GJ1214b_retreivals.png}
+    \caption{{\bf Dayside and nightside spectrum retrieval results obtained using the \texttt{HyDRo} atmospheric retrieval framework.} \textbf{a,d,} The best-fit retrieved spectra, and \textbf{b,e} the best-fit retrieved temperature profiles from the dayside and nightside, respectively. Dark red lines show the median retrieved spectrum and temperature profile, while dark/light shading shows the 1$\sigma$ and 2$\sigma$ contours, respectively. The blue points and 1$\sigma$ error bars in panels a and d show the observed spectra. {\bf c,f} The posterior probability distributions for the abundances of H$_2$O, CO$_2$, CH$_4$ and HCN on the dayside and nightside, respectively. The black squares and error bars show the median retrieved abundances and 1~$\sigma$ uncertainties for cases in which a bounded constraint was obtained. Only data at wavelengths $<10.5$~$\mu$m were used in the retrievals to avoid potential systematics at longer wavelengths. The retrievals are able to fit the slight absorption feature at $\lesssim 8$~$\mu$m on the dayside (panel a) with opacity from H$_2$O. The large absorption feature on the nightside at $\lesssim 8$~$\mu$m (panel d) is best fit with opacity from H$_2$O, CH$_4$ and HCN.}
+    \label{fig:retrievals}
+\end{figure}
+
+%\begin{figure}
+%    \centering
+%    \includegraphics[width=0.61\textwidth]{day_ret_spec.pdf}
+%    \includegraphics[width=0.38\textwidth]{day_ret_PT.pdf} \\
+%    \includegraphics[width=\textwidth]{day_ret_post.pdf}
+%    \caption{{\bf Dayside spectrum retrieval results obtained using the \texttt{HyDRo} atmospheric retrieval framework.} \textbf{a,} The best-fit retrieved spectra, and \textbf{b,} the best-fit retrieved temperature profiles. Dark lines show the median retrieved spectrum and temperature profile, while dark/light shading shows the 1$\sigma$ and 2$\sigma$ contours, respectively. The blue points and error bars in panel a show the observed dayside spectrum. {\bf c,} The posterior probability distributions for the abundances of H$_2$O, CO$_2$, CH$_4$ and HCN. The squares and error bars in panel c show the median retrieved abundances and 1~$\sigma$ uncertainties for cases in which a bounded constraint was obtained. Only data at wavelengths $<10.5$~$\mu$m were used in the retrievals to avoid potential systematics at longer wavelengths. The retrievals are able to fit the slight absorption feature at $\lesssim 8$~$\mu$m with opacity from H$_2$O.}
+%    \label{fig:dayside_retrievals}
+%\end{figure}
+
+
+%\begin{figure}
+%    \centering
+%    \includegraphics[width=0.61\textwidth]{night_ret_spec.pdf}
+%    \includegraphics[width=0.38\textwidth]{night_ret_PT.pdf} \\
+%    \includegraphics[width=\textwidth]{night_ret_post.pdf}
+%    \caption{{\bf Nightside spectrum retrieval results obtained using the \texttt{HyDRo} atmospheric retrieval framework.} \textbf{a,} The best-fit retrieved spectra, and \textbf{b,} the best-fit retrieved temperature profiles. Dark lines show the median retrieved spectrum and temperature profile, while dark/light shading shows the 1$\sigma$ and 2$\sigma$ contours, respectively. Blue points and error bars in panel a show the observed nightside spectrum. {\bf c,} The posterior probability distributions for the abundances of H$_2$O, CO$_2$, CH$_4$ and HCN. Black squares and error bars show the median retrieved abundances and 1~$\sigma$ uncertainties for cases in which a bounded constraint was obtained. Only data at wavelengths $<10.5$~$\mu$m were used in the retrievals to avoid potential systematics at longer wavelengths. The retrievals are able to fit the large absorption feature at $\lesssim 8$~$\mu$m with opacity from H$_2$O, CH$_4$ and HCN.}
+%    \label{fig:nightside_retrievals}
+%\end{figure}
+
+
+
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{stellar_spec_comp}
+    \caption{\textbf{Observed stellar spectrum, compared to the PHOENIX model we adopted.}  The top panel shows the modeled and observed spectra. 
+ The bottom panel shows the residuals as a ratio.}
+    \label{fig:stellar_spec_comp} 
+\end{figure}
+
+%\begin{figure}[h]
+%    \centering
+%    \includegraphics[width=0.9\textwidth]{gcm_initial_pt_profiles.pdf}
+%    \caption{\textbf{Initial pressure-temperature profiles used in the GCM.} For the $300 \times$ solar simulation, the initial profile of the $100 \times$ solar case was used.}
+%    \label{fig:gcm_initial_pt_profiles} 
+%\end{figure}
+
+
+
+\begin{table}[h!]
+    \footnotesize
+    \caption{\sep\textbf{Derived phase curve parameters. All units are ppm. The penultimate column (RMS) gives the standard deviation of the unbinned residuals, while the final column (RMS$_b$) is the standard deviation of the residuals binned to 5 degrees in phase (277 integrations).}}
+    \centering
+    \setlength{\tabcolsep}{6pt}
+    \renewcommand*{\arraystretch}{1.4}
+    \begin{tabular}{c C C C C C C C}
+        \hline \hline
+       $\lambda$ ($\mu$m) & E & C_1 & D_1 & C_2 & D_2 & \mathrm{RMS} & \mathrm{RMS}_b \\  
+%        $\lambda$ ($\mu$m) & $E$ & $C_1$ & $D_1$ & $C_2$ & $D_2$ & RMS & RMS$_b$ \\
+        
+        \hline\\[-3mm]
+        5.0 -- 12.0 & 379_{-13}^{+12} & 127_{-4}^{+4} & -139_{-7}^{+7} & 46_{-4}^{+4} & -15_{-4}^{+4} & 280 & 31\\[1mm]
+        \hline\\[-3mm]
+        5.0 -- 5.5 & 134_{-28}^{+30} & 33_{-33}^{+20} & -54_{-28}^{+29} & 6_{-16}^{+14} & -8_{-9}^{+9} & 667 & 70\\
+        5.5 -- 6.0 & 184_{-31}^{+30} & 75_{-22}^{+18} & -68_{-21}^{+21} & 28_{-11}^{+11} & -21_{-9}^{+9} & 703 & 67\\
+        6.0 -- 6.5 & 228_{-29}^{+30} & 89_{-22}^{+16} & -45_{-22}^{+23} & -5_{-12}^{+11} & -23_{-9}^{+9} & 673 & 58\\
+        6.5 -- 7.0 & 241_{-33}^{+33} & 116_{-18}^{+13} & -146_{-21}^{+22} & 31_{-12}^{+11} & -24_{-10}^{+10} & 765 & 62\\
+        7.0 -- 7.5 & 324_{-39}^{+39} & 154_{-19}^{+13} & -45_{-24}^{+29} & 20_{-14}^{+12} & -6_{-12}^{+11} & 803 & 75\\
+        7.5 -- 8.0 & 426_{-41}^{+46} & 196_{-11}^{+10} & -164_{-19}^{+23} & 42_{-11}^{+10} & 1_{-12}^{+12} & 879 & 72\\
+        8.0 -- 8.5 & 474_{-40}^{+39} & 133_{-14}^{+12} & -237_{-20}^{+23} & 67_{-12}^{+12} & -72_{-12}^{+13} & 961 & 62\\
+        8.5 -- 9.0 & 631_{-47}^{+45} & 91_{-34}^{+21} & -90_{-30}^{+35} & 50_{-18}^{+16} & -4_{-14}^{+14} & 1084 & 69\\
+        9.0 -- 9.5 & 604_{-49}^{+49} & 103_{-12}^{+12} & -161_{-21}^{+21} & 63_{-13}^{+12} & 31_{-14}^{+14} & 1165 & 86\\
+        9.5 -- 10.0 & 758_{-57}^{+57} & 161_{-18}^{+16} & -210_{-30}^{+34} & 52_{-16}^{+16} & -10_{-17}^{+17} & 1268 & 76\\
+        10.0 -- 10.5 & 881_{-70}^{+69} & 95_{-17}^{+17} & -281_{-33}^{+35} & 82_{-18}^{+18} & -5_{-20}^{+19} & 1531 & 108\\
+        10.5 -- 11.0 & 962_{-83}^{+83} & 183_{-21}^{+21} & -380_{-35}^{+35} & 129_{-21}^{+21} & -40_{-26}^{+26} & 2067 & 156\\
+        11.0 -- 11.5 & 1174_{-114}^{+110} & 271_{-30}^{+31} & -275_{-55}^{+54} & 174_{-30}^{+31} & -3_{-35}^{+34} & 2786 & 237\\
+        11.5 -- 12.0 & 1180_{-150}^{+148} & 284_{-41}^{+43} & -94_{-72}^{+68} & 218_{-40}^{+40} & 312_{-50}^{+49} & 3848 & 334\\[1mm]
+		\hline
+		\hline 
+    \end{tabular}
+    \label{tab:phase_curve_params}
+\end{table}
+
+\begin{table}
+    \footnotesize
+    \caption{\sep\textbf{Transit parameters inferred from white light curve.}}
+    \centering
+    \setlength{\tabcolsep}{6pt}
+    \renewcommand*{\arraystretch}{1.4}
+    \begin{tabular}{c c}
+        \hline \hline
+        Parameter &  Value \\
+        \hline
+		$T_0$ [BJD (TDB)] & $2459782.0176719 \pm 8.3 \times 10^{-6}$ \\
+		$T_e$ [BJD (TDB)] & $2459782.80880 \pm 1.8 \times 10^{-4}$ \\
+		$a/R_*$ & $14.927_{-0.067}^{+0.072}$ \\
+		$b$ & $0.282_{-0.016}^{+0.014}$ \\
+		\hline
+		\hline 
+    \end{tabular}
+    \label{tab:transit_params}
+\end{table}
+
+\begin{table}
+    \footnotesize
+    \caption{\sep\textbf{Overview of GCM simulations}}
+    \centering
+    \setlength{\tabcolsep}{6pt}
+    \renewcommand*{\arraystretch}{1.4}
+    \begin{tabular}{c c c}
+        \hline \hline
+        metallicity &  haze scaling factor & haze optical properties \\
+        \hline
+		solar & --- & ---  \\
+  		solar & 1 & soot  \\
+      	solar & 1 & max. refl.  \\
+            solar & 10 & max. refl.\\
+		$100 \times$ solar & --- & ---  \\
+		$100 \times$ solar & 0.1 & soot  \\
+  		$100 \times$ solar & 1 & soot  \\
+		$100 \times$ solar & 10 & soot  \\
+    	$100 \times$ solar & 1 & tholin  \\
+		$100 \times$ solar & 10 & tholin  \\
+    	$100 \times$ solar & 1 & max. refl.  \\
+		$100 \times$ solar & 10 & max. refl.  \\
+		$300 \times$ solar & --- & ---  \\
+		$300 \times$ solar & 1 & soot  \\
+		$300 \times$ solar & 10 & soot  \\
+		$300 \times$ solar & 1 & tholin  \\
+		$300 \times$ solar & 10 & tholin  \\
+		$300 \times$ solar & 1 & max. refl.  \\
+		$300 \times$ solar & 10 & max.refl.  \\
+		$300 \times$ solar & 100 & max.refl.  \\
+		$3,000 \times$ solar & --- & ---  \\ 
+		$3,000 \times$ solar & 1 & soot  \\ 
+		$3,000 \times$ solar & 10 & max. refl. \\ 
+		$3,000 \times$ solar & 100 & max. refl.  \\ 
+		\hline
+		\hline 
+    \end{tabular}
+    \label{tab:gcm_overview}
+\end{table}
+
+
+%\begin{table}
+%    \footnotesize
+%    \caption{\sep\textbf{adopted system parameters}}
+%    \centering
+%    \setlength{\tabcolsep}{6pt}
+%    \renewcommand*{\arraystretch}{1.4}
+%    \begin{tabular}{c c c}
+%        \hline \hline
+%        Parameter &  Value & Source \\
+%        \hline
+%		stellar radius, $R_{\star}$ [$R_\odot$] & $0.207 \pm 0.012$ & This work \\
+%		stellar mass, $M_{\star}$ [$M_\odot$] & $0.178 \pm 0.010$ & \cite{cloutier21} \\
+%		stellar effective temperature, $T_{eff}$ [K] & $3250 \pm 100$ & \cite{cloutier21} \\
+%    stellar metallicity, [M/H] [dex] & $0.2 \pm 0.3$ & This work \\
+%		orbital period, $P$ [days] & $1.58040433 \pm 0.00000013$ & \cite{cloutier21}\\
+%            orbital semi-major axis, $a$ [AU] & ??? & This work \\  
+%		planet radius, $R_p$ [$R_{\oplus}$] & $ $ & This work \\
+%		\hline
+%		\hline 
+%    \end{tabular}
+%    \label{tab:system_params}
+%\end{table}
+
+\clearpage
+
+\noindent \textbf{Data Availability}
+The raw data from this study will become publicly available via the Space Science Telescope Institute's Mikulski Archive for Space Telescopes (\url{https://archive.stsci.edu/}) on July 20, 2023. 
+ The following Zenodo repository hosts secondary data products including the white light and spectral light curves, extracted fit parameters, and ipython notebooks to calculate derived quantities: \url{https://zenodo.org/record/7703086#.ZAZk1dLMJhE}.
+\\
+
+\noindent \textbf{Code Availability}\\
+The primary data reduction code used in this paper (\texttt{SPARTA}) is available at \url{https://github.com/ideasrule/sparta}.  The  \texttt{Eureka!} code used for ancillary data analysis is available at \url{https://github.com/kevin218/Eureka}.  We used adapted versions of the SPARC/MITgcm (\url{https://github.com/MITgcm/MITgcm}) and \texttt{CARMA} (\url{https://github.com/ESCOMP/CARMA}) for our GCM and 1-D aerosol modeling, respectively.  The 1-D temperature-pressure profiles used to initialize the GCMs were generated by \texttt{HELIOS} (\url{https://github.com/exoclime/HELIOS}). \\ 
+
+%HyDRo... Chimera...\\
+
+
+\noindent \textbf{Acknowledgements}
+\noindent This work is based on observations made with the NASA/ESA/CSA James Webb Space Telescope. The data were obtained from the Mikulski Archive for Space Telescopes at the Space Telescope Science Institute, which is operated by the Association of Universities for Research in Astronomy, Inc., under NASA contract NAS 5-03127 for JWST. These observations are associated with program \#1803. Support for this program was provided by NASA through a grant from the Space Telescope Science Institute.  This work benefited from the 2022 Exoplanet Summer Program in the Other Worlds Laboratory (OWL) at the University of California, Santa Cruz, a program funded by the Heising-Simons Foundation. EMRK acknowledges funding from the NSF CAREER program (grant \#1931736).  MZ acknowledges support from the 51 Pegasi b Fellowship funded by the Heising-Simons Foundation.  M. Mansfield and LW acknowledge support provided by NASA through the NASA Hubble Fellowship Program. JT acknowledges support from the John Fell Fund and the Candadian Space Agency.\\
+
+\noindent \textbf{Author Contributions}\\
+EMRK and JLB proposed for the observations and co-led the project.
+EMRK led the writing of the paper.
+JLB planned the observations and managed the data analysis.
+MZ performed the primary data reduction.  
+MES, IM, MTR, VP, ER, ABS, KEA, and TK ran, post-processed, and analyzed GCMs.  
+AAAP, JT, MCN, JI, LW, and PM performed retrieval analyses.  
+PG calculated 1-D haze profiles and provided expertise on aerosol physics. 
+M.\,Malik performed \mbox{1-D} forward models of GJ\,1214b.
+QX inverted the observations to generate the global temperature map shown in Figure~\ref{fig:T_map}. 
+KBS, TJB, SZ, ED, AD, and POL performed supplementary data reductions.  
+KBS, M.\,Mansfield, and GF aided in planning the observing strategy.  
+SK provided expertise on the MIRI instrument.
+KGS and TB characterized the star.
+GWH performed photometric monitoring of the star.
+RL provided opacity tables for high mean molecular weight atmosphere modeling.\\
+
+
+\noindent \textbf{Competing Interests}\\
+\noindent The authors declare no competing interests.
+
+
+
+%%===========================================================================================%%
+%% If you are submitting to one of the Nature Portfolio journals, using the eJP submission   %%
+%% system, please include the references within the manuscript file itself. You may do this  %%
+%% by copying the reference list from your .bbl file, paste it into the main manuscript .tex %%
+%% file, and delete the associated \verb+\bibliography+ commands.                            %%
+%%===========================================================================================%%
+
+\bibliography{bibliography}% common bib file
+%% if required, the content of .bbl file can be included here once bbl is generated
+%%\input sn-article.bbl
+
+%% Default %%
+%%\input sn-sample-bib.tex%
+
+
+\end{document}
