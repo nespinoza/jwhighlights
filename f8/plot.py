@@ -142,6 +142,8 @@ models = pickle.load(open('sub-neptune-jwst-model-spectra.pkl','rb'))
 
 # Pop GJ 9827, because it doesn't have 3-5 um spectra:
 spectra.pop('GJ 9827 d')
+# Pop L 98 because best-fit is SiO2/H2S:
+spectra.pop('L 98-59 d')
 
 # Define bins to bin spectra:
 bins1 = np.linspace(3,3.6,5)#8)
@@ -255,7 +257,7 @@ for i in idx:
 plt.xlim(2.9, 5.05)
 plt.xticks([3., 4., 5.], ['3', '4', '5'], fontsize = 16) 
 plt.yticks(fontsize = 16) 
-plt.ylim(-22,13)
+plt.ylim(-23-5,16+5)
 plt.ylabel('$R_p/H$ + offset', fontsize = 18)
 plt.xlabel('Wavelength ($\mu$m)', fontsize = 18)
 plt.colorbar(cpick,pad=0.1,label="$T_{eq}$", ax = plt.gca())
