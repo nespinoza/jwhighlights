@@ -1,8 +1,8 @@
 import numpy as np
 
 
-input_file = 'cycle3_html.txt'
-output_file = 'cycle3.csv'
+input_file = 'cycle4_html.txt'
+output_file = 'cycle4.csv'
 
 f = open(input_file, 'r')
 fout = open(output_file, 'w')
