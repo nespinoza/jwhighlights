@@ -9,12 +9,12 @@ mpl.rcParams['axes.spines.right'] = False
 mpl.rcParams['axes.spines.top'] = False
 
 # Data taken from our study of all the Cycle's data:
-x = np.array([0, 1, 2, 3])  # X-axis (e.g., time or categories)
-y1 = np.array([242.1, 357.57, 227.75, 448.4]) # Disk science
-y2 = np.array([11.1+152.9, 57.33+267.97, 95.48+265.41,103.6+398.2]) # Direct image science
-y3 = np.array([648.3, 658.62, 753.5,1039.9])  # Transit science
-y4 = np.array([110.7+17.9, 13.38+115.11, 127.5+46.46,138.8]) # Eclipse science
-y5 = np.array([220.6, 222.07, 74.68,322.1]) # Phase curves
+x = np.array([0, 1, 2, 3,4])  # X-axis (e.g., time or categories)
+y1 = np.array([242.1, 357.57, 227.75, 448.4,449.5]) # Disk science
+y2 = np.array([11.1+152.9, 57.33+267.97, 95.48+265.41,103.6+398.2,517.9]) # Direct image science
+y3 = np.array([648.3, 658.62, 753.5,1039.9,988.2])  # Transit science
+y4 = np.array([110.7+17.9, 13.38+115.11, 127.5+46.46,138.8,150.9]) # Eclipse science
+y5 = np.array([220.6, 222.07, 74.68,322.1,135.5]) # Phase curves
 
 # Stack the elements
 y = np.vstack([y1, y2, y3, y4, y5])
@@ -36,7 +36,7 @@ plt.xlim(0,3)
 
 # Set labels, fontsizes:
 plt.title('JWST Allocated hours to Exoplanet Science', fontsize=18, fontweight='bold')
-plt.xticks([0, 1, 2, 3], ['Cycle 1', 'Cycle 2', 'Cycle 3', 'Cycle 4'], fontsize = 16)
+plt.xticks([0, 1, 2, 3, 4], ['Cycle 1', 'Cycle 2', 'Cycle 3', 'Cycle 4', 'Cycle 5'], fontsize = 16)
 plt.yticks(fontsize = 16)
 plt.ylabel('Hours', fontsize=18)
 plt.tight_layout()
